@@ -61,6 +61,10 @@ The [public 30-source intake index](../data/intake-register-v1.json) includes so
 
 The [public claim register](../data/source-claim-register-v1.json) contains source-bound editorial paraphrases, stable source IDs, section locators, phrase anchors and explicit limitations. The [private verifier](../tools/verify_claim_anchors.py) rehashes each referenced DOCX against the private intake manifest, then checks each source phrase in document XML. This demonstrates an actual **text occurrence**, not independent historical priority, doctrinal truth, scientific effect, or legal filing. Its separate public-mode verification checks that claim references point only to unrestricted catalog entries and existing public pages.
 
+## Source-to-claim evidence anchoring (2026-10-21)
+
+The [public claim register](../data/source-claim-register-v1.json) contains source-bound editorial paraphrases, stable source IDs, section locators, phrase anchors and explicit limitations. The [private verifier](../tools/verify_claim_anchors.py) rehashes each referenced DOCX against the private intake manifest, then checks each source phrase in document XML. This demonstrates an actual **text occurrence**, not independent historical priority, doctrinal truth, scientific effect, or legal filing. Its public-mode verification checks that claim references point only to nonrestricted catalog entries and existing public pages.
+
 ## Roots typed provenance (2026-10-21)
 
 The [Roots](https://github.com/thebrazenbeard/roots) model and claim-strength checker at `24ed94d69ec07c5bba638de9ed2b8ecfad3cc7ce` were executed against a **partial** two-event receipt documenting the Church foundational package and the author's later clarification. Both partial claim-strength checks passed. **Origin remains unresolved**; a 2025 file modification date is not evidence of a concept's first appearance. The sanitized [public Roots receipt](../data/foundation-roots-receipt.json) records the distinction between whole-system interpretation and historical Indiana filing intent.
