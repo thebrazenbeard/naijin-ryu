@@ -2,13 +2,13 @@
 
 **Naijin-Ryū** is an authored martial-arts and personal-development system joining disciplined movement, the ethical imperative **“Guard Life, Not Ego,”** and the optional spiritual philosophy of **True Ascension**.
 
-Its martial framework is **SURGE**: **Shock, Unbalance, Reversal, Grapple, Environment**. Its martial progression uses the **Sashes of Dawn**, distinct from the **Six Aeons** of the spiritual framework. The proposed **Naijin-Ryu, Church of Ascension** is a related organizational vision; its founding document explicitly treats martial practice as optional.
+Its martial framework is **SURGE**: **Shock, Unbalance, Reversal, Grapple, Environment**. Its martial progression uses the **Sashes of Dawn**, distinct from the **Six Aeons** of the spiritual framework. The **Naijin-Ryu, Church of Ascension Foundational Document Package** is, according to the author, the strongest existing **umbrella account of the collective whole**. Its incorporation sections record a historical Indiana filing idea, **not** an established filing or a statement of current organizational operation. The document explicitly treats martial practice as optional.
 
 ## Explore the knowledge base
 
 | Area | Start here |
 |---|---|
-| How the entire system fits together | [Knowledge map](docs/KNOWLEDGE_MAP.md) |
+| The entire system and the author's integrative foundation | [Foundation](docs/FOUNDATION.md) and [knowledge map](docs/KNOWLEDGE_MAP.md) |
 | Core values, ethical conduct, rank meanings | [Ethos and Sashes of Dawn](docs/ethos-and-progression.md) |
 | Five-pillar martial framework and Rule of Tens | [SURGE](docs/surge.md) and [manual chapter guide](docs/martial/manual-guide.md) |
 | Terminology and equivalent names | [Glossary](docs/glossary.md) |
@@ -18,11 +18,11 @@ Its martial framework is **SURGE**: **Shock, Unbalance, Reversal, Grapple, Envir
 | Mental practices, breath awareness, journaling | [Mental conditioning](docs/practice/mental-conditioning.md) |
 | Aeons, Archons, the Divine Spark and Shadow Walkers | [True Ascension](docs/true-ascension.md) |
 | Reflection and spiritual-practice literature | [Spiritual practices](docs/spiritual/practices.md) and [text study guide](docs/spiritual/texts-and-study.md) |
-| Proposed organization and governance | [Church of Ascension](docs/church.md) |
+| Whole-system Church text and historical Indiana filing proposal | [Foundational document interpretation](docs/church.md) |
 | Camp ideas and dojo/facility plans | [Program concepts](docs/organization/program-concepts.md) |
 | External scientific, safety and legal checks | [Research evidence](docs/research-evidence.md) |
-| Every inventoried source and its review status | [Source catalog](docs/sources.md) |
-| File hashes and source-to-GitHub traceability | [Provenance](docs/provenance.md) and [source manifest](data/source-manifest.json) |
+| Every inventoried source and its review status | [Source catalog](docs/sources.md) and [30-file intake index](data/intake-register-v1.json) |
+| File hashes and source-to-GitHub traceability | [Provenance](docs/provenance.md), [uploaded-source manifest](data/source-manifest.json), and [Ingest/Roots lineage](docs/lineage-method.md) |
 | Protected core values and permitted edits | [Editorial authority](docs/EDITORIAL_AUTHORITY.md) |\n| Publication boundaries and remaining qualifications | [Review and publication policy](docs/REVIEW.md) and [validation checklist](docs/VALIDATION.md) |
 
 ## The four ethical principles
@@ -39,7 +39,7 @@ The working student schedule has a standard **eight-week Phase 1**, **eight-week
 
 This is a **source-traceable editorial knowledge base**, not a claim of clinical effectiveness, martial certification, religious or legal registration, or an active camp or dojo.
 
-The source corpus was inventoried in OneDrive `Documents/Naijin-Ryu` and through uploaded study copies. Thirty OneDrive files were cataloged, including nested spiritual and image materials; nine distinct uploaded study files were inspected. For five DOCX files, uploaded SHA-256 hashes matched the OneDrive originals. Original files remain in OneDrive and with their owners.
+The source corpus was inventoried in OneDrive `Documents/Naijin-Ryu` and through uploaded study copies. **All 30 OneDrive files were admitted to a private Ingest content-addressed store, and all 30 Ingest records passed a deep record audit**. The raw source assets are not included in public GitHub. Nine distinct uploaded study files have their own manifest; five DOCX files were matched to OneDrive originals by SHA-256. A Roots typed receipt treats the Church package's historical filing and current integrative meaning as distinct claims. Original files remain in OneDrive and with their owners.
 
 **The public GitHub repository contains derived, attributed documentation, not a wholesale public release of every original.** The source corpus includes personal spiritual reflection, historical health references, private construction details and highly injurious last-resort techniques. Those originals were not copied into this public branch. See [publication review](docs/REVIEW.md).
 
