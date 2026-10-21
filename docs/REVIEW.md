@@ -17,8 +17,8 @@ A document's technical or medical explanation is a source assertion, not an inde
 
 | Subject | What the sources say | Required disposition |
 |---|---|---|
-| Introductory phase | Six weeks (standalone); eight weeks (student and founder tracks); approximately twelve weeks (main manual lattice) | Author decision on canonical and alternative curricula |
-| Later phases | Different clock calendars and a distinct continuing Guardian/mastery path | Preserve editions and map intentional variants |
+| Introductory phase | Six weeks (standalone); eight weeks (student and founder tracks); approximately twelve weeks (main manual lattice) | **Resolved editorially:** standardize working program at eight weeks; retain six-week accelerated and twelve-week extended variants |
+| Later phases | Different clock calendars and a distinct continuing Guardian/mastery path | Normalized three eight-week phases plus continuing Guardian stage; preserve alternate source calendars |
 | Sash progression | Five sashes, no black belt | Develop standards and evidence for actual instruction |
 | Aeons | Six spiritual stages, nonrigid progression | Keep distinct from technical ranks |
 | Training efficacy | Numerous physiological and tactical assertions | Independent review before claims of effectiveness or harmlessness |
@@ -37,8 +37,8 @@ A document's technical or medical explanation is a source assertion, not an inde
 
 > **HOSTILE REVIEWER:** Could orderly documentation imply a settled, proven school when the files contain conflicting schedules and untested efficacy claims?
 
-**Accepted.** Organizing the corpus does not validate its technical, scientific or legal claims. Unresolved evidence is shown explicitly, and editorial notes remain revisable.
+**Accepted.** Organizing and author-authorized pacing normalization do not validate technical, scientific or legal claims. Alternate editions and remaining evidence gaps stay visible, and editorial notes remain revisable.
 
 ## Next validation work
 
-Compare OneDrive and uploaded binaries by hash, verify PDF/Word editions, cross-index the glossary and source headings, check source references, and obtain relevant specialist review before publishing unqualified safety/legal claims. Merge into `main` only with explicit authorization.
+**Already done:** verified five uploaded DOCX hashes against OneDrive, built the glossary index, selected authorized standard-phase pacing, checked key Indiana camp/IRS and medical claims. **Still needed:** PDF↔Word binary/semantic comparisons, source bibliography validation, professional safety/legal qualifications and publication review of originals. See [provenance](provenance.md) and [external evidence](research-evidence.md). Merge into `main` only with explicit authorization.
