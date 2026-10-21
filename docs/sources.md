@@ -7,16 +7,16 @@
 | Source | Category | Verification |
 |---|---|---|
 | Naijin-Ryū Manual .docx | Core manual | Local upload studied; SHA-256 available in source review |
-| Naijin-Ryū Manual .pdf | Parallel edition | Metadata found; PDF equivalence not yet checked |
+| Naijin-Ryū Manual .pdf | Parallel edition | Metadata found; Extracted textual similarity high; see source-editions.md |
 | Phases of SURGE Training Manual.docx | Student curriculum | Local upload studied |
-| Phases of SURGE Training Manual.pdf | Parallel edition | Metadata found; PDF equivalence not yet checked |
+| Phases of SURGE Training Manual.pdf | Parallel edition | Textual equivalence reviewed; see source-editions.md |
 | Naijin-Ryū Phase1 Mental Conditioning.docx | Mental conditioning | Local upload studied |
 | Phase 1 Fundamentals.pdf | Introductory curriculum | Local PDF studied |
 | Naijin-Ryū Solo-Intensive Training Program (Phases 1–4) – Daily Syllabus and Itinerary-1.pdf | Founder program | Local PDF studied |
 | Stances for Naijin-Ryū.pdf | Stance design | Local PDF and illustrations inspected |
 | Glossary.pdf | Terminology | Local PDF studied |
 | Clear Intent -  Last Resort Combat Manual for the Kurai Tenka.docx | Advanced last-resort source | Local upload inspected; operational detail excluded from public synthesis |
-| Clear Intent -  Last Resort Combat Manual for the Kurai Tenka.pdf | Parallel edition | Metadata found; equivalence unverified |
+| Clear Intent -  Last Resort Combat Manual for the Kurai Tenka.pdf | Parallel edition | Textual equivalence reviewed; see source-editions.md |
 | Camps Overview.docx | Camp proposal | OneDrive text inspected |
 | Camps Overview.pdf | Parallel edition | Metadata found; equivalence unverified |
 | Naijin-Ryū Dojo Extension Build Plan.pdf | Facilities proposal | Metadata found; not publicly reproduced |
@@ -33,10 +33,10 @@ The parent folder also contains **True Ascension**, as described below.
 | A Guide To True Ascension — Plain-language Edition (v1).docx | Accessible restatement |
 | Book of Signs.docx | Symbolic/ethical signs and practices |
 | Confrontation Scripts Appendix.docx | Communication and pattern-reflection scripts |
-| Naijin-Ryu, Church of Ascension – Foundational Document Package.docx | Founding, governance, doctrine and legal drafts |
+| Naijin-Ryu, Church of Ascension – Foundational Document Package.docx | Whole-system integration and a historical Indiana filing draft (per author clarification) |
 | The Aeon Key.docx | Short practical guide |
 | The Aeon Key Workbook.docx | Expanded reflection prompts |
-| The Aeon Key Workbook.pdf | Parallel format |
+| The Aeon Key Workbook.pdf | Parallel format, comparison in source-editions.md |
 | The Complete Guide for Shadow Walkers-A Roadmap to Divinity Copy.docx | Extended shadow-integration framework |
 
 **Nested folders:** `Archetype Integration` includes two Word guides; `The Aeon Key images` includes three image files. These are part of the OneDrive source inventory and not yet approved for public rehosting.
@@ -49,6 +49,6 @@ Nine distinct uploaded filenames were available locally, and the Church Foundati
 
 **Read:** all nine locally uploaded sources; OneDrive-extracted Word text for the core materials, Church package, spiritual guides and camp overview.
 
-**Not fully verified:** all PDF/Word equivalences, embedded assets and diagrams, source claims' scientific accuracy, all bibliographic references, and copyright/authorization for public reproduction.
+**Raw file intake:** all 30 OneDrive originals are admitted and individually receipted in the **private** Ingest store. The record audit verified 30/30 graphs; the store audit flagged 51 unreferenced receipts from earlier failed reads (preserved, not silently deleted), with no corrupt records or orphan raw blobs. [Redacted intake register](../data/intake-register-v1.json).\n\n**PDF study:** text from all 11 PDFs was inspected. Four core Word↔PDF pairs had very high textual overlap; the Aeon Key Workbook had lower extracted-text overlap and retains an edition-review note. See [format comparison](source-editions.md).\n\n**Not fully verified:** visual/embedded assets and diagrams, source claims' scientific accuracy, all bibliographic references, exact print-layout equivalence, and copyright/authorization for public reproduction.
 
 **Inventory coverage:** 16 parent-folder files, 9 True Ascension documents, 2 nested archetype guides, and 3 images = **30 source files**. Some nested archetype content contains private personal reflections and is not reproduced publicly.\n\nThis register is a **provenance index, not the complete original corpus**.
