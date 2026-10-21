@@ -28,7 +28,7 @@ The source describes **seven modern signs** as social or ethical actions rather 
 6. Storm Sovereignty
 7. Temple Fire
 
-It also contains sections called **Twelve Methods of Healing**, **Protocols for Confrontation** and **Resurrection Templates**. “Healing” is religious/reflective wording; the source does not establish clinical efficacy.
+It also contains sections called **Twelve Methods of Healing**, **Protocols for Confrontation** and **Resurrection Templates**. The twelve methods belong to three source-named groups of four; see the [Book of Signs source study](book-of-signs-study.md). “Healing” is religious/reflective wording; the source does not establish clinical efficacy.
 
 ## The Aeon Key
 
