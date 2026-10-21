@@ -1,0 +1,420 @@
+{
+  "schema": "NRY_SOURCE_CLAIM_REGISTER_V1",
+  "date": "2026-10-21",
+  "source_scope": "30-file private Ingest corpus; public nonrestricted source references only",
+  "method": "Terms in source. Anchors checked against Word source bytes by private local verifier; presence proves text occurrence only, not claim truth, causal derivation, efficacy or legal status.",
+  "evidence_statuses": [
+    "SOURCE_RECORDED"
+  ],
+  "claim_types": [
+    "MARTIAL_ETHOS",
+    "MARTIAL_STRUCTURE",
+    "TRAINING_SCHEDULE",
+    "SPIRITUAL_PRACTICE",
+    "ORGANIZATIONAL_PROPOSAL",
+    "SPIRITUAL_DOCTRINE",
+    "HISTORICAL_DRAFT"
+  ],
+  "claims": [
+    {
+      "id": "NRY-C001",
+      "claim_type": "MARTIAL_ETHOS",
+      "evidence_status": "SOURCE_RECORDED",
+      "statement": "Four named ethical principles guide the martial discipline, including guarding life over ego and treating skill as a sacred responsibility.",
+      "source": {
+        "source_id": "NRY-007",
+        "locator": "I. Core Ethos and Philosophical Grounding",
+        "anchors": [
+          "Guard Life, Not Ego",
+          "Skill as Sacrament"
+        ]
+      },
+      "public_document": "docs/ethos-and-progression.md",
+      "limitation": "Values stated by the author, not demonstrated training outcomes."
+    },
+    {
+      "id": "NRY-C002",
+      "claim_type": "MARTIAL_STRUCTURE",
+      "evidence_status": "SOURCE_RECORDED",
+      "statement": "The five Sashes of Dawn provide the authored martial rank vocabulary; a black-belt label is not the system's own terminal rank.",
+      "source": {
+        "source_id": "NRY-007",
+        "locator": "II. Rank Structure – Sashes of Dawn",
+        "anchors": [
+          "Sashes of Dawn",
+          "White-Flare"
+        ]
+      },
+      "public_document": "docs/ethos-and-progression.md",
+      "limitation": "Rank descriptions do not establish certification or existing instructors."
+    },
+    {
+      "id": "NRY-C003",
+      "claim_type": "MARTIAL_STRUCTURE",
+      "evidence_status": "SOURCE_RECORDED",
+      "statement": "The five SURGE pillars are Shock, Unbalance, Reversal, Grapple and Environment.",
+      "source": {
+        "source_id": "NRY-007",
+        "locator": "III. Technical Foundations",
+        "anchors": [
+          "SURGE",
+          "Shock",
+          "Environment"
+        ]
+      },
+      "public_document": "docs/surge.md",
+      "limitation": "Source taxonomy, not validated combat efficacy."
+    },
+    {
+      "id": "NRY-C004",
+      "claim_type": "MARTIAL_STRUCTURE",
+      "evidence_status": "SOURCE_RECORDED",
+      "statement": "The Rule of Tens constrains the main technical vocabulary per SURGE pillar.",
+      "source": {
+        "source_id": "NRY-007",
+        "locator": "III. Technical Foundations",
+        "anchors": [
+          "Rule of Tens"
+        ]
+      },
+      "public_document": "docs/surge.md",
+      "limitation": "A design convention, not evidence a proposed technique is safe."
+    },
+    {
+      "id": "NRY-C005",
+      "claim_type": "MARTIAL_ETHOS",
+      "evidence_status": "SOURCE_RECORDED",
+      "statement": "The main manual includes an ethical force-escalation framework.",
+      "source": {
+        "source_id": "NRY-007",
+        "locator": "VII. Ethical Force Escalation Framework",
+        "anchors": [
+          "Ethical Force Escalation Framework"
+        ]
+      },
+      "public_document": "docs/martial/manual-guide.md",
+      "limitation": "Not a statement of legal self-defense authority."
+    },
+    {
+      "id": "NRY-C006",
+      "claim_type": "TRAINING_SCHEDULE",
+      "evidence_status": "SOURCE_RECORDED",
+      "statement": "The main martial manual contains a longer Curriculum Lattice as well as a more accelerated implementation.",
+      "source": {
+        "source_id": "NRY-007",
+        "locator": "IV. Training Curriculum and Stages",
+        "anchors": [
+          "Curriculum Lattice"
+        ]
+      },
+      "public_document": "docs/curriculum.md",
+      "limitation": "The editorial eight-week student standard is a later approved harmonization."
+    },
+    {
+      "id": "NRY-C007",
+      "claim_type": "TRAINING_SCHEDULE",
+      "evidence_status": "SOURCE_RECORDED",
+      "statement": "The student SURGE manual places Phase 1 at weeks 1–8 with four training days per week.",
+      "source": {
+        "source_id": "NRY-013",
+        "locator": "Part I Phase 1",
+        "anchors": [
+          "Phase 1",
+          "Weeks 1–8"
+        ]
+      },
+      "public_document": "docs/curriculum.md",
+      "limitation": "Calendar does not prove readiness or physical safety."
+    },
+    {
+      "id": "NRY-C008",
+      "claim_type": "TRAINING_SCHEDULE",
+      "evidence_status": "SOURCE_RECORDED",
+      "statement": "The student manual places Phase 2 at weeks 9–16 and Phase 3 at weeks 17–24.",
+      "source": {
+        "source_id": "NRY-013",
+        "locator": "Part I Phase 2 and Phase 3",
+        "anchors": [
+          "Weeks 9–16",
+          "Weeks 17–24"
+        ]
+      },
+      "public_document": "docs/curriculum.md",
+      "limitation": "Higher weekly frequency remains optional/individualized in application."
+    },
+    {
+      "id": "NRY-C009",
+      "claim_type": "TRAINING_SCHEDULE",
+      "evidence_status": "SOURCE_RECORDED",
+      "statement": "The Guardian's Path appears as the continuing fourth/mastery phase rather than a fixed endpoint.",
+      "source": {
+        "source_id": "NRY-013",
+        "locator": "Part II Phase 4 Overview",
+        "anchors": [
+          "The Guardian",
+          "Phase 4"
+        ]
+      },
+      "public_document": "docs/curriculum.md",
+      "limitation": "Elapsed months alone do not confer rank or teaching authority."
+    },
+    {
+      "id": "NRY-C010",
+      "claim_type": "SPIRITUAL_PRACTICE",
+      "evidence_status": "SOURCE_RECORDED",
+      "statement": "The first-phase mental-conditioning source organizes five days by pillar-centered themes.",
+      "source": {
+        "source_id": "NRY-009",
+        "locator": "Training Schedule Overview; Days 1–5",
+        "anchors": [
+          "Day 1",
+          "Day 5"
+        ]
+      },
+      "public_document": "docs/practice/mental-conditioning.md",
+      "limitation": "Physiological efficacy is not established by source text."
+    },
+    {
+      "id": "NRY-C011",
+      "claim_type": "ORGANIZATIONAL_PROPOSAL",
+      "evidence_status": "SOURCE_RECORDED",
+      "statement": "The camp source describes regulatory, staffing, activity, emergency and psychological-safety planning needs.",
+      "source": {
+        "source_id": "NRY-001",
+        "locator": "Camps Overview section headings",
+        "anchors": [
+          "Legal Requirements & Licensing",
+          "Psychological Safety"
+        ]
+      },
+      "public_document": "docs/organization/program-concepts.md",
+      "limitation": "No camp operating status or licensing follows from a plan."
+    },
+    {
+      "id": "NRY-C012",
+      "claim_type": "SPIRITUAL_DOCTRINE",
+      "evidence_status": "SOURCE_RECORDED",
+      "statement": "The Church package contains identity and broad doctrine, governance drafts and voluntary spiritual-practice sections.",
+      "source": {
+        "source_id": "NRY-023",
+        "locator": "Sections 1–8",
+        "anchors": [
+          "Formal Name and Identity",
+          "Spiritual Practices Overview"
+        ]
+      },
+      "public_document": "docs/church.md",
+      "limitation": "The author's current umbrella characterization is a separate direct clarification."
+    },
+    {
+      "id": "NRY-C013",
+      "claim_type": "HISTORICAL_DRAFT",
+      "evidence_status": "SOURCE_RECORDED",
+      "statement": "The Church package includes draft Indiana nonprofit articles and bylaws.",
+      "source": {
+        "source_id": "NRY-023",
+        "locator": "Sections 5–6",
+        "anchors": [
+          "Articles of Incorporation Language (Indiana Nonprofit)",
+          "Bylaws Outline"
+        ]
+      },
+      "public_document": "docs/church.md",
+      "limitation": "A draft is not an established filing, registration or approval."
+    },
+    {
+      "id": "NRY-C014",
+      "claim_type": "SPIRITUAL_DOCTRINE",
+      "evidence_status": "SOURCE_RECORDED",
+      "statement": "The full True Ascension guide has seven principal sections ranging from cosmology to a concluding account of spiritual return.",
+      "source": {
+        "source_id": "NRY-018",
+        "locator": "Sections I–VII",
+        "anchors": [
+          "The Nature of Existence",
+          "The Final Truth"
+        ]
+      },
+      "public_document": "docs/spiritual/texts-and-study.md",
+      "limitation": "Source-authored metaphysical concepts, not external evidence."
+    },
+    {
+      "id": "NRY-C015",
+      "claim_type": "SPIRITUAL_DOCTRINE",
+      "evidence_status": "SOURCE_RECORDED",
+      "statement": "The plain-language edition enumerates six Aeons with symbolic interpretations.",
+      "source": {
+        "source_id": "NRY-017",
+        "locator": "The Six Steps (Aeons)",
+        "anchors": [
+          "The Six Steps",
+          "Mastery of Perception"
+        ]
+      },
+      "public_document": "docs/spiritual/aeons-and-archons.md",
+      "limitation": "The symbols are part of teaching material, not clinical stages."
+    },
+    {
+      "id": "NRY-C016",
+      "claim_type": "SPIRITUAL_DOCTRINE",
+      "evidence_status": "SOURCE_RECORDED",
+      "statement": "The plain-language edition names Ignorance, Desire, Fear, False Revelation, Control and Demiurge as blockers or enclosing systems.",
+      "source": {
+        "source_id": "NRY-017",
+        "locator": "Who/What Are the Archons?",
+        "anchors": [
+          "Who/What Are the Archons",
+          "False Revelation"
+        ]
+      },
+      "public_document": "docs/spiritual/aeons-and-archons.md",
+      "limitation": "These labels do not establish supernatural entities or diagnoses."
+    },
+    {
+      "id": "NRY-C017",
+      "claim_type": "SPIRITUAL_DOCTRINE",
+      "evidence_status": "SOURCE_RECORDED",
+      "statement": "The full guide includes a distinct Shadow Walker chapter.",
+      "source": {
+        "source_id": "NRY-018",
+        "locator": "VI. The Shadow Walker",
+        "anchors": [
+          "The Shadow Walker"
+        ]
+      },
+      "public_document": "docs/true-ascension.md",
+      "limitation": "Metaphorical/spiritual framework, not an objective personality type."
+    },
+    {
+      "id": "NRY-C018",
+      "claim_type": "SPIRITUAL_PRACTICE",
+      "evidence_status": "SOURCE_RECORDED",
+      "statement": "The Book of Signs has seven named modern signs.",
+      "source": {
+        "source_id": "NRY-021",
+        "locator": "I. The Seven Modern Signs",
+        "anchors": [
+          "The Seven Modern Signs of the Ascended",
+          "The Sign of Temple Fire"
+        ]
+      },
+      "public_document": "docs/spiritual/book-of-signs-study.md",
+      "limitation": "The source explicitly frames the signs as lived acts, not literal magic."
+    },
+    {
+      "id": "NRY-C019",
+      "claim_type": "SPIRITUAL_PRACTICE",
+      "evidence_status": "SOURCE_RECORDED",
+      "statement": "The Book of Signs groups twelve named reflective methods under Emotional Repatterning, Somatic Liberation and Erotic Sovereignty.",
+      "source": {
+        "source_id": "NRY-021",
+        "locator": "II. Twelve Methods of Healing",
+        "anchors": [
+          "Twelve Methods of Healing",
+          "Emotional Repatterning",
+          "Somatic Liberation",
+          "Erotic Sovereignty"
+        ]
+      },
+      "public_document": "docs/spiritual/book-of-signs-study.md",
+      "limitation": "The source's 'healing' labels are not clinical efficacy claims."
+    },
+    {
+      "id": "NRY-C020",
+      "claim_type": "SPIRITUAL_PRACTICE",
+      "evidence_status": "SOURCE_RECORDED",
+      "statement": "The Book of Signs includes separate short confrontation protocols.",
+      "source": {
+        "source_id": "NRY-021",
+        "locator": "III. Protocols for Confrontation",
+        "anchors": [
+          "Protocols for Confrontation",
+          "Internal Gatekeeper Deactivation"
+        ]
+      },
+      "public_document": "docs/spiritual/book-of-signs-study.md",
+      "limitation": "Interpersonal labels cannot determine a third party's motives."
+    },
+    {
+      "id": "NRY-C021",
+      "claim_type": "SPIRITUAL_PRACTICE",
+      "evidence_status": "SOURCE_RECORDED",
+      "statement": "The Book of Signs concludes with five named Resurrection Templates.",
+      "source": {
+        "source_id": "NRY-021",
+        "locator": "IV. Resurrection Templates",
+        "anchors": [
+          "Resurrection Templates",
+          "Resurrect the Prophetic Flame"
+        ]
+      },
+      "public_document": "docs/spiritual/book-of-signs-study.md",
+      "limitation": "Ritual/metaphorical terminology, not a medical resurrection claim."
+    },
+    {
+      "id": "NRY-C022",
+      "claim_type": "SPIRITUAL_PRACTICE",
+      "evidence_status": "SOURCE_RECORDED",
+      "statement": "The short Aeon Key contains five self-reflection modules beginning with Clear the Static and ending with Step Outside the Noise.",
+      "source": {
+        "source_id": "NRY-029",
+        "locator": "Five numbered modules",
+        "anchors": [
+          "Clear the Static",
+          "Step Outside the Noise"
+        ]
+      },
+      "public_document": "docs/spiritual/practices.md",
+      "limitation": "It is voluntary reflective writing."
+    },
+    {
+      "id": "NRY-C023",
+      "claim_type": "SPIRITUAL_PRACTICE",
+      "evidence_status": "SOURCE_RECORDED",
+      "statement": "The longer Aeon Key workbook adds journaling prompts and note spaces to its five modules.",
+      "source": {
+        "source_id": "NRY-027",
+        "locator": "Five numbered modules and Notes",
+        "anchors": [
+          "Clear the Static",
+          "Write About",
+          "Grounding Notes"
+        ]
+      },
+      "public_document": "docs/spiritual/texts-and-study.md",
+      "limitation": "Word/PDF pair requires distinct edition tracking."
+    },
+    {
+      "id": "NRY-C024",
+      "claim_type": "SPIRITUAL_PRACTICE",
+      "evidence_status": "SOURCE_RECORDED",
+      "statement": "The Confrontation Scripts Appendix indexes 25 named interpersonal-pattern scripts.",
+      "source": {
+        "source_id": "NRY-022",
+        "locator": "Scripts 1–25",
+        "anchors": [
+          "The Gaslighting Spiral",
+          "The Vanishing Validator"
+        ]
+      },
+      "public_document": "docs/spiritual/texts-and-study.md",
+      "limitation": "Scripts are not proof of diagnosis or malicious intent in any particular person."
+    },
+    {
+      "id": "NRY-C025",
+      "claim_type": "SPIRITUAL_DOCTRINE",
+      "evidence_status": "SOURCE_RECORDED",
+      "statement": "The complete Shadow Walkers roadmap has six major sections, including the cosmic landscape, Aeonic journey and final reflections.",
+      "source": {
+        "source_id": "NRY-030",
+        "locator": "Sections I–VI",
+        "anchors": [
+          "The Cosmic and Spiritual Landscape",
+          "Final Reflections"
+        ]
+      },
+      "public_document": "docs/spiritual/texts-and-study.md",
+      "limitation": "Thematic reuse does not prove chronological authorship or direct descent."
+    }
+  ]
+}
