@@ -23,7 +23,7 @@ A document's technical or medical explanation is a source assertion, not an inde
 | Aeons | Six spiritual stages, nonrigid progression | Keep distinct from technical ranks |
 | Training efficacy | Numerous physiological and tactical assertions | Independent review before claims of effectiveness or harmlessness |
 | Mental practices | Breathing, visualization, journaling described using neuroscientific language | Evaluate evidence; do not claim psychotherapy |
-| Organizational formation | Names, articles and bylaws appear in drafts | Check official filings, law, governance before asserting status |
+| Historical Church filing language | The author considered submitting the foundational package for an Indiana state filing; also identifies it as the best whole-system description | Preserve doctrine as integrative foundation; **do not** infer filing, approval, incorporation or current operation |
 | Facilities and camps | Planning documents, including an address-specific site | Separate public concept from private details and permitted operations |
 
 ## Editorial invariants
@@ -41,4 +41,4 @@ A document's technical or medical explanation is a source assertion, not an inde
 
 ## Next validation work
 
-**Already done:** verified five uploaded DOCX hashes against OneDrive, built the glossary index, selected authorized standard-phase pacing, checked key Indiana camp/IRS and medical claims. **Still needed:** PDF↔Word binary/semantic comparisons, source bibliography validation, professional safety/legal qualifications and publication review of originals. See [provenance](provenance.md) and [external evidence](research-evidence.md). Merge into `main` only with explicit authorization.
+**Already done:** verified five uploaded DOCX hashes against OneDrive; privately ingested 30 originals; inspected all 15 Word structures and extracted text from 11 PDFs; measured five Word↔PDF text overlaps; built glossary index; selected authorized student-phase pacing; checked key Indiana camp/IRS and medical claims; created a Roots partial receipt for the Church interpretation. **Still needed:** image/layout comparison; some PDF wording and bibliographies; professional safety/legal qualifications; and consent/copyright review of any original-file public release. See [provenance](provenance.md), [edition comparisons](source-editions.md), [whole-system foundation](FOUNDATION.md), and [external evidence](research-evidence.md). Merge into `main` only with explicit authorization.
