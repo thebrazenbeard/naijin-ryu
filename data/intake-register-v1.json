@@ -1,0 +1,319 @@
+{
+  "schema": "NRY_PUBLIC_INTAKE_INDEX_V1",
+  "source_scope": "OneDrive/Documents/Naijin-Ryu; 30 original files; confidential bytes remain in a private local CAS",
+  "ingest_repo_commit": "e55af474323f2115c5181b443760b8427090562f",
+  "roots_repo_commit": "24ed94d69ec07c5bba638de9ed2b8ecfad3cc7ce",
+  "record_audit": {
+    "records_ok": 30,
+    "records_corrupt": 0
+  },
+  "store_audit": {
+    "status": "ISSUES",
+    "orphan_stage_receipts": 51,
+    "orphan_raw_blobs": 0,
+    "meaning": "Failed initial Cloud hydration attempts generated unreferenced receipts; preserved for later investigation"
+  },
+  "raw_files_publicly_copied": false,
+  "items": [
+    {
+      "source_id": "NRY-001",
+      "display": "Camps Overview.docx",
+      "domain": "martial-and-programs",
+      "file_type": ".docx",
+      "bytes": 34579,
+      "raw_sha256": "f3c498e2f5d73b539f50ba7545f14d0f02ea0258b66ad1ba87fc105e73beae0c",
+      "publication": "review-required",
+      "ingest": "ADMITTED"
+    },
+    {
+      "source_id": "NRY-002",
+      "display": "Camps Overview.pdf",
+      "domain": "martial-and-programs",
+      "file_type": ".pdf",
+      "bytes": 246872,
+      "raw_sha256": "a451ee3f84218bd65e8c62a210a2647a7c42dcad0ebaf0499aa5374110b3d92b",
+      "publication": "review-required",
+      "ingest": "ADMITTED"
+    },
+    {
+      "source_id": "NRY-003",
+      "display": "WITHHELD PRIVATE SOURCE NRY-003",
+      "domain": "martial-and-programs",
+      "file_type": ".docx",
+      "bytes": 52991,
+      "raw_sha256": null,
+      "publication": "restricted",
+      "ingest": "ADMITTED"
+    },
+    {
+      "source_id": "NRY-004",
+      "display": "WITHHELD PRIVATE SOURCE NRY-004",
+      "domain": "martial-and-programs",
+      "file_type": ".pdf",
+      "bytes": 358371,
+      "raw_sha256": null,
+      "publication": "restricted",
+      "ingest": "ADMITTED"
+    },
+    {
+      "source_id": "NRY-005",
+      "display": "WITHHELD PRIVATE SOURCE NRY-005",
+      "domain": "martial-and-programs",
+      "file_type": ".png",
+      "bytes": 94673,
+      "raw_sha256": null,
+      "publication": "restricted",
+      "ingest": "ADMITTED"
+    },
+    {
+      "source_id": "NRY-006",
+      "display": "Glossary.pdf",
+      "domain": "martial-and-programs",
+      "file_type": ".pdf",
+      "bytes": 348185,
+      "raw_sha256": "f537f4002dd3188494702ba0e0cfe952da81db7b79999a6d72c411ce69ceef8e",
+      "publication": "review-required",
+      "ingest": "ADMITTED"
+    },
+    {
+      "source_id": "NRY-007",
+      "display": "Naijin-Ryū Manual .docx",
+      "domain": "martial-and-programs",
+      "file_type": ".docx",
+      "bytes": 88278,
+      "raw_sha256": "de246912fd43176929834376e052f3c5c9a1a035fc857edd90b54afee2391ba8",
+      "publication": "review-required",
+      "ingest": "ADMITTED"
+    },
+    {
+      "source_id": "NRY-008",
+      "display": "Naijin-Ryū Manual .pdf",
+      "domain": "martial-and-programs",
+      "file_type": ".pdf",
+      "bytes": 554096,
+      "raw_sha256": "6a2588ffc8c57d414b421022fb0cf7bf1a46c18b8a4b83ab0488c0c194c1744a",
+      "publication": "review-required",
+      "ingest": "ADMITTED"
+    },
+    {
+      "source_id": "NRY-009",
+      "display": "Naijin-Ryū Phase1 Mental Conditioning.docx",
+      "domain": "martial-and-programs",
+      "file_type": ".docx",
+      "bytes": 39137,
+      "raw_sha256": "5145492e7f0165bd53126273f201962775989a82eb09b009eb66b8817ef49b1d",
+      "publication": "review-required",
+      "ingest": "ADMITTED"
+    },
+    {
+      "source_id": "NRY-010",
+      "display": "Naijin-Ryū Solo-Intensive Training Program (Phases 1–4) – Daily Syllabus and Itinerary-1.pdf",
+      "domain": "martial-and-programs",
+      "file_type": ".pdf",
+      "bytes": 208719,
+      "raw_sha256": "2824dfbb28a1bc7d72ad6f8c39fc9b5f2b4479cc1e5241433f2fcacba70dc952",
+      "publication": "review-required",
+      "ingest": "ADMITTED"
+    },
+    {
+      "source_id": "NRY-011",
+      "display": "Naijin‑Ryū Dojo Extension Build Plan.pdf",
+      "domain": "martial-and-programs",
+      "file_type": ".pdf",
+      "bytes": 152082,
+      "raw_sha256": "d4a3a991d87e51af87ba9d6fee260e60058b6574f0bb91bac59558190fd6648a",
+      "publication": "review-required",
+      "ingest": "ADMITTED"
+    },
+    {
+      "source_id": "NRY-012",
+      "display": "Phase 1 Fundamentals.pdf",
+      "domain": "martial-and-programs",
+      "file_type": ".pdf",
+      "bytes": 114720,
+      "raw_sha256": "5b6861d0fb20a4455fedb1a1977768558833fa1424e67663b52ef6b638471926",
+      "publication": "review-required",
+      "ingest": "ADMITTED"
+    },
+    {
+      "source_id": "NRY-013",
+      "display": "Phases of SURGE Training Manual.docx",
+      "domain": "martial-and-programs",
+      "file_type": ".docx",
+      "bytes": 62282,
+      "raw_sha256": "b5352a6b2afb4d3d1812ebb95dfe257431f3078dfc6fc97f804a4732338df00c",
+      "publication": "review-required",
+      "ingest": "ADMITTED"
+    },
+    {
+      "source_id": "NRY-014",
+      "display": "Phases of SURGE Training Manual.pdf",
+      "domain": "martial-and-programs",
+      "file_type": ".pdf",
+      "bytes": 348248,
+      "raw_sha256": "fb226381c73b0ca25e80fbb347d4caa0aa0f24e53610ebf3201a5e61d9b54b84",
+      "publication": "review-required",
+      "ingest": "ADMITTED"
+    },
+    {
+      "source_id": "NRY-015",
+      "display": "WITHHELD PRIVATE SOURCE NRY-015",
+      "domain": "martial-and-programs",
+      "file_type": ".pdf",
+      "bytes": 37460,
+      "raw_sha256": null,
+      "publication": "restricted",
+      "ingest": "ADMITTED"
+    },
+    {
+      "source_id": "NRY-016",
+      "display": "Stances for Naijin-Ryū.pdf",
+      "domain": "martial-and-programs",
+      "file_type": ".pdf",
+      "bytes": 162412,
+      "raw_sha256": "147b09ffa7f97487012c36807959c9dc388e67c9ff7b4c08f671e503ae9f9700",
+      "publication": "review-required",
+      "ingest": "ADMITTED"
+    },
+    {
+      "source_id": "NRY-017",
+      "display": "A Guide To True Ascension — Plain‑language Edition (v1).docx",
+      "domain": "true-ascension",
+      "file_type": ".docx",
+      "bytes": 14905,
+      "raw_sha256": "1f399000a2f52cdd0bc8a6f923dfcd7c1efab222796e9db1bbc674e52a84c499",
+      "publication": "review-required",
+      "ingest": "ADMITTED"
+    },
+    {
+      "source_id": "NRY-018",
+      "display": "A Guide to True Ascension.docx",
+      "domain": "true-ascension",
+      "file_type": ".docx",
+      "bytes": 40575,
+      "raw_sha256": "2a226c8e90f7f82621e6573a18795af93f0a834416e0359f359f0ff5b53bf03a",
+      "publication": "review-required",
+      "ingest": "ADMITTED"
+    },
+    {
+      "source_id": "NRY-019",
+      "display": "WITHHELD PRIVATE SOURCE NRY-019",
+      "domain": "true-ascension",
+      "file_type": ".docx",
+      "bytes": 82779,
+      "raw_sha256": null,
+      "publication": "restricted",
+      "ingest": "ADMITTED"
+    },
+    {
+      "source_id": "NRY-020",
+      "display": "WITHHELD PRIVATE SOURCE NRY-020",
+      "domain": "true-ascension",
+      "file_type": ".docx",
+      "bytes": 82814,
+      "raw_sha256": null,
+      "publication": "restricted",
+      "ingest": "ADMITTED"
+    },
+    {
+      "source_id": "NRY-021",
+      "display": "Book of Signs.docx",
+      "domain": "true-ascension",
+      "file_type": ".docx",
+      "bytes": 20079,
+      "raw_sha256": "a2edabdb8ff0ed4cdfbd823883076372b1ae6219738c0ae718edaa197a91165b",
+      "publication": "review-required",
+      "ingest": "ADMITTED"
+    },
+    {
+      "source_id": "NRY-022",
+      "display": "Confrontation Scripts Appendix.docx",
+      "domain": "true-ascension",
+      "file_type": ".docx",
+      "bytes": 18044,
+      "raw_sha256": "80f393e32ae5a39f33f2e572fb4db9af9dccfd330af37308f8d5bdaa419743a2",
+      "publication": "review-required",
+      "ingest": "ADMITTED"
+    },
+    {
+      "source_id": "NRY-023",
+      "display": "Naijin-Ryu, Church of Ascension – Foundational Document Package.docx",
+      "domain": "true-ascension",
+      "file_type": ".docx",
+      "bytes": 51842,
+      "raw_sha256": "e9a301e56a0f1b928fc494b0c3945fd93755ae3736aaf5ca96ab92cc345c8710",
+      "publication": "review-required",
+      "ingest": "ADMITTED"
+    },
+    {
+      "source_id": "NRY-024",
+      "display": "WITHHELD PRIVATE SOURCE NRY-024",
+      "domain": "true-ascension",
+      "file_type": ".png",
+      "bytes": 46788,
+      "raw_sha256": null,
+      "publication": "restricted",
+      "ingest": "ADMITTED"
+    },
+    {
+      "source_id": "NRY-025",
+      "display": "WITHHELD PRIVATE SOURCE NRY-025",
+      "domain": "true-ascension",
+      "file_type": ".jpg",
+      "bytes": 575508,
+      "raw_sha256": null,
+      "publication": "restricted",
+      "ingest": "ADMITTED"
+    },
+    {
+      "source_id": "NRY-026",
+      "display": "WITHHELD PRIVATE SOURCE NRY-026",
+      "domain": "true-ascension",
+      "file_type": ".jpg",
+      "bytes": 437701,
+      "raw_sha256": null,
+      "publication": "restricted",
+      "ingest": "ADMITTED"
+    },
+    {
+      "source_id": "NRY-027",
+      "display": "The Aeon Key Workbook.docx",
+      "domain": "true-ascension",
+      "file_type": ".docx",
+      "bytes": 38182,
+      "raw_sha256": "5420339842935c6bb9e9fcff4b5fed4ea1f946c2df8763d0765cdd07a00317d5",
+      "publication": "review-required",
+      "ingest": "ADMITTED"
+    },
+    {
+      "source_id": "NRY-028",
+      "display": "The Aeon Key Workbook.pdf",
+      "domain": "true-ascension",
+      "file_type": ".pdf",
+      "bytes": 5748,
+      "raw_sha256": "3434321dd0b04696f983d02dd1282eff2272327f05548ddce94cc9153dbf6084",
+      "publication": "review-required",
+      "ingest": "ADMITTED"
+    },
+    {
+      "source_id": "NRY-029",
+      "display": "The Aeon Key.docx",
+      "domain": "true-ascension",
+      "file_type": ".docx",
+      "bytes": 17103,
+      "raw_sha256": "63c073e5cac69244f9bfaa2ef5fb6cda6281acf085802a83f74e93a99e0211fa",
+      "publication": "review-required",
+      "ingest": "ADMITTED"
+    },
+    {
+      "source_id": "NRY-030",
+      "display": "The Complete Guide for Shadow Walkers-A Roadmap to Divinity Copy.docx",
+      "domain": "true-ascension",
+      "file_type": ".docx",
+      "bytes": 24265,
+      "raw_sha256": "0adedc9efa1194e03c432c35c9c5f90686127ac389faa572716cfa84912f3178",
+      "publication": "review-required",
+      "ingest": "ADMITTED"
+    }
+  ]
+}
