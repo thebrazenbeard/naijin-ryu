@@ -35,4 +35,4 @@ The Church foundational package describes freedom of religious and symbolic inte
 - **Private reflection:** restricted source, not public material.
 - **Empirical claim:** separate from the above; independently researched.
 
-See [True Ascension](../true-ascension.md), [Church organization](../church.md), and [privacy and review](../REVIEW.md).
+See the [Book of Signs study](book-of-signs-study.md), [Aeons and Archons source comparison](aeons-and-archons.md), [True Ascension](../true-ascension.md), [Church foundation](../church.md), and [privacy and review](../REVIEW.md).
