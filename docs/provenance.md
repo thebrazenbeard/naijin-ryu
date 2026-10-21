@@ -50,7 +50,7 @@ See [sources](sources.md), [normalization policy](curriculum.md), [research](res
 - **30 original files:** 15 Word files, 11 PDFs and four images; exact raw bytes acquired by filename-bound FileSource.
 - **30 accepted records:** 30 valid graphs and 0 corrupt graphs in `audit-records`.
 - **Whole-store audit:** 30 blobs, 30 records, no unreferenced blobs; **51 unreferenced stage receipts** remain after initial cloud-placeholder failures. No cleanup was performed. Because the whole-store status is **ISSUES**, it must **not** be represented as a clean audit pass.
-- **DOCX structure:** 15 of 15 extracted with paragraph/heading counts into a local private outline.
+- **Independent OneDrive metadata cross-check:** all **18** files for which OneDrive exposed a SHA-256 hash matched their private Ingest raw SHA-256 exactly (**18/18**). The remaining 12 objects did not expose SHA-256 metadata in the retrieved listing; this is **unknown**, not a mismatch.\n- **DOCX structure:** 15 of 15 extracted with paragraph/heading counts into a local private outline.
 - **PDFs:** all 11 text-extracted for section/page review; see [edition comparison](source-editions.md).
 - **Images:** four raw files acquired and format/dimensions read, but full visual meaning not exhaustively reviewed.
 
