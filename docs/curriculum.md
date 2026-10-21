@@ -1,43 +1,54 @@
-# Curriculum and competing timelines
+# Training curriculum — normalized pacing and source editions
 
-The source corpus describes related, but materially different, schedules. Do not infer that the shortest or newest-looking is authoritative.
+**Editorial decision (2026-10-21):** For repository navigation and future course planning, use the **8-week Phase 1 / 8-week Phase 2 / 8-week Phase 3** progression from the dedicated `Phases of SURGE Training Manual.docx` as the **working standard**. Patrick authorized normalization of non-core training intervals and semantic equivalents. This does **not** rewrite the unmodified source manuals or assert that any student is competent solely because a calendar interval has elapsed.
 
-| Source document | Phase 1 span | Broader route |
-|---|---|---|
-| `Phase 1 Fundamentals.pdf` | **Weeks 1–6** | Standalone novice introduction; about four sessions weekly |
-| `Phases of SURGE Training Manual.docx` | **Weeks 1–8** | 24-week student Phases 1–3 |
-| `Naijin-Ryū Solo-Intensive Training Program (Phases 1–4) – Daily Syllabus and Itinerary-1.pdf` | **Weeks 1–8** | Founder-focused solo-intensive route |
-| `Naijin-Ryū Manual .docx`, section IV, “Curriculum Lattice” | **Approximately weeks 1–12** | Broader Foundation → Fuse → Pressure → mastery progression |
+The longer **Curriculum Lattice** in the primary martial manual expresses a slower developmental trajectory; the standalone 6-week Phase 1 is a shorter option. They are retained as **accelerated** and **extended** variants, not erased as errors.
 
-**UNRESOLVED SOURCE CONFLICT: six, eight, and approximately twelve weeks appear in authoritative-looking documents.** They are separate authored source statements, not one reconciled schedule.
+## Working course sequence
 
-## Student manual
+| Stage | Duration | Typical weekly practice | Developmental focus |
+| --- | --- | --- | --- |
+| **Phase 1 — Fundamentals Activation** | Weeks 1–8 | 4 sessions | Stance, balance, awareness, breathing, safe movement, isolated SURGE concepts |
+| **Phase 2 — Pillar Integration** | Weeks 9–16 | 5 sessions | Link SURGE concepts, introduce controlled partner feedback and environment scenarios |
+| **Phase 3 — Dynamic Application** | Weeks 17–24 | 6 sessions including supervised scenario work | Adaptation, judgment, restraint and responsible response under gradually increasing complexity |
+| **Phase 4 — Guardian's Path** | Continuing, starting no earlier than readiness for teaching responsibilities | Individualized | Ongoing learning, mentoring, ethics, pedagogy and service |
 
-The `Phases of SURGE Training Manual.docx` describes:
+**Calendar ≠ qualification.** Advancement needs demonstrated safe competence, consent, decision-making and individualized readiness. Extra weeks are legitimate; compressing safety prerequisites is not.
 
-- **Phase 1 — Fundamentals Activation:** weeks 1–8, four days/week; isolated fundamentals and “The Strategist.”
-- **Phase 2 — Pillar Integration:** weeks 9–16, five days/week; gradual connection between pillars and “The Rebel Justiciar.”
-- **Phase 3 — Dynamic Application:** weeks 17–24, six days/week; supervised increasing complexity and “The Shadow.”
-- **Phase 4 — The Guardian's Path:** a teaching- and service-oriented continuing program, described as “Months 1–6+” within its Phase 4 section, not a replacement for Phases 1–3.
+## Phase 1: two four-week blocks
 
-## Main martial manual
+**Weeks 1–4 — Foundation and orientation.** Establish agreements and safety rules; review basic stance families, joint-friendly mobility and balance, controlled transitions, calm breathing and situational awareness. Work with instructor-selected techniques only under appropriate supervision; no live resistance required. Reflection themes: guarding life, preserving balance, observing impulses.
 
-Section IV of the `Naijin-Ryū Manual .docx` instead describes **Foundation** at roughly weeks 1–12, **Fuse** at approximately months 4–8, and **Pressure** beginning around months 9–14. Its durations differ from the 24-week student manual and remain preserved as a separate edition.
+**Weeks 5–8 — Consolidation and readiness.** Repeat foundations, identify fatigue and movement errors, incorporate simple conceptual connections between pillars without demanding high-impact work, and assess partner safety, communication, self-control and exit awareness. Demonstrate consistent posture, respectful training behavior and a clear decision to stop rather than escalate. This is not a promise of real-world combat competence.
 
-## Founder solo-intensive source
+**Four-session weekly template:** Shock-focused movement and positioning; Unbalance-focused balance and controlled footwork; Reversal-focused pivots and observation; Grapple-focused ground literacy and controlled positional understanding. The **Environment** pillar is introduced as awareness in every Phase 1 session, then receives its own day during Phase 2. Mental reflection may occur on any day. Rest days are not missed lessons.
 
-The solo-intensive PDF gives Phase 1 weeks 1–8, Phase 2 weeks 9–16, Phase 3 weeks 17–24, and Phase 4 weeks 25–48+. Its special-purpose physical adaptations reflect a historical recovery context, **not** a current medical assessment or a general student prescription.
+## Phase 2: five-pillar integration
 
-## Mental conditioning
+A five-session weekly rhythm gives each pillar a dedicated session: Shock, Unbalance, Reversal, Grapple, Environment. Link concepts, not mandatory violent sequences. Maintain instructor-directed load progression, non-coercive training, rest, and appropriate protective practices. Record conceptual understanding, attention, partner communication and stop decisions.
 
-`Naijin-Ryū Phase1 Mental Conditioning.docx` has five themed days: Shock; Unbalance; Reversal; combined Grapple/Environment; Environment. These are a thematic sequence and do not settle overall program duration.
+## Phase 3: adaptable application
 
-## Required decisions before publishing a canonical syllabus
+Retain five pillar-oriented practice days plus a sixth supervised integration/assessment period when appropriate. Increased complexity is contingent on prior safe performance. The curriculum should evaluate perception, decision-making, de-escalation, compliance with training boundaries, and prevention of injury—not merely speed or intensity.
 
-1. Which document is the current intended teaching edition?
-2. Is the six-week program a short introductory variant?
-3. Is the twelve-week lattice a conceptual outline or a separate program?
-4. What safety prerequisites and independent assessment are expected?
-5. How do the Sashes of Dawn relate to curriculum assessments, without conflating them with the Six Aeons?
+## Phase 4: ongoing responsibility
 
-See [source catalog](sources.md) and [review register](REVIEW.md).
+The `Phases of SURGE Training Manual.docx` calls this **The Guardian's Path**; the principal manual describes **Guardian / Mastery & Teaching**. Treat these as equivalent labels for an ongoing pedagogical stage, not a guarantee of master rank by a fixed date. White-Flare Sash is a distinct rank title with its own ethical and teaching criteria.
+
+## Alternate pacing retained
+
+| Source | As written | Editorial interpretation |
+| --- | --- | --- |
+| `Phase 1 Fundamentals.pdf` | Phase 1 **6 weeks** | Accelerated introductory **variant**, with identical exit expectations |
+| `Phases of SURGE Training Manual.docx` | Phase 1 **8 weeks**, Phase 2 weeks 9–16, Phase 3 weeks 17–24 | **Working standard** |
+| `Naijin-Ryū Solo-Intensive Training Program (Phases 1–4) – Daily Syllabus and Itinerary-1.pdf` | Phase 1 **8 weeks**, specialized founder-intensive route | Historical individualized **variant**; not a general medical prescription |
+| `Naijin-Ryū Manual .docx`, §IV, Curriculum Lattice | Foundation **~12 weeks**, Fuse **months 4–8**, Pressure **months 9–14**, Guardian **year 2+** | Extended developmental **variant** |
+| `Naijin-Ryū Manual .docx`, §IV, concrete implementation | Phase 1 **weeks 1–6**, Phase 2 **weeks 7–12**, Phase 3 **weeks 13–24**, Phase 4 **months 7–12** | Its **accelerated implementation**, distinct even from its own lattice |
+
+**Source relationship:** The main manual itself contains both the ~12-week broad lattice and a 6-week concrete introductory implementation. The different scopes explain some but not all calendar discrepancies. The normalized eight-week standard is an editorial choice permitted by the user, not a claim that original authorship never differed.
+
+## Practical tracking
+
+Each session log should record: date; pillar focus; intensity/recovery; technique group (without requiring public disclosure of advanced maneuvers); safety observations; instructor/peer feedback; ethical decision-making; and what still needs work. Instructors should keep health information out of the public repository.
+
+Related: [8-week foundation](training/8-week-foundation.md), [session template](training/session-templates.md), [mental practice](practice/mental-conditioning.md), [ethical foundations](ethos-and-progression.md), and [research review](research-evidence.md).
