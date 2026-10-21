@@ -1,0 +1,96 @@
+{
+  "schema": "naijin-ryu-source-manifest-v1",
+  "compiled_at": "2026-10-21",
+  "source_scope": "nine unique uploaded study artifacts; no original binary files published here",
+  "hash_algorithm": "sha256",
+  "files": [
+    {
+      "id": "NRY-S001",
+      "name": "Naijin-Ryū Manual .docx",
+      "format": "docx",
+      "sha256": "de246912fd43176929834376e052f3c5c9a1a035fc857edd90b54afee2391ba8",
+      "bytes": 88278,
+      "domain": "martial",
+      "onedrive_hash_match": true,
+      "edition": "primary authored manual"
+    },
+    {
+      "id": "NRY-S002",
+      "name": "Phases of SURGE Training Manual.docx",
+      "format": "docx",
+      "sha256": "b5352a6b2afb4d3d1812ebb95dfe257431f3078dfc6fc97f804a4732338df00c",
+      "bytes": 62282,
+      "domain": "curriculum",
+      "onedrive_hash_match": true,
+      "edition": "24-week structured student program"
+    },
+    {
+      "id": "NRY-S003",
+      "name": "Naijin-Ryū Phase1 Mental Conditioning.docx",
+      "format": "docx",
+      "sha256": "5145492e7f0165bd53126273f201962775989a82eb09b009eb66b8817ef49b1d",
+      "bytes": 39137,
+      "domain": "mental-conditioning",
+      "onedrive_hash_match": true
+    },
+    {
+      "id": "NRY-S004",
+      "name": "Stances for Naijin-Ryū.pdf",
+      "format": "pdf",
+      "sha256": "147b09ffa7f97487012c36807959c9dc388e67c9ff7b4c08f671e503ae9f9700",
+      "bytes": 162412,
+      "domain": "movement",
+      "onedrive_hash_match": null,
+      "match_note": "OneDrive listing found, PDF hash parity not confirmed"
+    },
+    {
+      "id": "NRY-S005",
+      "name": "Glossary.pdf",
+      "format": "pdf",
+      "sha256": "f537f4002dd3188494702ba0e0cfe952da81db7b79999a6d72c411ce69ceef8e",
+      "bytes": 348185,
+      "domain": "terminology",
+      "onedrive_hash_match": null
+    },
+    {
+      "id": "NRY-S006",
+      "name": "Phase 1 Fundamentals.pdf",
+      "format": "pdf",
+      "sha256": "5b6861d0fb20a4455fedb1a1977768558833fa1424e67663b52ef6b638471926",
+      "bytes": 114720,
+      "domain": "curriculum",
+      "onedrive_hash_match": null,
+      "edition": "six-week alternate"
+    },
+    {
+      "id": "NRY-S007",
+      "name": "Naijin-Ryū Solo-Intensive Training Program (Phases 1–4) – Daily Syllabus and Itinerary-1.pdf",
+      "format": "pdf",
+      "sha256": "2824dfbb28a1bc7d72ad6f8c39fc9b5f2b4479cc1e5241433f2fcacba70dc952",
+      "bytes": 208719,
+      "domain": "founder-specific-curriculum",
+      "onedrive_hash_match": null,
+      "edition": "individualized 48+ week planning source"
+    },
+    {
+      "id": "NRY-S008",
+      "name": "Clear Intent -  Last Resort Combat Manual for the Kurai Tenka.docx",
+      "format": "docx",
+      "sha256": "c9851490cd74a7d1fed107cd75926a70bf8b2a5d47545aa095aea235f01b6754",
+      "bytes": 52991,
+      "domain": "restricted-high-risk-content",
+      "onedrive_hash_match": true,
+      "publication": "metadata and ethics only"
+    },
+    {
+      "id": "NRY-S009",
+      "name": "Naijin-Ryu, Church of Ascension – Foundational Document Package.docx",
+      "format": "docx",
+      "sha256": "e9a301e56a0f1b928fc494b0c3945fd93755ae3736aaf5ca96ab92cc345c8710",
+      "bytes": 51842,
+      "domain": "spiritual-governance",
+      "onedrive_hash_match": true,
+      "edition": "proposed institution"
+    }
+  ]
+}

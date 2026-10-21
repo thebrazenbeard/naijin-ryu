@@ -1,0 +1,59 @@
+{
+  "schema": "NRY_ROOTS_PUBLIC_INTERPRETIVE_RECEIPT_V1",
+  "date": "2026-10-21",
+  "roots_source": {
+    "repository": "thebrazenbeard/roots",
+    "commit": "24ed94d69ec07c5bba638de9ed2b8ecfad3cc7ce"
+  },
+  "target": "role of the Church of Naijin-Ryu foundational document package",
+  "evidence": [
+    {
+      "id": "NRY-023",
+      "class": "DIRECT_SOURCE",
+      "time_quality": "FILE_MODIFICATION_ONLY",
+      "source": "Foundational Document Package sections 1–8",
+      "established": "Contains whole-system doctrine alongside draft organizational and Indiana incorporation language.",
+      "not_established": "Conceptual origin date, filing status, legal registration."
+    },
+    {
+      "id": "AUTHOR-2026-10-21",
+      "class": "USER_DIRECT",
+      "time_quality": "CURRENT_CHAT",
+      "source": "Author clarification",
+      "established": "The document was contemplated for an Indiana state application and remains the author's best description of the collective whole.",
+      "not_established": "Proof of submission or approval."
+    }
+  ],
+  "relations": [
+    {
+      "from": "NRY-023",
+      "to": "AUTHOR-2026-10-21",
+      "type": "CORRECTION",
+      "scope": "Current interpretation of the document's role, not a change to the document text"
+    },
+    {
+      "from": "NRY-023",
+      "to": "current-knowledge-map",
+      "type": "REINTERPRETATION",
+      "scope": "Umbrella reference rather than only proposed organization"
+    }
+  ],
+  "origin_status": "UNRESOLVED",
+  "completeness": "PARTIAL",
+  "claim_strength_checks": [
+    {
+      "code": "receipt.claim_strength",
+      "passed": true
+    },
+    {
+      "code": "partial.origin_not_established",
+      "passed": true
+    }
+  ],
+  "limitations": [
+    "File modification timestamp is not its first intellectual origin.",
+    "Early drafts outside the visible corpus may exist.",
+    "The current author statement is not proof of state filing."
+  ],
+  "publication": "Redacted explanatory record; full Roots typed receipt retained privately."
+}
