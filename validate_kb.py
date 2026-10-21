@@ -41,6 +41,42 @@ else:
         records = []
         errors.append(f"invalid source manifest: {exc}")
 
+intake_path = root / "data/intake-register-v1.json"
+if not intake_path.is_file():
+    errors.append("missing 30-source intake register")
+else:
+    try:
+        intake = json.loads(intake_path.read_text(encoding="utf-8"))
+        items = intake["items"]
+        if len(items) != 30:
+            errors.append(f"intake count {len(items)} != 30")
+        ids = [i["source_id"] for i in items]
+        if len(ids) != len(set(ids)):
+            errors.append("duplicate intake IDs")
+        for item in items:
+            if item["ingest"] != "ADMITTED":
+                errors.append("source not admitted: " + item["source_id"])
+            sha = item.get("raw_sha256")
+            if item["publication"] == "restricted" and sha:
+                errors.append("restricted raw SHA published: " + item["source_id"])
+            if sha and not re.fullmatch(r"[0-9a-f]{64}", sha):
+                errors.append("invalid intake SHA: " + item["source_id"])
+    except (KeyError, ValueError, TypeError) as exc:
+        errors.append(f"bad intake register: {exc}")
+
+roots_path = root / "data/foundation-roots-receipt.json"
+if not roots_path.is_file():
+    errors.append("missing Roots public receipt")
+else:
+    try:
+        roots = json.loads(roots_path.read_text(encoding="utf-8"))
+        if roots["origin_status"] != "UNRESOLVED" or roots["completeness"] != "PARTIAL":
+            errors.append("Roots claim exceeds evidence")
+        if any(not c["passed"] for c in roots["claim_strength_checks"]):
+            errors.append("Roots claim check failure")
+    except (KeyError, ValueError, TypeError) as exc:
+        errors.append(f"bad Roots public receipt: {exc}")
+
 for path in markdown:
     content = (root / path).read_text(encoding="utf-8")
     if re.search(r"\b\d{2,5}\s+(?:E|W|N|S)\s+\w+(?:\s+\w+)?\s+(?:St|Street|Ave|Avenue|Rd|Road)\b", content, flags=re.I):
