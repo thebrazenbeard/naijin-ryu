@@ -42,3 +42,20 @@ The source files are not modified by editorial decisions. Corrections to derivat
 A document can establish that a proposed church name exists **in a document**. It cannot establish actual incorporation; a training schedule cannot establish a qualified instructor; a scenario narrative cannot establish a technique's real-world performance; and a private personal reflection cannot be treated as publication consent.
 
 See [sources](sources.md), [normalization policy](curriculum.md), [research](research-evidence.md) and [review register](REVIEW.md).
+
+## Ingest all-source acquisition (2026-10-21)
+
+**Executed source:** [Ingest](https://github.com/thebrazenbeard/ingest) `main` commit `e55af474323f2115c5181b443760b8427090562f` on Lappy, working from the signed-in user's synced `OneDrive/Documents/Naijin-Ryu` tree. The Ingest content-addressed store and its full private manifest remain **outside the public repository**.
+
+- **30 original files:** 15 Word files, 11 PDFs and four images; exact raw bytes acquired by filename-bound FileSource.
+- **30 accepted records:** 30 valid graphs and 0 corrupt graphs in `audit-records`.
+- **Whole-store audit:** 30 blobs, 30 records, no unreferenced blobs; **51 unreferenced stage receipts** remain after initial cloud-placeholder failures. No cleanup was performed. Because the whole-store status is **ISSUES**, it must **not** be represented as a clean audit pass.
+- **DOCX structure:** 15 of 15 extracted with paragraph/heading counts into a local private outline.
+- **PDFs:** all 11 text-extracted for section/page review; see [edition comparison](source-editions.md).
+- **Images:** four raw files acquired and format/dimensions read, but full visual meaning not exhaustively reviewed.
+
+The [public 30-source intake index](../data/intake-register-v1.json) includes source IDs and non-private hashes; names and hashes for restricted sources are withheld. It is a derivative overview, not the private Ingest receipt graph itself.
+
+## Roots typed provenance (2026-10-21)
+
+The [Roots](https://github.com/thebrazenbeard/roots) model and claim-strength checker at `24ed94d69ec07c5bba638de9ed2b8ecfad3cc7ce` were executed against a **partial** two-event receipt documenting the Church foundational package and the author's later clarification. Both partial claim-strength checks passed. **Origin remains unresolved**; a 2025 file modification date is not evidence of a concept's first appearance. The sanitized [public Roots receipt](../data/foundation-roots-receipt.json) records the distinction between whole-system interpretation and historical Indiana filing intent.
