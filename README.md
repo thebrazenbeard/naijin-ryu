@@ -10,20 +10,20 @@ Its martial framework is **SURGE**: **Shock, Unbalance, Reversal, Grapple, Envir
 |---|---|
 | How the entire system fits together | [Knowledge map](docs/KNOWLEDGE_MAP.md) |
 | Core values, ethical conduct, rank meanings | [Ethos and Sashes of Dawn](docs/ethos-and-progression.md) |
-| Five-pillar martial framework and Rule of Tens | [SURGE](docs/surge.md) |
+| Five-pillar martial framework and Rule of Tens | [SURGE](docs/surge.md) and [manual chapter guide](docs/martial/manual-guide.md) |
 | Terminology and equivalent names | [Glossary](docs/glossary.md) |
 | Training phases and normalized calendar | [Curriculum](docs/curriculum.md) |
 | Working eight-week starter course | [Eight-week foundation](docs/training/8-week-foundation.md) |
-| Repeatable practice and assessment records | [Session templates](docs/training/session-templates.md) |
+| Repeatable practice and assessment records | [Session templates](docs/training/session-templates.md) and [assessment rubric](docs/training/assessment-rubric.md) |
 | Mental practices, breath awareness, journaling | [Mental conditioning](docs/practice/mental-conditioning.md) |
 | Aeons, Archons, the Divine Spark and Shadow Walkers | [True Ascension](docs/true-ascension.md) |
-| Reflection and spiritual-practice literature | [Spiritual practices](docs/spiritual/practices.md) |
+| Reflection and spiritual-practice literature | [Spiritual practices](docs/spiritual/practices.md) and [text study guide](docs/spiritual/texts-and-study.md) |
 | Proposed organization and governance | [Church of Ascension](docs/church.md) |
 | Camp ideas and dojo/facility plans | [Program concepts](docs/organization/program-concepts.md) |
 | External scientific, safety and legal checks | [Research evidence](docs/research-evidence.md) |
 | Every inventoried source and its review status | [Source catalog](docs/sources.md) |
 | File hashes and source-to-GitHub traceability | [Provenance](docs/provenance.md) and [source manifest](data/source-manifest.json) |
-| Editorial constraints and unresolved qualifications | [Review and publication policy](docs/REVIEW.md) |
+| Protected core values and permitted edits | [Editorial authority](docs/EDITORIAL_AUTHORITY.md) |\n| Publication boundaries and remaining qualifications | [Review and publication policy](docs/REVIEW.md) and [validation checklist](docs/VALIDATION.md) |
 
 ## The four ethical principles
 
