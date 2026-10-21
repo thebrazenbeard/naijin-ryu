@@ -33,4 +33,4 @@ The True Ascension OneDrive folder holds the full Guide, a plain-language adapta
 
 The Foundational Document Package explicitly presents participation as voluntary and accepts literal and symbolic understanding. That feature must not be erased when creating future teaching materials.
 
-See [Church proposal](church.md), [ethics](ethos-and-progression.md), and [source inventory](sources.md).
+See [Church foundation and historical filing draft](church.md), [ethics](ethos-and-progression.md), and [30-source coverage](CORPUS_COVERAGE.md).

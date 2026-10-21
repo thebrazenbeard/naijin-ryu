@@ -18,7 +18,7 @@
 | Clear Intent -  Last Resort Combat Manual for the Kurai Tenka.docx | Advanced last-resort source | Local upload inspected; operational detail excluded from public synthesis |
 | Clear Intent -  Last Resort Combat Manual for the Kurai Tenka.pdf | Parallel edition | Textual equivalence reviewed; see source-editions.md |
 | Camps Overview.docx | Camp proposal | OneDrive text inspected |
-| Camps Overview.pdf | Parallel edition | Metadata found; equivalence unverified |
+| Camps Overview.pdf | Parallel edition | Extracted text compared with Word source; very high similarity (not byte equality) |
 | Naijin-Ryū Dojo Extension Build Plan.pdf | Facilities proposal | Metadata found; not publicly reproduced |
 | [Address-specific proposed dojo extension PDF; filename withheld] | Private property design | Existence cataloged; name/address/layout withheld |
 | Dojo floor plan.png | Facilities illustration | Metadata found; withheld pending suitability review |
@@ -43,12 +43,18 @@ The parent folder also contains **True Ascension**, as described below.
 
 ## Uploaded copies
 
-Nine distinct uploaded filenames were available locally, and the Church Foundational Document Package was attached twice. **Five Word originals were proven byte-identical to OneDrive copies by SHA-256:** the main manual, SURGE manual, Phase 1 mental conditioning, Clear Intent, and the Church foundational package. PDFs have not yet been confirmed by a matching OneDrive SHA-256. See [provenance](provenance.md) and [source manifest](../data/source-manifest.json).
+Nine distinct uploaded filenames were available locally, and the Church Foundational Document Package was attached twice. **Five Word originals were proven byte-identical to OneDrive copies by SHA-256:** the main manual, SURGE manual, Phase 1 mental conditioning, Clear Intent, and the Church foundational package. Across all original file types, 18 files exposed OneDrive SHA-256 metadata and all 18 matched private Ingest raw hashes. Twelve lacked independently exposed hashes. See [provenance](provenance.md) and [source manifest](../data/source-manifest.json).
 
 ## Coverage
 
-**Read:** all nine locally uploaded sources; OneDrive-extracted Word text for the core materials, Church package, spiritual guides and camp overview.
+**Read:** all nine locally uploaded study sources; all 15 OneDrive Word files structurally extracted; readable text examined from all 11 PDFs; four image files inspected for format and dimensions, not full visual interpretation.
 
-**Raw file intake:** all 30 OneDrive originals are admitted and individually receipted in the **private** Ingest store. The record audit verified 30/30 graphs; the store audit flagged 51 unreferenced receipts from earlier failed reads (preserved, not silently deleted), with no corrupt records or orphan raw blobs. [Redacted intake register](../data/intake-register-v1.json).\n\n**PDF study:** text from all 11 PDFs was inspected. Four core Word↔PDF pairs had very high textual overlap; the Aeon Key Workbook had lower extracted-text overlap and retains an edition-review note. See [format comparison](source-editions.md).\n\n**Not fully verified:** visual/embedded assets and diagrams, source claims' scientific accuracy, all bibliographic references, exact print-layout equivalence, and copyright/authorization for public reproduction.
+**Raw file intake:** all 30 OneDrive originals are admitted and individually receipted in the **private** Ingest store. The record audit verified 30/30 graphs; the store audit flagged 51 unreferenced receipts from earlier failed reads (preserved, not silently deleted), with no corrupt records or orphan raw blobs. [Redacted intake register](../data/intake-register-v1.json).
 
-**Inventory coverage:** 16 parent-folder files, 9 True Ascension documents, 2 nested archetype guides, and 3 images = **30 source files**. Some nested archetype content contains private personal reflections and is not reproduced publicly.\n\nThis register is a **provenance index, not the complete original corpus**.
+**PDF study:** text from all 11 PDFs was inspected. Four core Word↔PDF pairs had very high textual overlap; the Aeon Key Workbook had lower extracted-text overlap and retains an edition-review note. See [format comparison](source-editions.md).
+
+**Not fully verified:** visual/embedded assets and diagrams, source claims' scientific accuracy, all bibliographic references, exact print-layout equivalence, and copyright/authorization for public reproduction.
+
+**Inventory coverage:** 16 parent-folder files, 9 True Ascension documents, 2 nested archetype guides, and 3 images = **30 source files**. Some nested archetype content contains private personal reflections and is not reproduced publicly.
+
+This register is a **provenance index, not the complete original corpus**.

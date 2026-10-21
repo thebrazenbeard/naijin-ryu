@@ -6,7 +6,7 @@ This file separates **source assertions** from **independently checked external 
 
 **SOURCE ASSERTION:** `Camps Overview.docx` describes Indiana as a low-barrier state and states broadly that youth camps do not require state licensure.
 
-**EXTERNAL EVIDENCE:** The Indiana Department of Health operates a Youth Camps program that **inspects qualifying youth camps and approves construction/alteration plans**. Indiana's 410 IAC 6-7.2 covers qualifying outdoor group living for **more than 72 continuous hours**, for **ten or more unaccompanied minors**, among other definitional criteria. The department provides a permit application for construction or alteration. Which permits and obligations apply to a particular event depends on its facts.
+**EXTERNAL EVIDENCE:** The Indiana Department of Health operates a Youth Camps program that **inspects qualifying youth camps and approves construction/alteration plans**. Indiana's 410 IAC 6-7.2 covers qualifying outdoor group living for **more than 72 continuous hours**, for **ten or more unaccompanied minors**, among other definitional criteria. The department provides a permit application for construction or alteration. Which permits and obligations apply to a particular event depends on its facts. The current public rule page specifies submission of scaled construction/addition/significant-change plans at least 90 days before initiation; this is not a complete permit determination.
 
 - https://www.in.gov/health/eph/youth-camps/
 - https://www.in.gov/health/eph/laws-rules-and-forms/410-iac-6-72-youth-camps/

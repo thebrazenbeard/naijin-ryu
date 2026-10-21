@@ -21,9 +21,10 @@ Its martial framework is **SURGE**: **Shock, Unbalance, Reversal, Grapple, Envir
 | Whole-system Church text and historical Indiana filing proposal | [Foundational document interpretation](docs/church.md) |
 | Camp ideas and dojo/facility plans | [Program concepts](docs/organization/program-concepts.md) |
 | External scientific, safety and legal checks | [Research evidence](docs/research-evidence.md) |
-| Every inventoried source and its review status | [Source catalog](docs/sources.md) and [30-file intake index](data/intake-register-v1.json) |
+| Every inventoried source and its review status | [Source catalog](docs/sources.md), [30-file coverage](docs/CORPUS_COVERAGE.md), and [intake index](data/intake-register-v1.json) |
 | File hashes and source-to-GitHub traceability | [Provenance](docs/provenance.md), [uploaded-source manifest](data/source-manifest.json), and [Ingest/Roots lineage](docs/lineage-method.md) |
-| Protected core values and permitted edits | [Editorial authority](docs/EDITORIAL_AUTHORITY.md) |\n| Publication boundaries and remaining qualifications | [Review and publication policy](docs/REVIEW.md) and [validation checklist](docs/VALIDATION.md) |
+| Protected core values and permitted edits | [Editorial authority](docs/EDITORIAL_AUTHORITY.md) |
+| Publication boundaries and remaining qualifications | [Review and publication policy](docs/REVIEW.md) and [validation checklist](docs/VALIDATION.md) |
 
 ## The four ethical principles
 
@@ -45,4 +46,4 @@ The source corpus was inventoried in OneDrive `Documents/Naijin-Ryu` and through
 
 ### Change control
 
-Documentation is prepared on a review branch. Approval and merger to `main` are separate effects. Editorial normalizations and safety corrections are identified so the reader can distinguish original author statements from current working decisions.
+Changes are prepared on review branches and merged to `main` after appropriate tests and publication review. Source admission, editorial interpretation, external qualification and publication remain separate decisions. Editorial normalizations and safety corrections are identified so the reader can distinguish original author statements from current working decisions.

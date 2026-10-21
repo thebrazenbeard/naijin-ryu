@@ -1,0 +1,7 @@
+__pycache__/
+*.py[cod]
+.ingest/
+.naijin-private/
+*intake-manifest-private.json
+*review-outline-private.json
+*roots-foundation-private.json

@@ -40,7 +40,7 @@ The short guide and workbook share five modules:
 4. Release the Guilt
 5. Step Outside the Noise
 
-The workbook provides additional reflection prompts. The separate PDF is a parallel *format* whose exact binary-to-text equivalence remains to be checked.
+The workbook provides additional reflection prompts. The seven-page workbook PDF was text-compared to the Word version. Repeated page headings and quotation formatting explain some differences; full paragraph-level equivalence is not established. See [edition comparison](../source-editions.md).
 
 ## Shadow Walkers roadmap
 

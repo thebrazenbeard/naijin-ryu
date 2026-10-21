@@ -9,8 +9,16 @@ This file defines testable quality requirements for future additions. It does no
 3. All nine locally uploaded source artifacts have unique IDs.
 4. No published source-identifying URLs, private addresses, medical records, personal reflection extracts or full injurious last-resort procedures are silently introduced.
 5. Core doctrine is not silently rewritten by editorial harmonization.
-6. Calendar alternatives remain traceable to original documents.\n7. Roots' public receipt remains explicitly **PARTIAL / UNRESOLVED**, with validated claim-strength checks.\n8. External source code commits and observed run results are identified, without treating either as a permanent deployment.
+6. Calendar alternatives remain traceable to original documents.
+7. Roots' public receipt remains explicitly **PARTIAL / UNRESOLVED**, with validated claim-strength checks.
+8. External source code commits and observed run results are identified, without treating either as a permanent deployment.
 9. Research citations distinguish source assertions from independently checked evidence.
+
+## Recheck the private corpus locally
+
+For an authorized operator with the separately held private manifest, run `python tools/verify_private_intake.py --source-root <local OneDrive Naijin-Ryu folder> --private-manifest <private intake-manifest-private.json>`. The local tool re-hashes all 30 originals, compares nonrestricted public hashes, and verifies that restricted public entries contain neither source names nor SHA-256 values. Neither file path belongs in a public issue or log.
+
+`python -m unittest discover -s tests -v` exercises the local source checker against source mutation, traversal and unintended restricted hash release. `python validate_kb.py` checks repository links, intake IDs and declared Roots claim strength.
 
 ## Evidence classes
 
@@ -28,4 +36,7 @@ This file defines testable quality requirements for future additions. It does no
 ## Release gate
 
 Successful link validation and source-hash matching support repository consistency, **not** independent safety or clinical approval. Do not present this repository as a qualified instructional school or launch authorization based on documentation alone.
-\n## Verified intake and review data\n\nOn 2026-10-21, **all 30 files** were admitted into private Ingest CAS with 30/30 valid deep-verified records; **whole-store audit is not clean** because it reports 51 unreferenced stage receipts from failed initial cloud reads. Those audit artifacts remain untouched. Root-of-meaning interpretation was tested through a **partial** Roots receipt whose two limited claim-strength checks passed. Neither result establishes document authorship, metaphysical truths, legal filing or safe martial practice.\n
+
+## Verified intake and review data
+
+On 2026-10-21, **all 30 files** were admitted into private Ingest CAS with 30/30 valid deep-verified records; **whole-store audit is not clean** because it reports 51 unreferenced stage receipts from failed initial cloud reads. Those audit artifacts remain untouched. Root-of-meaning interpretation was tested through a **partial** Roots receipt whose two limited claim-strength checks passed. Neither result establishes document authorship, metaphysical truths, legal filing or safe martial practice.
