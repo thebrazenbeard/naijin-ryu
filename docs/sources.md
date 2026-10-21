@@ -20,7 +20,7 @@
 | Camps Overview.docx | Camp proposal | OneDrive text inspected |
 | Camps Overview.pdf | Parallel edition | Metadata found; equivalence unverified |
 | Naijin-Ryū Dojo Extension Build Plan.pdf | Facilities proposal | Metadata found; not publicly reproduced |
-| Proposed Dojo Extension for 851 E Walnut St.pdf | Property-specific design | Metadata found; exact-address content withheld |
+| [Address-specific proposed dojo extension PDF; filename withheld] | Private property design | Existence cataloged; name/address/layout withheld |
 | Dojo floor plan.png | Facilities illustration | Metadata found; withheld pending suitability review |
 
 The parent folder also contains **True Ascension**, as described below.
@@ -43,7 +43,7 @@ The parent folder also contains **True Ascension**, as described below.
 
 ## Uploaded copies
 
-Nine distinct uploaded filenames were available locally during this review, and the Church Foundational Document Package was attached twice. Names alone do not establish byte-for-byte identity with OneDrive copies.
+Nine distinct uploaded filenames were available locally, and the Church Foundational Document Package was attached twice. **Five Word originals were proven byte-identical to OneDrive copies by SHA-256:** the main manual, SURGE manual, Phase 1 mental conditioning, Clear Intent, and the Church foundational package. PDFs have not yet been confirmed by a matching OneDrive SHA-256. See [provenance](provenance.md) and [source manifest](../data/source-manifest.json).
 
 ## Coverage
 
@@ -51,4 +51,4 @@ Nine distinct uploaded filenames were available locally during this review, and 
 
 **Not fully verified:** all PDF/Word equivalences, embedded assets and diagrams, source claims' scientific accuracy, all bibliographic references, and copyright/authorization for public reproduction.
 
-This register is a **provenance index, not the complete original corpus**.
+**Inventory coverage:** 16 parent-folder files, 9 True Ascension documents, 2 nested archetype guides, and 3 images = **30 source files**. Some nested archetype content contains private personal reflections and is not reproduced publicly.\n\nThis register is a **provenance index, not the complete original corpus**.
