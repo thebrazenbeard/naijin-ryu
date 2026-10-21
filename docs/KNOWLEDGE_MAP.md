@@ -21,10 +21,10 @@ Naijin-Ryū is not only a combat syllabus. Its original texts describe multiple 
 
 **Proposal ≠ institution.** Corporate names, construction plans and camp designs do not prove incorporation, permission or existence.
 
-**Edition ≠ correction.** Conflicting versions remain separately attributed until the author makes a decision.
+**Edition ≠ correction.** The working eight-week curriculum is now normalized with the author's permission; original six-, eight-, and twelve-week descriptions remain attributed as alternate pacing rather than overwritten.
 
 **Optional ≠ mandatory.** The Church package describes spiritual interpretation and martial participation as voluntary.
 
 **Sash ≠ Aeon.** Technical-rank progression and stages of spiritual transformation are different systems.
 
-This layout is an editorial proposal and does not revise the creator's doctrine.
+**Publication boundary:** The inventory includes personal archetype material, historical health references, facility details and last-resort lethal-force instruction. These originals are not openly republished.\n\n**Where to go next:** [Eight-week standard](training/8-week-foundation.md) · [Source provenance](provenance.md) · [Full non-operational glossary](glossary.md) · [External evidence review](research-evidence.md) · [Program concepts](organization/program-concepts.md).\n\nThis structure organizes the creator's doctrine without changing its core values.
