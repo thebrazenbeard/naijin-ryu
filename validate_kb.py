@@ -82,7 +82,17 @@ for path in markdown:
     if re.search(r"\b\d{2,5}\s+(?:E|W|N|S)\s+\w+(?:\s+\w+)?\s+(?:St|Street|Ave|Avenue|Rd|Road)\b", content, flags=re.I):
         errors.append(f"potential street address in {path}")
 
+# Validate publication-safe primary-source claim structure without private files.
+try:
+    from tools.verify_claim_anchors import verify as check_source_claims
+    claim_check = check_source_claims(root)
+    for error in claim_check["errors"]:
+        errors.append("source claim: " + error)
+except (OSError, KeyError, ValueError, TypeError) as exc:
+    claim_check = {"claims": 0, "declared_anchors": 0}
+    errors.append("invalid source claim register: " + type(exc).__name__)
 result = {"markdown_files": len(markdown), "links_checked": links_checked,
-          "cataloged_uploads": len(records), "errors": errors}
+          "cataloged_uploads": len(records), "source_claims": claim_check["claims"],
+          "source_anchors_declared": claim_check["declared_anchors"], "errors": errors}
 print(json.dumps(result, ensure_ascii=False, indent=2))
 sys.exit(1 if errors else 0)

@@ -18,7 +18,7 @@ This file defines testable quality requirements for future additions. It does no
 
 For an authorized operator with the separately held private manifest, run `python tools/verify_private_intake.py --source-root <local OneDrive Naijin-Ryu folder> --private-manifest <private intake-manifest-private.json>`. The local tool re-hashes all 30 originals, compares nonrestricted public hashes, and verifies that restricted public entries contain neither source names nor SHA-256 values. Neither file path belongs in a public issue or log.
 
-`python -m unittest discover -s tests -v` exercises the local source checker against source mutation, traversal and unintended restricted hash release. `python validate_kb.py` checks repository links, intake IDs and declared Roots claim strength.
+`python -m unittest discover -s tests -v` exercises local intake and evidence-anchor checks against source mutation, traversal, invented evidence, and restricted-source disclosure. `python validate_kb.py` checks repository links, intake IDs, typed public source claims and Roots claim strength. `python tools/verify_claim_anchors.py --source-root <local OneDrive Naijin-Ryu folder> --private-manifest <private intake-manifest-private.json>` validates the source register's exact Word anchors against independently rehashed source bytes. The private manifest and source paths stay local.
 
 ## Evidence classes
 

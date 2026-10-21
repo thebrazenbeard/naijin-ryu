@@ -18,11 +18,12 @@ Its martial framework is **SURGE**: **Shock, Unbalance, Reversal, Grapple, Envir
 | Mental practices, breath awareness, journaling | [Mental conditioning](docs/practice/mental-conditioning.md) |
 | Aeons, Archons, the Divine Spark and Shadow Walkers | [True Ascension](docs/true-ascension.md) |
 | Reflection and spiritual-practice literature | [Spiritual practices](docs/spiritual/practices.md) and [text study guide](docs/spiritual/texts-and-study.md) |
+| Detailed source studies | [Seven Signs and twelve methods](docs/spiritual/book-of-signs-study.md) and [Six Aeons / Archons](docs/spiritual/aeons-and-archons.md) |
 | Whole-system Church text and historical Indiana filing proposal | [Foundational document interpretation](docs/church.md) |
 | Camp ideas and dojo/facility plans | [Program concepts](docs/organization/program-concepts.md) |
 | External scientific, safety and legal checks | [Research evidence](docs/research-evidence.md) |
 | Every inventoried source and its review status | [Source catalog](docs/sources.md), [30-file coverage](docs/CORPUS_COVERAGE.md), and [intake index](data/intake-register-v1.json) |
-| File hashes and source-to-GitHub traceability | [Provenance](docs/provenance.md), [uploaded-source manifest](data/source-manifest.json), and [Ingest/Roots lineage](docs/lineage-method.md) |
+| File hashes and source-to-GitHub traceability | [Provenance](docs/provenance.md), [source claim register](data/source-claim-register-v1.json), [uploaded-source manifest](data/source-manifest.json), and [Ingest/Roots lineage](docs/lineage-method.md) |
 | Protected core values and permitted edits | [Editorial authority](docs/EDITORIAL_AUTHORITY.md) |
 | Publication boundaries and remaining qualifications | [Review and publication policy](docs/REVIEW.md) and [validation checklist](docs/VALIDATION.md) |
 

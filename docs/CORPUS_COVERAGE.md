@@ -39,6 +39,10 @@
 | NRY-029 | `The Aeon Key.docx` | DOCX; paragraphs/headings extracted | [Five-module short Aeon Key source](spiritual/texts-and-study.md) |
 | NRY-030 | `The Complete Guide for Shadow Walkers-A Roadmap to Divinity Copy.docx` | DOCX; paragraphs/headings extracted | [Six-part Shadow Walkers roadmap](spiritual/texts-and-study.md) |
 
+## Source-to-claim coverage
+
+The [typed claim register](../data/source-claim-register-v1.json) currently indexes **25 nonrestricted claims** across the martial manuals, training material, Church founding package and True Ascension primary texts, with **50 source-text anchors**. Each claim identifies a nonrestricted source ID, source heading or section, public derivative and limitation. The [private Word anchor verifier](../tools/verify_claim_anchors.py) checks the anchors after source byte rehash, without publishing raw documents. Text occurrence is not an independent truth test.
+
 ## Edition relationships
 
 - Main martial manual, SURGE training manual, Camps Overview and Clear Intent: Word/PDF text closely matches after normalization; byte identities remain distinct.
