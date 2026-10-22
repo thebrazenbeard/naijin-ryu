@@ -8,9 +8,15 @@ This workstream covers the Naijin-Ryū martial program: the four protected ethic
 
 **Existing guides:** [ethics and ranks](../../docs/ethos-and-progression.md), [SURGE](../../docs/surge.md), [normalized curriculum](../../docs/curriculum.md), [manual chapter guide](../../docs/martial/manual-guide.md), [training logs](../../docs/training/session-templates.md).
 
+## Start training
+
+**[Open the complete eight-week Phase 1 solo course](phase-1-eight-week-course.md)**: 32 timed beginner session cards across Weeks 1–8, clear lower-intensity alternatives, progress decisions and an [instructor observation guide](phase-1-instructor-observation.md). Week 1 uses the four original restart sessions; Weeks 2–8 each contain four individual session cards. This is **EDITORIAL solo study**, not the source's complete supervised-contact syllabus or rank authority.
+
 ## Course library
 
 - [Phase 1 — eight-week foundation](../../docs/training/8-week-foundation.md): previously established introductory program and source variants.
+- [Full eight-week course](phase-1-eight-week-course.md): direct access to all 32 sessions and adjustment/stop boundaries.
+- [Instructor observation](phase-1-instructor-observation.md): noncontact observable skills, evidence status and separation from qualification.
 - [First-week restart plan](phase-1-restart-week.md): four flexible solo training opportunities, with recovery and safety boundaries.
 - [Complete Phase 1 solo sessions](phase-1-restart-week.md): [A — Shock](phase-1-session-a.md), [B — Unbalance](phase-1-session-b.md), [C — Reversal](phase-1-session-c.md), [D — Grapple](phase-1-session-d.md). Environment remains an awareness theme across the four days.
 - [Weeks 1–8 decision gates](phase-1-progression-gates.md): when to repeat, reduce, recover or progress modestly; not automatic rank.
