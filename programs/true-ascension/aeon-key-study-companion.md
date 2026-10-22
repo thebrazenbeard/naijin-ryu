@@ -32,4 +32,4 @@ The corpus also contains the **Six Aeons** in the True Ascension full guide and 
 - **NRY-029 vs NRY-027:** the longer workbook elaborates the shorter Key; the presence of identical module names does not imply identical textual instructions.
 - **Meaning and efficacy:** the author's accessible exercises should be read as authored reflective literature, not laboratory-backed physiological claims.
 
-[True Ascension source relationship map](source-relationship-map.md) · [Text study](../../docs/spiritual/texts-and-study.md) · [Edition comparison](../../docs/source-editions.md) · [Program overview](README.md)
+[Workbook text comparison](aeon-key-edition-audit.md) · [True Ascension source relationship map](source-relationship-map.md) · [Text study](../../docs/spiritual/texts-and-study.md) · [Edition comparison](../../docs/source-editions.md) · [Program overview](README.md)
