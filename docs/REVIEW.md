@@ -41,7 +41,7 @@ A document's technical or medical explanation is a source assertion, not an inde
 
 ## Whole-system reader and operation boundaries
 
-The [reader routes](START_HERE.md) and [four-session orientation](ORIENTATION_PATH.md) are editorial study guides, **not** a requirement to join a Church, accept a literal cosmology, complete a martial rank or disclose personal trauma. The [three-layer relationship model](SYSTEM_COHERENCE.md) distinguishes foundational meanings, optional practices, and prospective legal/facilities programs; its categories are **not** newly revealed doctrine or a constituted hierarchy. The [whole-system improvement register](WHOLE_SYSTEM_BACKLOG.md) tracks unresolved real-world and source-level evidence separately. No checklist may transform an editorial source interpretation into verified implementation.
+The [reader routes](START_HERE.md) and [four-session orientation](ORIENTATION_PATH.md) are editorial study guides, **not** a requirement to join a Church, accept a literal cosmology, complete a martial rank or disclose personal trauma. The [three-layer relationship model](SYSTEM_COHERENCE.md) distinguishes foundational meanings, optional practices, and prospective legal/facilities programs; its categories are **not** newly revealed doctrine or a constituted hierarchy. The [whole-system improvement register](WHOLE_SYSTEM_BACKLOG.md) tracks unresolved real-world and source-level evidence separately, using the [source-by-source traceability gap review](SOURCE_TRACEABILITY_GAPS.md) rather than mistaking private raw intake for complete doctrinal analysis. No checklist may transform an editorial source interpretation into verified implementation.
 
 ## Next validation work
 
