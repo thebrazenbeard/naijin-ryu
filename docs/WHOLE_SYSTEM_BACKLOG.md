@@ -36,4 +36,4 @@ As checked on **2026-10-22**, the [horror classification correction (PR #4)](htt
 - Has the unrelated horror experience been rehomed? **No**; its old Git ref remains parked by design.
 - Does the author intend a particular future organizational form? **Not determined by a historical corporate draft**.
 
-[Return to reader guide](START_HERE.md) · [System boundaries](SYSTEM_COHERENCE.md) · [Editorial authority](EDITORIAL_AUTHORITY.md) · [Corpus coverage](CORPUS_COVERAGE.md).
+[Return to reader guide](START_HERE.md) · [System boundaries](SYSTEM_COHERENCE.md) · [Source traceability gaps](SOURCE_TRACEABILITY_GAPS.md) · [Editorial authority](EDITORIAL_AUTHORITY.md) · [Corpus coverage](CORPUS_COVERAGE.md).
