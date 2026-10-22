@@ -8,7 +8,15 @@ This workstream covers the Six Aeons, Archons, Divine Spark and Pleroma as autho
 
 **Existing guides:** [True Ascension map](../../docs/true-ascension.md), [Aeons and Archons](../../docs/spiritual/aeons-and-archons.md), [Book of Signs](../../docs/spiritual/book-of-signs-study.md), [practices](../../docs/spiritual/practices.md), [study guide](../../docs/spiritual/texts-and-study.md).
 
-**Next research/development:** compare differences among editions, review symbols and glossary consistency, trace the earliest available thematic reuse without declaring a historical origin, and develop an accessible public reading sequence.
+## Study library
+
+- [Aeon Key five-module companion](aeon-key-study-companion.md): short Key versus expanded Word workbook and optional editorial reflection prompts.
+- [Source-relationship map](source-relationship-map.md): full and plain-language Guides, Aeon Key versions, Book of Signs, Shadow Walker, scripts and Church umbrella foundation, with numerical distinctions and provenance limits.
+- [Aeon Key edition audit](aeon-key-edition-audit.md): five-module word-vocabulary comparison of separately ingested Word and seven-page PDF workbooks.
+- [Six Aeons and Archons](../../docs/spiritual/aeons-and-archons.md): the authored cosmology and accessible symbolic framing.
+- [Book of Signs](../../docs/spiritual/book-of-signs-study.md): seven modern Signs and twelve named reflective methods.
+
+**Next research/development:** paragraph-level Aeon Key Word↔PDF comparison, symbol and terminology consistency, and provenance-respecting bibliography review. Neither metaphysical truth nor clinical efficacy is assumed.
 
 **Boundary:** doctrines and reflective methods are not externally demonstrated cosmology or clinical care. Personal reflection materials stay private.
 

@@ -22,7 +22,7 @@ Five apparent Word↔PDF edition pairs were compared using normalized lowercase 
 | Phases of SURGE Training Manual | 9,271 | 9,284 | 99% | 99% | Strong textual equivalence |
 | The Aeon Key Workbook | 447 | 504 | 88% | 74% | Formatting/extraction variation or possibly distinct text |
 
-The workbook PDF repeats its running header on each page and reformats quotations and prompts; direct inspection found text-layout and quotation differences that explain **some** of the lower similarity. A substantive revision is **not established**. Preserve both files until a paragraph-level diff or author edition decision.
+The workbook PDF repeats its running header on each page and reformats quotations and prompts. A later [five-module targeted text extraction comparison](../programs/true-ascension/aeon-key-edition-audit.md) found all five headings and 92–100% module-level normalized Word-token vocabulary coverage by the PDF, with differences concentrated in note scaffolding; this does **not** establish ordered paragraph or layout equality. A substantive revision is **not established**. Preserve both files until a paragraph-level diff or author edition decision.
 
 **These scores do not mean binary equality.** The original PDF and DOCX always have distinct file bytes and need separate source records even when their extracted text is nearly the same.
 
