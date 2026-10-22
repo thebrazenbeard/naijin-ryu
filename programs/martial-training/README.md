@@ -8,9 +8,11 @@ This workstream covers the Naijin-Ryū martial program: the four protected ethic
 
 **Existing guides:** [ethics and ranks](../../docs/ethos-and-progression.md), [SURGE](../../docs/surge.md), [normalized curriculum](../../docs/curriculum.md), [manual chapter guide](../../docs/martial/manual-guide.md), [training logs](../../docs/training/session-templates.md).
 
-## Start training
+## Start with the original training programs
 
-**[Open the complete eight-week Phase 1 solo course](phase-1-eight-week-course.md)**: 32 timed beginner session cards across Weeks 1–8, clear lower-intensity alternatives, progress decisions and an [instructor observation guide](phase-1-instructor-observation.md). Week 1 uses the four original restart sessions; Weeks 2–8 each contain four individual session cards. This is **EDITORIAL solo study**, not the source's complete supervised-contact syllabus or rank authority.
+**[Original training schedules — start here](original-training-schedules.md).** Naijin-Ryū already has a detailed, source-authored founder-oriented **daily solo-intensive itinerary**, a distinct **six-week Fundamentals manual**, the **24-week Phases of SURGE student manual**, and the main martial manual's alternative lattice. These are the actual authored training programs, with physical methods, conditioning, reflection, recovery and evaluation.
+
+The [eight-week 32-session solo course](phase-1-eight-week-course.md), [30-minute Session A](phase-1-session-a.md), and [instructor observation guide](phase-1-instructor-observation.md) are **later EDITORIAL beginner adaptations**. They do **not** reproduce or supersede the technical instruction of the originals; Week 1 sessions were also newly written, not original manuscript lessons. Use a simplified plan only deliberately, rather than silently substituting it for Naijin-Ryū.
 
 ## Course library
 
