@@ -24,6 +24,8 @@ For an authorized operator with the separately held private manifest, run `pytho
 
 The `data/training-restart-week-v1.json` registry and `tools/verify_training_restart.py` record four **EDITORIAL** solo day plans (Shock, Unbalance, Reversal, Grapple; Environment remains cross-cutting awareness). The validator checks their source IDs are public-reviewable, that no mandatory contact is claimed, that session pages exist, and that the time blocks align with the stated 30/25/26/24 minute durations. A separate [cardio base track](../programs/martial-training/cardio-base-track.md) and [five-theme mental-conditioning rotation](../programs/martial-training/mental-conditioning-rotation.md) are optional editorial companions, not additional SURGE physical training days. The `validate_kb.py` gate runs the same check and unit tests include deliberate schedule/safety tampering.
 
+The [eight-week course register](../data/training-phase1-eight-week-v1.json) and [course validator](../tools/verify_phase1_course.py) additionally check the **32 planned Phase 1 sessions**, all seven Weeks 2–8 documents, matching source pillars, per-day timing, lower-impact alternatives, review questions and explicit non-automatic progression. Regression tests deliberately corrupt those conditions.
+
 These checks do **not** validate a physical exercise prescription, injury suitability, individual recovery, teaching authorization or actual achievement. The original Word syllabus keeps its own contact-oriented techniques and alternative calendar variants; editorial solo substitutes are not represented as authored combative techniques.
 
 ## Evidence classes
