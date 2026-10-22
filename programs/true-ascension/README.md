@@ -12,6 +12,7 @@ This workstream covers the Six Aeons, Archons, Divine Spark and Pleroma as autho
 
 - [Aeon Key five-module companion](aeon-key-study-companion.md): short Key versus expanded Word workbook and optional editorial reflection prompts.
 - [Source-relationship map](source-relationship-map.md): full and plain-language Guides, Aeon Key versions, Book of Signs, Shadow Walker, scripts and Church umbrella foundation, with numerical distinctions and provenance limits.
+- [Aeon Key edition audit](aeon-key-edition-audit.md): five-module word-vocabulary comparison of separately ingested Word and seven-page PDF workbooks.
 - [Six Aeons and Archons](../../docs/spiritual/aeons-and-archons.md): the authored cosmology and accessible symbolic framing.
 - [Book of Signs](../../docs/spiritual/book-of-signs-study.md): seven modern Signs and twelve named reflective methods.
 
