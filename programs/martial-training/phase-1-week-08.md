@@ -62,6 +62,6 @@
 
 ## Week 8 decision gate
 
-Any advancement requires an authorized instructor's separate practical assessment; solo completion is not evidence of contact skill or rank. **If missing or unclear, repeat or reduce the session rather than automatically moving to Week 9.** New pain, instability, or concerning symptoms call for stopping the affected activity and appropriate qualified advice. No forced disclosure, high-intensity striking, throws, locks, ground submissions or surprise threats. All training remains optional and adaptable.
+Any advancement requires an authorized instructor's separate practical assessment; solo completion is not evidence of contact skill or rank. **If missing or unclear, repeat or reduce the session rather than claiming completion or advancing into Phase 2.** New pain, instability, or concerning symptoms call for stopping the affected activity and appropriate qualified advice. No forced disclosure, high-intensity striking, throws, locks, ground submissions or surprise threats. All training remains optional and adaptable.
 
 [Entire eight-week course](phase-1-eight-week-course.md) · [Week 1 restart](phase-1-restart-week.md) · [Blank private session log](restart-session-log.md) · [Source and edition map](source-to-program-map.md)
