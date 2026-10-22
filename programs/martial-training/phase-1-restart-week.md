@@ -2,7 +2,7 @@
 
 **Basis:** `NRY-013`, *Phases of SURGE Training Manual.docx*, Phase 1 (weeks 1–8, four days/week); `NRY-009`, *Phase 1 Mental Conditioning*, days 1–5; and the repository's [eight-week Foundation](../../docs/training/8-week-foundation.md). **EDITORIAL:** The short sessions, intervals, optional cardio and ordering below are newly constructed plans, **not quotations or mandatory prescriptions from the sources**.
 
-This is a **re-entry week**, appropriate for assessing current conditioning after a gap. It is not equivalent to completing the original eight-week phase or passing a martial rank examination. Every session is individual, noncontact and subject to current readiness. The four sessions can be spread over more than seven days; recovery and modified activity count as legitimate choices.
+This is a **re-entry week**, appropriate for assessing current conditioning after a gap. It is not equivalent to completing the original eight-week phase or passing a martial rank examination. Every session is individual, noncontact and subject to current readiness. The four sessions can be spread over more than seven days; recovery and modified activity count as legitimate choices. The [cardio base track](cardio-base-track.md) and [optional mental-conditioning rotation](mental-conditioning-rotation.md) are **separate editorial companions**, not extra mandatory martial sessions.
 
 ## Week 1 plan
 
