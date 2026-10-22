@@ -1,0 +1,339 @@
+{
+  "schema": "NRY_PHASE1_EIGHT_WEEK_COURSE_V1",
+  "status": "EDITORIAL_SOLO_COURSE_NOT_INSTRUCTOR_QUALIFIED",
+  "program_id": "martial-training",
+  "phase": "Phase 1",
+  "source_basis": [
+    "NRY-013",
+    "NRY-009",
+    "NRY-012",
+    "NRY-007"
+  ],
+  "source_statement": "NRY-013: eight-week, four-day Phase 1; four SURGE day themes; Environment as general awareness. NRY-012 is a separate six-week individualized version, not this course.",
+  "editorial_statement": "Weeks 2–8 and all session exercises/timings here are newly authored low-contact teaching aids rather than verbatim exercises, evidence of fitness, or demonstrated self-defense.",
+  "automatic_advancement": false,
+  "allowed_to_repeat_weeks": true,
+  "mandatory_contact": false,
+  "privacy": "No private medical history or completed participant log in public GitHub.",
+  "week_one": {
+    "week": 1,
+    "document": "programs/martial-training/phase-1-restart-week.md",
+    "registry": "data/training-restart-week-v1.json",
+    "sessions": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ]
+  },
+  "weeks": [
+    {
+      "week": 2,
+      "theme": "Repeatable base",
+      "gate": "Can repeat each basic pattern smoothly and stop before overbalancing.",
+      "document": "programs/martial-training/phase-1-week-02.md",
+      "sessions": [
+        {
+          "day": "A",
+          "pillar": "Shock",
+          "duration_minutes": 30,
+          "focus": "Line and reset",
+          "practice": "Mark an imaginary line. Step to it, extend a light open-hand motion in empty air if comfortable, then step back to guard. Try 4 unhurried sets with a reset between; no target or contact.",
+          "easier_option": "Hands may remain at guard and only the steps are practiced.",
+          "review_question": "Does the stance remain stable on the return?"
+        },
+        {
+          "day": "B",
+          "pillar": "Unbalance",
+          "duration_minutes": 25,
+          "focus": "Balanced weight shift",
+          "practice": "Within arm's reach of a stable support, shift weight to one foot and back through center, then the other. Repeat at a slow pace without leaning beyond support.",
+          "easier_option": "Use both feet flat and a much smaller shift.",
+          "review_question": "Did you deliberately recover your base before the next move?"
+        },
+        {
+          "day": "C",
+          "pillar": "Reversal",
+          "duration_minutes": 26,
+          "focus": "One-step turn",
+          "practice": "Take one small step away from an imagined obstacle, turn the torso and feet together comfortably, pause, then return. Alternate right and left.",
+          "easier_option": "Remove the turn and practice a side step and stop.",
+          "review_question": "Was any turn rushed or unstable?"
+        },
+        {
+          "day": "D",
+          "pillar": "Grapple",
+          "duration_minutes": 24,
+          "focus": "Distance and disengage",
+          "practice": "Choose two harmless floor reference points. From a comfortable stance step to create extra space, stop, and calmly walk toward the clear exit. Repeat without speed.",
+          "easier_option": "Choose fewer steps or simply point to the available exit.",
+          "review_question": "Could you leave instead of approaching the imagined constraint?"
+        }
+      ]
+    },
+    {
+      "week": 3,
+      "theme": "Controlled directional variety",
+      "gate": "Can maintain balance and comfortable breathing when movement directions change.",
+      "document": "programs/martial-training/phase-1-week-03.md",
+      "sessions": [
+        {
+          "day": "A",
+          "pillar": "Shock",
+          "duration_minutes": 30,
+          "focus": "Four-direction square",
+          "practice": "Imagine a small square. Step forward, sideways, backward, sideways, returning to the start. Keep hands relaxed or in a comfortable guard; add only a slow noncontact hand extension if desired.",
+          "easier_option": "Shrink the square or remove the hand movement.",
+          "review_question": "Did the steps remain small enough for stable footing?"
+        },
+        {
+          "day": "B",
+          "pillar": "Unbalance",
+          "duration_minutes": 25,
+          "focus": "Clock-face steps",
+          "practice": "From a central stance, take short steps toward 12, 3, 6 and 9 o'clock, returning to center after each. Use a handrail or chair if needed.",
+          "easier_option": "Use only two directions, or perform seated foot-placement awareness.",
+          "review_question": "Did the center feel equally recoverable after each direction?"
+        },
+        {
+          "day": "C",
+          "pillar": "Reversal",
+          "duration_minutes": 26,
+          "focus": "Two-choice path",
+          "practice": "Imagine a clear doorway on either side. Name the safer option based on footing and bystanders, take two unhurried steps toward it, and stop; repeat after switching the imagined surroundings.",
+          "easier_option": "Decide and point without turning if movement is uncomfortable.",
+          "review_question": "Did the decision precede movement rather than follow a rush?"
+        },
+        {
+          "day": "D",
+          "pillar": "Grapple",
+          "duration_minutes": 24,
+          "focus": "Stable retreat",
+          "practice": "Begin at a safe distance from a wall. Practice two backward-then-side steps, stopping well before any obstacle. Return by walking normally; do not roll, fall or kneel.",
+          "easier_option": "Use a single sideways step and stop.",
+          "review_question": "Was there a clear route with no contact or collisions?"
+        }
+      ]
+    },
+    {
+      "week": 4,
+      "theme": "Consolidate and recover",
+      "gate": "Can explain a stop rule and report when a movement is not yet ready; no forced advancement.",
+      "document": "programs/martial-training/phase-1-week-04.md",
+      "sessions": [
+        {
+          "day": "A",
+          "pillar": "Shock",
+          "duration_minutes": 30,
+          "focus": "Slow technical checkpoint",
+          "practice": "Repeat your preferred Week 2 straight-line footwork sequence at roughly half your usual pace. Add optional light open-hand movements only if fully comfortable; prioritize relaxed returns over repetitions.",
+          "easier_option": "Footwork alone counts.",
+          "review_question": "Can you describe one control detail and one reason to stop?"
+        },
+        {
+          "day": "B",
+          "pillar": "Unbalance",
+          "duration_minutes": 25,
+          "focus": "Support-assisted stance review",
+          "practice": "Use a stable chair as a safety reference while repeating gentle forward/back and lateral weight shifts. Break the practice into comfortable sets with generous pauses.",
+          "easier_option": "Remain in a natural standing stance with ordinary walking.",
+          "review_question": "Can you reset your base without compensating through the upper body?"
+        },
+        {
+          "day": "C",
+          "pillar": "Reversal",
+          "duration_minutes": 26,
+          "focus": "Pause-before-turn review",
+          "practice": "From a quiet stance, look at a clear travel path, say 'pause', make one low-angle pivot, stop, then choose whether another step is necessary.",
+          "easier_option": "Look-and-point response with no pivot.",
+          "review_question": "Can you decline movement when there is no safe path?"
+        },
+        {
+          "day": "D",
+          "pillar": "Grapple",
+          "duration_minutes": 24,
+          "focus": "Safety vocabulary check",
+          "practice": "At an easy pace, alternate a comfortable stance, one step away and a verbal 'stop'. Spend the remainder identifying a safe floor and explaining why an untrained fall or submission is excluded.",
+          "easier_option": "Use ordinary walking and verbal choices alone.",
+          "review_question": "Can you explain the training limits without demonstrating a risky technique?"
+        }
+      ]
+    },
+    {
+      "week": 5,
+      "theme": "Link two safe ideas",
+      "gate": "Can link simple movements without losing control; connection is conceptual, not a contact combination.",
+      "document": "programs/martial-training/phase-1-week-05.md",
+      "sessions": [
+        {
+          "day": "A",
+          "pillar": "Shock",
+          "duration_minutes": 30,
+          "focus": "Footwork to noncontact motion",
+          "practice": "Step sideways, return to stance, then extend a gentle palm motion into empty space if comfortable; immediately reset without force or rush. Repeat in loose, self-selected sets.",
+          "easier_option": "Use the step and return with hands relaxed.",
+          "review_question": "Does the hand motion interrupt balance or shoulder comfort?"
+        },
+        {
+          "day": "B",
+          "pillar": "Unbalance",
+          "duration_minutes": 25,
+          "focus": "Center to direction",
+          "practice": "Shift weight gently, recover to centered stance, then take a small step away from a marked boundary. Pause between elements to avoid uncontrolled momentum.",
+          "easier_option": "Split the two actions into separate exercises.",
+          "review_question": "Can you clearly tell when you have returned to your base?"
+        },
+        {
+          "day": "C",
+          "pillar": "Reversal",
+          "duration_minutes": 26,
+          "focus": "Pivot to exit",
+          "practice": "Make a small comfortable pivot and then, only if stable, take two walking steps toward a clear exit. Repeat after resetting and choosing the other side.",
+          "easier_option": "Perform an ordinary walking turn without a pivot.",
+          "review_question": "Was the selected exit clear before taking the first step?"
+        },
+        {
+          "day": "D",
+          "pillar": "Grapple",
+          "duration_minutes": 24,
+          "focus": "Space to stop",
+          "practice": "At two imagined floor points, move from a closer to a farther safe distance, stop on command, and state whether a clear exit is available. No partner resistance or ground work.",
+          "easier_option": "Walk normally while simply naming distances.",
+          "review_question": "Was disengagement the first solution rather than control of another person?"
+        }
+      ]
+    },
+    {
+      "week": 6,
+      "theme": "Adapt to benign information changes",
+      "gate": "Can pause on an unexpected but nonthreatening cue and choose safe space without rushing.",
+      "document": "programs/martial-training/phase-1-week-06.md",
+      "sessions": [
+        {
+          "day": "A",
+          "pillar": "Shock",
+          "duration_minutes": 30,
+          "focus": "Change the travel lane",
+          "practice": "Choose one of two clear walking lanes before each set. Step toward the chosen lane, stop, and make only a slow noncontact arm motion if comfortable. Alternate the lane between sets.",
+          "easier_option": "Use just walking and hand-free guard observation.",
+          "review_question": "Can you change plans without adding speed or contact?"
+        },
+        {
+          "day": "B",
+          "pillar": "Unbalance",
+          "duration_minutes": 25,
+          "focus": "Footing observation",
+          "practice": "Without introducing actual hazards, verbally imagine slick versus clear flooring. Explain which route you'd avoid; practice small movements only on a verified safe surface.",
+          "easier_option": "Do the decision-making portion seated.",
+          "review_question": "Does caution override the urge to finish repetitions?"
+        },
+        {
+          "day": "C",
+          "pillar": "Reversal",
+          "duration_minutes": 26,
+          "focus": "Stop-and-redirect cue",
+          "practice": "Choose a neutral spoken cue such as 'change'. During slow stepping, pause when you say the cue yourself, check balance, then choose a different safe direction. Never use surprise attacks.",
+          "easier_option": "Use a full stop between every step, with no direction change.",
+          "review_question": "Did you pause and recheck footing before redirecting?"
+        },
+        {
+          "day": "D",
+          "pillar": "Grapple",
+          "duration_minutes": 24,
+          "focus": "Personal-space and permission",
+          "practice": "In an imagined queue or crowded hallway, choose a path that respects other people's space and allows you to leave. Walk it slowly on an empty floor and say 'stop' as a rehearsal of boundaries.",
+          "easier_option": "Describe the route without moving.",
+          "review_question": "Can you explain consent and personal-space limits?"
+        }
+      ]
+    },
+    {
+      "week": 7,
+      "theme": "Consistency under self-selected variation",
+      "gate": "Can reproduce stable movement on two separate attempts, with consistent stopping and environmental attention.",
+      "document": "programs/martial-training/phase-1-week-07.md",
+      "sessions": [
+        {
+          "day": "A",
+          "pillar": "Shock",
+          "duration_minutes": 30,
+          "focus": "Choose and repeat two sequences",
+          "practice": "Select two comfortable noncontact footwork patterns from prior weeks. Repeat each at slow pace, then revisit the easier one at the same pace; do not increase power for a 'final test'.",
+          "easier_option": "Repeat only one familiar step pattern.",
+          "review_question": "Was movement repeatable without unnecessary shoulder tension?"
+        },
+        {
+          "day": "B",
+          "pillar": "Unbalance",
+          "duration_minutes": 25,
+          "focus": "Stability comparison",
+          "practice": "Choose two previously practiced supported weight shifts. Alternate them while keeping a steady base, then describe which requires further practice rather than pushing for longer holds.",
+          "easier_option": "Practice with both feet on the floor and a stable support.",
+          "review_question": "Can you recognize the less reliable pattern without concealing it?"
+        },
+        {
+          "day": "C",
+          "pillar": "Reversal",
+          "duration_minutes": 26,
+          "focus": "Exit choice explanation",
+          "practice": "Imagine two possible exits; identify an obstruction in one and choose the other. Walk only the unobstructed path in a cleared area, return slowly, and re-evaluate.",
+          "easier_option": "Make a verbal choice without walking.",
+          "review_question": "Do the reasons for choosing an exit remain consistent?"
+        },
+        {
+          "day": "D",
+          "pillar": "Grapple",
+          "duration_minutes": 24,
+          "focus": "Boundary and stop rehearsal",
+          "practice": "Practice a comfortable stance, a calm verbal boundary, and a small backward/side step. Repeat without raising volume, force, or physical threat simulation.",
+          "easier_option": "Verbal boundary and ordinary walk only.",
+          "review_question": "Can you stop without tension, escalation or reliance on another person?"
+        }
+      ]
+    },
+    {
+      "week": 8,
+      "theme": "Review, not graduation",
+      "gate": "Any advancement requires an authorized instructor's separate practical assessment; solo completion is not evidence of contact skill or rank.",
+      "document": "programs/martial-training/phase-1-week-08.md",
+      "sessions": [
+        {
+          "day": "A",
+          "pillar": "Shock",
+          "duration_minutes": 30,
+          "focus": "Shock baseline repeat",
+          "practice": "Repeat the safest Week 1 or Week 2 footwork/optional air-motion work at comparable effort. Do not intentionally push past baseline. Note whether returns to stance appear controlled.",
+          "easier_option": "Only stance/footwork is sufficient.",
+          "review_question": "Which observable detail changed, and what remains unknown?"
+        },
+        {
+          "day": "B",
+          "pillar": "Unbalance",
+          "duration_minutes": 25,
+          "focus": "Unbalance baseline repeat",
+          "practice": "Repeat a short supported weight shift and a simple stance reset. If possible, compare with Week 2 using the same support and difficulty without forcing longer holds.",
+          "easier_option": "Ordinary walking, no balance challenge.",
+          "review_question": "Is the movement reproducible rather than just 'felt better'?"
+        },
+        {
+          "day": "C",
+          "pillar": "Reversal",
+          "duration_minutes": 26,
+          "focus": "Reversal baseline repeat",
+          "practice": "Choose a small side step/pivot and safe exit. Move slowly, check footing, then explain why disengagement may be preferable to confrontation.",
+          "easier_option": "Verbal route choice and no pivot.",
+          "review_question": "Can you make a reasoned non-engagement choice?"
+        },
+        {
+          "day": "D",
+          "pillar": "Grapple",
+          "duration_minutes": 24,
+          "focus": "Grapple boundary demonstration",
+          "practice": "Demonstrate spacing, calm 'stop', safe retreat and identification of the limits of solo practice. Do not attempt throws, holds, submissions or ukemi as a test.",
+          "easier_option": "Use a verbal assessment and gentle walking.",
+          "review_question": "Can you clearly distinguish practiced concepts from instructor-verified technique?"
+        }
+      ]
+    }
+  ]
+}

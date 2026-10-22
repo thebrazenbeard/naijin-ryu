@@ -1,0 +1,140 @@
+{
+  "schema": "NRY_TRAINING_RESTART_V1",
+  "program_id": "martial-training",
+  "phase": "Phase 1",
+  "status": "EDITORIAL_TEMPLATE_NOT_SAFETY_CERTIFIED",
+  "source_ids": [
+    "NRY-013",
+    "NRY-009"
+  ],
+  "source_boundaries": {
+    "source": "Source supplies four day-pillar themes in Phase 1; dedicated Environment comes in Phase 2.",
+    "editorial": "Durations, solo substitutions, exercise selection, cardio and review gates are newly proposed.",
+    "external": "Intensity guidance referenced from CDC/HHS separately; not source doctrine."
+  },
+  "mandatory_contact": false,
+  "qualified_instructor_required_for_advanced_training": true,
+  "environment_scope": "cross-cutting situational awareness, not fifth session",
+  "session_order": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "sessions": [
+    {
+      "id": "A",
+      "pillar": "Shock",
+      "duration_minutes": 30,
+      "document": "programs/martial-training/phase-1-session-a.md",
+      "segments": [
+        {
+          "name": "Preparation",
+          "minutes": 5
+        },
+        {
+          "name": "Footwork",
+          "minutes": 6
+        },
+        {
+          "name": "Controlled shadowboxing",
+          "minutes": 8
+        },
+        {
+          "name": "Cardio intervals",
+          "minutes": 7
+        },
+        {
+          "name": "Cooldown and reflection",
+          "minutes": 4
+        }
+      ]
+    },
+    {
+      "id": "B",
+      "pillar": "Unbalance",
+      "duration_minutes": 25,
+      "document": "programs/martial-training/phase-1-session-b.md",
+      "segments": [
+        {
+          "name": "Preparation",
+          "minutes": 5
+        },
+        {
+          "name": "Stance transitions",
+          "minutes": 7
+        },
+        {
+          "name": "Supported balance",
+          "minutes": 5
+        },
+        {
+          "name": "Walking recovery",
+          "minutes": 5
+        },
+        {
+          "name": "Cooldown and reflection",
+          "minutes": 3
+        }
+      ]
+    },
+    {
+      "id": "C",
+      "pillar": "Reversal",
+      "duration_minutes": 26,
+      "document": "programs/martial-training/phase-1-session-c.md",
+      "segments": [
+        {
+          "name": "Preparation",
+          "minutes": 5
+        },
+        {
+          "name": "Slow pivots",
+          "minutes": 8
+        },
+        {
+          "name": "Exit choices",
+          "minutes": 6
+        },
+        {
+          "name": "Walking",
+          "minutes": 4
+        },
+        {
+          "name": "Cooldown and reflection",
+          "minutes": 3
+        }
+      ]
+    },
+    {
+      "id": "D",
+      "pillar": "Grapple",
+      "duration_minutes": 24,
+      "document": "programs/martial-training/phase-1-session-d.md",
+      "segments": [
+        {
+          "name": "Preparation",
+          "minutes": 5
+        },
+        {
+          "name": "Position and distance",
+          "minutes": 6
+        },
+        {
+          "name": "Safe disengagement",
+          "minutes": 5
+        },
+        {
+          "name": "Walking",
+          "minutes": 5
+        },
+        {
+          "name": "Cooldown and reflection",
+          "minutes": 3
+        }
+      ]
+    }
+  ],
+  "progression_document": "programs/martial-training/phase-1-progression-gates.md",
+  "privacy": "no participant identity, injury history, or completed session log permitted in public repository"
+}

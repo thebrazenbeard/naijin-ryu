@@ -415,6 +415,167 @@
       },
       "public_document": "docs/spiritual/texts-and-study.md",
       "limitation": "Thematic reuse does not prove chronological authorship or direct descent."
+    },
+    {
+      "id": "NRY-C026",
+      "claim_type": "TRAINING_SCHEDULE",
+      "evidence_status": "SOURCE_RECORDED",
+      "statement": "The student training manual identifies Phase 2 as Pillar Integration across weeks 9–16, scheduled five days per week.",
+      "source": {
+        "source_id": "NRY-013",
+        "locator": "Part I, Phase 2 heading",
+        "anchors": [
+          "Phase 2 – Pillar Integration",
+          "Weeks 9–16"
+        ]
+      },
+      "public_document": "programs/martial-training/phase-2-pillar-integration.md",
+      "limitation": "An authored timetable, not universal safety or readiness evidence."
+    },
+    {
+      "id": "NRY-C027",
+      "claim_type": "TRAINING_SCHEDULE",
+      "evidence_status": "SOURCE_RECORDED",
+      "statement": "Phase 2 gives each of the five SURGE pillars its own weekly day.",
+      "source": {
+        "source_id": "NRY-013",
+        "locator": "Phase 2 weekly training structure",
+        "anchors": [
+          "Weekly Training Structure (Phase 2, 5 Days)",
+          "Environment Day"
+        ]
+      },
+      "public_document": "programs/martial-training/phase-2-pillar-integration.md",
+      "limitation": "The public course replaces potentially injurious examples with safer conceptual learning."
+    },
+    {
+      "id": "NRY-C028",
+      "claim_type": "TRAINING_SCHEDULE",
+      "evidence_status": "SOURCE_RECORDED",
+      "statement": "The source describes Environment training as an explicit new component in Phase 2.",
+      "source": {
+        "source_id": "NRY-013",
+        "locator": "Part I, Phase 2, Environment Training",
+        "anchors": [
+          "Environment Training:",
+          "Phase 2 is the student’s first real exposure"
+        ]
+      },
+      "public_document": "programs/martial-training/phase-2-pillar-integration.md",
+      "limitation": "Does not authorize unqualified confined-space or ambush demonstrations."
+    },
+    {
+      "id": "NRY-C029",
+      "claim_type": "TRAINING_SCHEDULE",
+      "evidence_status": "SOURCE_RECORDED",
+      "statement": "The student manual identifies Phase 3 as Dynamic Application, weeks 17–24, six days per week.",
+      "source": {
+        "source_id": "NRY-013",
+        "locator": "Part I, Phase 3 heading",
+        "anchors": [
+          "Phase 3 – Dynamic Application",
+          "Weeks 17–24"
+        ]
+      },
+      "public_document": "programs/martial-training/phase-3-dynamic-application.md",
+      "limitation": "Authored schedule only, with no observed training outcomes."
+    },
+    {
+      "id": "NRY-C030",
+      "claim_type": "TRAINING_SCHEDULE",
+      "evidence_status": "SOURCE_RECORDED",
+      "statement": "Phase 3 includes a sixth integration and sparring theme after five pillar-focused themes.",
+      "source": {
+        "source_id": "NRY-013",
+        "locator": "Part I, Phase 3 weekly training structure",
+        "anchors": [
+          "Weekly Training Structure (Phase 3, 6 Days)",
+          "Sparring Day"
+        ]
+      },
+      "public_document": "programs/martial-training/phase-3-dynamic-application.md",
+      "limitation": "No implicit permission to use contact, weapons or surprise exposure."
+    },
+    {
+      "id": "NRY-C031",
+      "claim_type": "MARTIAL_ETHOS",
+      "evidence_status": "SOURCE_RECORDED",
+      "statement": "The source explicitly embeds an ethical-pressure-testing topic involving restraint and bystanders.",
+      "source": {
+        "source_id": "NRY-013",
+        "locator": "Part I, Phase 3, Ethical Pressure Testing",
+        "anchors": [
+          "Ethical Pressure Testing:",
+          "not continue fighting"
+        ]
+      },
+      "public_document": "programs/martial-training/phase-3-dynamic-application.md",
+      "limitation": "Learning objectives do not establish safe field performance."
+    },
+    {
+      "id": "NRY-C032",
+      "claim_type": "TRAINING_SCHEDULE",
+      "evidence_status": "SOURCE_RECORDED",
+      "statement": "The mastery manual presents Phase 4 as continuous development and Guardian's Path rather than terminal calendar completion.",
+      "source": {
+        "source_id": "NRY-013",
+        "locator": "Part II and Phase 4 Overview",
+        "anchors": [
+          "Continuous Evolution",
+          "Phase 4 Overview: The Guardian"
+        ]
+      },
+      "public_document": "programs/martial-training/guardian-teaching-path.md",
+      "limitation": "Guardian stage is not proof of rank, credentials, operation or appointment."
+    },
+    {
+      "id": "NRY-C033",
+      "claim_type": "TRAINING_SCHEDULE",
+      "evidence_status": "SOURCE_RECORDED",
+      "statement": "The Phase 4 teaching apprenticeship describes early assistant teaching under supervision and later limited lesson leadership.",
+      "source": {
+        "source_id": "NRY-013",
+        "locator": "Part II, Teaching Apprenticeship",
+        "anchors": [
+          "Teaching Apprenticeship:",
+          "Months 1–2",
+          "Months 3–4"
+        ]
+      },
+      "public_document": "programs/martial-training/guardian-teaching-path.md",
+      "limitation": "Proposed progression, not an existing staffed school or licensing authority."
+    },
+    {
+      "id": "NRY-C034",
+      "claim_type": "SPIRITUAL_DOCTRINE",
+      "evidence_status": "SOURCE_RECORDED",
+      "statement": "The source includes a philosophical and spiritual integration component parallel to technical learning in Phase 4.",
+      "source": {
+        "source_id": "NRY-013",
+        "locator": "Part II, Philosophical and Spiritual Integration",
+        "anchors": [
+          "Philosophical and Spiritual Integration:",
+          "A Guide to True Ascension"
+        ]
+      },
+      "public_document": "programs/martial-training/guardian-teaching-path.md",
+      "limitation": "Spiritual analogies are optional and cannot be imposed as an assessment gate."
+    },
+    {
+      "id": "NRY-C035",
+      "claim_type": "SPIRITUAL_PRACTICE",
+      "evidence_status": "SOURCE_RECORDED",
+      "statement": "The Phase 1 mental conditioning manual organizes pillar-related reflection and breathing themes through a distinct fifth Environment day.",
+      "source": {
+        "source_id": "NRY-009",
+        "locator": "Training Schedule Overview; Day 5 heading",
+        "anchors": [
+          "Training Schedule Overview",
+          "Day 5 – Environment"
+        ]
+      },
+      "public_document": "programs/martial-training/source-to-program-map.md",
+      "limitation": "Source's biomedical and trauma-related mechanism claims remain unverified."
     }
   ]
 }

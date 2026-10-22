@@ -101,9 +101,32 @@ except (OSError, ValueError, KeyError, TypeError) as exc:
     program_check = {"workstreams": 0}
     errors.append("invalid program registry: " + type(exc).__name__)
 
+# Source-bounded, public-only Phase 1 restart plan integrity.
+try:
+    from tools.verify_training_restart import verify as check_training_restart
+    training_check = check_training_restart(root)
+    for error in training_check["errors"]:
+        errors.append("training restart: " + error)
+except (OSError, KeyError, ValueError, TypeError) as exc:
+    training_check = {"sessions": 0, "planned_minutes": 0}
+    errors.append("invalid training restart: " + type(exc).__name__)
+
+# Editorial eight-week course coverage; verifies documentation, not physical safety.
+try:
+    from tools.verify_phase1_course import verify as check_phase1_course
+    course_check = check_phase1_course(root)
+    for error in course_check["errors"]:
+        errors.append("Phase 1 course: " + error)
+except (OSError, ValueError, KeyError, TypeError) as exc:
+    course_check = {"planned_sessions": 0}
+    errors.append("invalid Phase 1 course: " + type(exc).__name__)
+
 result = {"markdown_files": len(markdown), "links_checked": links_checked,
           "cataloged_uploads": len(records), "source_claims": claim_check["claims"],
           "source_anchors_declared": claim_check["declared_anchors"],
-          "program_workstreams": program_check["workstreams"], "errors": errors}
+          "program_workstreams": program_check["workstreams"],
+          "training_sessions": training_check["sessions"],
+          "training_restart_minutes": training_check["planned_minutes"],
+          "phase1_course_sessions": course_check["planned_sessions"], "errors": errors}
 print(json.dumps(result, ensure_ascii=False, indent=2))
 sys.exit(1 if errors else 0)

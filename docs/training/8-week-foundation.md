@@ -15,6 +15,10 @@
 | 7 | Consistent performance under safe feedback and varied conditions | Reflection without self-aggrandizement | Corrects technical errors without escalation |
 | 8 | Consolidation, rest/recovery review, controlled demonstration | Service and humility | Instructor assessment of movement, judgment and safety |
 
+## Ready-to-use introductory sessions
+
+For a participant **resuming physical training**, the martial workstream offers the [full eight-week solo course](../../programs/martial-training/phase-1-eight-week-course.md), beginning with the [four-session restart week](../../programs/martial-training/phase-1-restart-week.md), and provides [weeks 1–8 progression gates](../../programs/martial-training/phase-1-progression-gates.md), a [blank private log template](../../programs/martial-training/restart-session-log.md), and [instructor observation criteria](../../programs/martial-training/phase-1-instructor-observation.md). These are **editorial adaptations** of this source-grounded framework, not a rewriting of the original Word/PDF manuals. See the separate [cardio base track](../../programs/martial-training/cardio-base-track.md) and [mental-conditioning five-theme rotation](../../programs/martial-training/mental-conditioning-rotation.md) for optional companions. Personal injury modifications require individual guidance; do not store a participant's history in this repository.
+
 ## Training day themes
 
 **Day A — Shock (principle-level):** defensive readiness, movement organization, space and timing, controlled pad-oriented or noncontact study as selected by a qualified instructor.
