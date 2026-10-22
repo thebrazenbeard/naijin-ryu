@@ -28,6 +28,10 @@ These dispositions are **editorial decision rules** and must be applied with cur
 
 The table's specific grouping is **EDITORIAL**, building on [the existing eight-week framework](../../docs/training/8-week-foundation.md). It is not a direct transcription of the original's drills or biomedical targets. If a learner is not ready, the appropriate response may be to extend a week, change a task, or remain at Phase 1.
 
+## Detailed teaching route
+
+Open the [complete eight-week course](phase-1-eight-week-course.md) for links to the **32 specific individual sessions**. Weeks 2–8 retain the Week 1 time budgets but vary the learning tasks rather than escalating physical load on a calendar. Week 4 is a deliberate consolidation checkpoint, and Week 8 is review, not automatic graduation. The [instructor observation protocol](phase-1-instructor-observation.md) is an editorial aid, not a ranking or credential decision.
+
 ## Cardio and recovery companion
 
 The public restart sessions include brief easy-to-brisk walking or marching. For intensity, the current CDC [talk test](https://www.cdc.gov/physical-activity-basics/measuring/index.html) provides an *external* check: moderate-intensity aerobic activity generally allows speaking but not singing. The [federal physical activity guidance](https://odphp.health.gov/our-work/nutrition-physical-activity/physical-activity-guidelines/about-physical-activity-guidelines/questions-answers) recommends starting with short amounts and building gradually for previously inactive adults.
