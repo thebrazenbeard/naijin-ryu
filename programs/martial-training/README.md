@@ -12,7 +12,9 @@ This workstream covers the Naijin-Ryū martial program: the four protected ethic
 
 - [Phase 1 — eight-week foundation](../../docs/training/8-week-foundation.md): previously established introductory program and source variants.
 - [First-week restart plan](phase-1-restart-week.md): four flexible solo training opportunities, with recovery and safety boundaries.
-- [30-minute Session A](phase-1-session-a.md): ready-to-follow warm-up, footwork, light shadowboxing and cardio intervals.
+- [Complete Phase 1 solo sessions](phase-1-restart-week.md): [A — Shock](phase-1-session-a.md), [B — Unbalance](phase-1-session-b.md), [C — Reversal](phase-1-session-c.md), [D — Grapple](phase-1-session-d.md). Environment remains an awareness theme across the four days.
+- [Weeks 1–8 decision gates](phase-1-progression-gates.md): when to repeat, reduce, recover or progress modestly; not automatic rank.
+- [Machine-readable training registry](../../data/training-restart-week-v1.json) and [verification tool](../../tools/verify_training_restart.py): public session identifiers and 105 planned minutes, no private participant records.
 - [Blank session and recovery log](restart-session-log.md): private tracking format; do not publish completed personal records.
 - [Phase 2 — Pillar Integration](phase-2-pillar-integration.md): weeks 9–16, five-themed-day source structure with editorial learning evidence.
 - [Phase 3 — Dynamic Application](phase-3-dynamic-application.md): weeks 17–24, six-day source structure and noncontact ethical-pressure alternatives.
