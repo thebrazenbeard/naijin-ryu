@@ -6,14 +6,14 @@ These are **proposals** and research material, not evidence of an operating camp
 
 ## Program concepts in the camp document
 
-The Camps Overview describes two separate seasonal **overnight programs**, each conceptualized for up to **50** participants:
+The historical Camps Overview combines two proposed seasonal **overnight experiences**, each conceptualized for up to **50** participants. **Only the youth martial arts camp is proposed as a Naijin-Ryū program**; the horror experience is a separate concept placed alongside it in the planning file:
 
 | Concept | Described audience | Design elements |
 |---|---|---|
 | Naijin-Ryū summer camp | Children/youth | Martial arts introduction, inner-development themes, structured supervised activities |
 | Fall/winter immersive horror experience | Teens/adults | Narrative experiences, controlled simulated fear and participant choice |
 
-The second concept has substantially different psychological, consent and safeguarding risks from a youth martial arts camp. They should **not** share a one-size-fits-all intake, risk waiver or supervision plan.
+The horror concept has distinct psychological, consent and safeguarding risks. It should **not** share the Naijin-Ryū program identity, intake, safety policies, or workstream merely because both ideas appear in one proposal. The source is retained for provenance, not adopted into the Naijin-Ryū curriculum.
 
 ## Fourteen planning sections indexed from the source
 
