@@ -86,11 +86,11 @@ def verify(root: Path) -> dict:
                 count += 1
                 base_day = base_by_id[day]
                 marker = headers[i]
-                page_part = text[marker.end():headers[i+1].start() if i < 3 else len(text).split("## Week ")[0].__len__()]
-                # Use the text between neighboring headings; for D the table
-                # remains before the week-level review heading.
-                if i == 3:
-                    page_part = text[marker.end():].split("## Week ", 1)[0]
+                # Each day occupies the text until the next day's heading,
+                # or, for D, until the week-level decision gate.
+                end = (headers[i + 1].start() if i < 3
+                       else text.find(f"## Week {w} decision gate", marker.end()))
+                page_part = text[marker.end():end if end != -1 else len(text)]
                 if entry["pillar"] != DAYS[day] or marker.group(2) != DAYS[day]:
                     errors.append(f"W{w}{day}:wrong-pillar")
                 if marker.group(3) != entry["focus"]:
@@ -107,8 +107,8 @@ def verify(root: Path) -> dict:
                     errors.append(f"W{w}{day}:missing-time-blocks")
                     continue
                 clock = 0
-                for start, end, label, desc in rows:
-                    if int(start) != clock or int(end) - int(start) != segments[len([s for s in rows if int(s[0]) < int(start)])]["minutes"]:
+                for j, (start, end, label, desc) in enumerate(rows):
+                    if int(start) != clock or int(end) - int(start) != segments[j]["minutes"]:
                         errors.append(f"W{w}{day}:time-block-drift")
                         break
                     clock = int(end)
