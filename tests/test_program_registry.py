@@ -22,10 +22,26 @@ class ProgramRegistryTests(unittest.TestCase):
     def save(self):
         self.file.write_text(json.dumps(self.data), encoding="utf-8")
 
-    def test_six_valid_lanes(self):
+    def test_five_valid_lanes(self):
         result = verify(self.root)
-        self.assertEqual(result["workstreams"], 6)
+        self.assertEqual(result["workstreams"], 5)
         self.assertEqual(result["status"], "PASS")
+
+    def test_unrelated_horror_cannot_become_active_naijin_ryu_program(self):
+        item = dict(self.data["programs"][0])
+        item["id"] = "horror-immersion"
+        item["branch"] = "program/horror-immersion"
+        item["root"] = "programs/horror-immersion/README.md"
+        self.data["programs"].append(item)
+        self.save()
+        self.assertIn("unrelated-horror-reclassified-as-naijin-ryu",
+                      verify(self.root)["errors"])
+
+    def test_separate_concept_cannot_be_lost(self):
+        self.data.pop("non_program_concepts", None)
+        self.save()
+        self.assertIn("separate-horror-provenance-not-preserved",
+                      verify(self.root)["errors"])
 
     def test_duplicate_branch_is_rejected(self):
         self.data["programs"][1]["branch"] = self.data["programs"][0]["branch"]

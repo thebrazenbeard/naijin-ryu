@@ -29,7 +29,7 @@ Its martial framework is **SURGE**: **Shock, Unbalance, Reversal, Grapple, Envir
 
 ## Separate program workstreams
 
-The portfolio is organized into [six program workstreams](programs/README.md), each with a named `program/*` Git development branch and a scoped documentation directory. `main` remains the single integrated reference. The [branching model](docs/PROGRAM_BRANCH_MODEL.md) defines reviews, synchronization and publication boundaries; the [program registry](data/program-workstreams.json) is machine readable. A program branch is **a work lane, not proof of active operation, approval or independent legal standing**.
+The Naijin-Ryū portfolio is organized into [five program workstreams](programs/README.md), each with a named `program/*` Git development branch and a scoped documentation directory. The horror-experience concept, although described in the same historical camp document, is **not** a Naijin-Ryū program. `main` remains the single integrated reference. The [branching model](docs/PROGRAM_BRANCH_MODEL.md) defines reviews, synchronization and publication boundaries; the [program registry](data/program-workstreams.json) is machine readable. A program branch is **a work lane, not proof of active operation, approval or independent legal standing**.
 
 ## The four ethical principles
 

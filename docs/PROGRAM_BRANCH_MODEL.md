@@ -10,10 +10,13 @@ Naijin-Ryū has one integrated **`main`** repository and multiple named **progra
 | [True Ascension studies and practices](../programs/true-ascension/README.md) | `program/true-ascension` | Six Aeons, Archons, Aeon Key, Book of Signs, reflection and spiritual study |
 | [Church and community foundation](../programs/church-community/README.md) | `program/church-community` | Author's integrative whole-system Church foundation, voluntary participation, historical Indiana formation language, governance concepts |
 | [Naijin-Ryū youth summer camp](../programs/youth-camp/README.md) | `program/youth-camp` | Proposed youth overnight camp, educational schedule, supervision and applicable health and safety review |
-| [Immersive horror program](../programs/horror-immersion/README.md) | `program/horror-immersion` | Proposed fall/winter immersive narrative experience, participant consent, adult/age boundaries, opt-outs and safeguarding |
 | [Dojo and facilities development](../programs/dojo-facilities/README.md) | `program/dojo-facilities` | Dojo facility and extension concept, functional requirements, non-identifying accessibility and approval research |
 
-The Church foundational package is the **umbrella description of the collective whole**, not an authority over the other branches merely because there is a `church-community` work lane. Martial and spiritual participation remain distinguishable and voluntary. Youth and immersive-horror camp concepts use the same historical proposal document but are **two different programs**, requiring separate safety, eligibility and consent reviews.
+The Church foundational package is the **umbrella description of the collective whole**, not an authority over the other branches merely because there is a `church-community` work lane. Martial and spiritual participation remain distinguishable and voluntary. The historical Camps Overview document describes both a Naijin-Ryū youth martial camp and a separate fictional slasher-movie horror concept. Their co-location in one document is not evidence that the horror concept belongs to the Naijin-Ryū martial, spiritual, Church or community programs. The horror concept is recorded for provenance only and **excluded from the five active Naijin-Ryū workstream lanes**.
+
+## Outside-scope historical concept
+
+[Immersive horror](../programs/horror-immersion/README.md) is an independently recognizable proposal, **not a Naijin-Ryū program**. Its previously created `program/horror-immersion` Git ref has been left intact to avoid destructive changes, but is parked without an active workstream or presumed separate organization. Rehoming it into an independent repository or deleting that legacy ref requires a separately authorized decision; neither operation is implied by this correction.
 
 ## Working rules
 
