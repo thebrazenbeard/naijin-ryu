@@ -31,4 +31,4 @@ These distinctions preserve the user's authored collective meaning while **not c
 
 The *immersive horror experience* mentioned alongside the youth camp in a historical source is **not a Naijin-Ryū component**. Its previous Git branch is a parked legacy artifact; it is outside these reader pathways. See [program scope](../programs/README.md).
 
-[Whole-system relationships](SYSTEM_COHERENCE.md) · [Open improvements](WHOLE_SYSTEM_BACKLOG.md) · [Editorial authority](EDITORIAL_AUTHORITY.md).
+[Whole-system relationships](SYSTEM_COHERENCE.md) · [Open improvements](WHOLE_SYSTEM_BACKLOG.md) · [Source traceability audit](SOURCE_TRACEABILITY_GAPS.md) · [Editorial authority](EDITORIAL_AUTHORITY.md).
