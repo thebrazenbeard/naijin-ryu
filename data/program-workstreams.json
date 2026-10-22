@@ -1,0 +1,123 @@
+{
+  "schema": "NRY_PROGRAM_WORKSTREAMS_V1",
+  "canonical_integration_branch": "main",
+  "workstream_type": "long-lived coordination branches, not independent products or deployed environments",
+  "created_from_main": "a865c06b4c98b70f950ca3b4032f7d5fc00d5ae4",
+  "programs": [
+    {
+      "id": "martial-training",
+      "name": "Martial arts and SURGE",
+      "branch": "program/martial-training",
+      "root": "programs/martial-training/README.md",
+      "status": "SOURCE-BASED DEVELOPMENT",
+      "scope": "Martial instruction, SURGE pillars, Sashes of Dawn, training calendars, assessments and non-operational safety review.",
+      "source_ids": [
+        "NRY-007",
+        "NRY-009",
+        "NRY-010",
+        "NRY-012",
+        "NRY-013",
+        "NRY-014",
+        "NRY-016"
+      ],
+      "shared_docs": [
+        "docs/ethos-and-progression.md",
+        "docs/surge.md",
+        "docs/curriculum.md",
+        "docs/martial/manual-guide.md"
+      ],
+      "privacy": "No advanced harmful techniques or participant health records in public GitHub."
+    },
+    {
+      "id": "true-ascension",
+      "name": "True Ascension studies and practices",
+      "branch": "program/true-ascension",
+      "root": "programs/true-ascension/README.md",
+      "status": "SOURCE-BASED DEVELOPMENT",
+      "scope": "Six Aeons, Archons, Aeon Key, Book of Signs, reflection and spiritual study.",
+      "source_ids": [
+        "NRY-017",
+        "NRY-018",
+        "NRY-021",
+        "NRY-022",
+        "NRY-027",
+        "NRY-028",
+        "NRY-029",
+        "NRY-030"
+      ],
+      "shared_docs": [
+        "docs/true-ascension.md",
+        "docs/spiritual/aeons-and-archons.md",
+        "docs/spiritual/book-of-signs-study.md"
+      ],
+      "privacy": "No named-person archetype case histories, diagnoses or personal reflection extracts."
+    },
+    {
+      "id": "church-community",
+      "name": "Church and community foundation",
+      "branch": "program/church-community",
+      "root": "programs/church-community/README.md",
+      "status": "HISTORICAL-DRAFT-AND-FOUNDATION",
+      "scope": "Author's integrative whole-system Church foundation, voluntary participation, historical Indiana formation language, governance concepts.",
+      "source_ids": [
+        "NRY-023"
+      ],
+      "shared_docs": [
+        "docs/FOUNDATION.md",
+        "docs/church.md",
+        "docs/EDITORIAL_AUTHORITY.md"
+      ],
+      "privacy": "No assertion of legal filing, incorporation, clergy, current facilities or organizational operation."
+    },
+    {
+      "id": "youth-camp",
+      "name": "Naijin-Ryū youth summer camp",
+      "branch": "program/youth-camp",
+      "root": "programs/youth-camp/README.md",
+      "status": "CONCEPT-ONLY",
+      "scope": "Proposed youth overnight camp, educational schedule, supervision and applicable health and safety review.",
+      "source_ids": [
+        "NRY-001",
+        "NRY-002"
+      ],
+      "shared_docs": [
+        "docs/organization/program-concepts.md",
+        "docs/research-evidence.md"
+      ],
+      "privacy": "No minors' information, enrollment, contact details, participant records, or implied permission to operate."
+    },
+    {
+      "id": "horror-immersion",
+      "name": "Immersive horror program",
+      "branch": "program/horror-immersion",
+      "root": "programs/horror-immersion/README.md",
+      "status": "CONCEPT-ONLY",
+      "scope": "Proposed fall/winter immersive narrative experience, participant consent, adult/age boundaries, opt-outs and safeguarding.",
+      "source_ids": [
+        "NRY-001",
+        "NRY-002"
+      ],
+      "shared_docs": [
+        "docs/organization/program-concepts.md",
+        "docs/research-evidence.md"
+      ],
+      "privacy": "No coercive stress designs, participant private information or implied operational approval."
+    },
+    {
+      "id": "dojo-facilities",
+      "name": "Dojo and facilities development",
+      "branch": "program/dojo-facilities",
+      "root": "programs/dojo-facilities/README.md",
+      "status": "CONCEPT-ONLY",
+      "scope": "Dojo facility and extension concept, functional requirements, non-identifying accessibility and approval research.",
+      "source_ids": [
+        "NRY-011"
+      ],
+      "shared_docs": [
+        "docs/organization/program-concepts.md",
+        "docs/research-evidence.md"
+      ],
+      "privacy": "No exact site address, floor plan, property ownership claim, personal photos or construction approval assertion."
+    }
+  ]
+}
