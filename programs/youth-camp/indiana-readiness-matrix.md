@@ -1,6 +1,6 @@
 # Indiana youth camp — legal applicability and readiness evidence
 
-**Scope:** a *proposed* Indiana youth summer camp, **not** an existing registered/inspected camp. **Two independent evidence classes** are used: `SOURCE` refers to the author's historical `NRY-001` planning file; `OFFICIAL_EXTERIOR` refers to the Indiana Department of Health website/rule checked on **2026-10-21**. This is a research matrix, not legal advice, not permission to operate, and not an exhaustive compliance checklist.
+**Scope:** a *proposed* Indiana youth summer camp, **not** an existing registered/inspected camp. **Two independent evidence classes** are used: `SOURCE` refers to the author's historical `NRY-001` planning file; `EXTERNAL_GOVERNMENT` refers to the Indiana Department of Health website/rule checked on **2026-10-21**. This is a research matrix, not legal advice, not permission to operate, and not an exhaustive compliance checklist.
 
 ## Critical source correction
 
@@ -17,7 +17,7 @@ Official resources:
 
 | Subject | Relevant evidence or rule | Missing project fact or record | Current disposition |
 | --- | --- | --- | --- |
-| **Youth-camp-rule applicability** | 410 IAC 6-7.2-14's definition (published rule text labels youth camp) | Actual continuous duration, children/ages, overnight arrangements, accompanying adults, site | **UNKNOWN — must decide based on facts** |
+| **Youth-camp-rule applicability** | 410 IAC 6-7.2-14, the definition of youth camp | Actual continuous duration, children/ages, overnight arrangements, accompanying adults, site | **UNKNOWN — must decide based on facts** |
 | **Construction / alteration** | Rule §15 describes advance plan review for building/additions/significant changes at a youth camp | Specific property, architect/engineer plans, intended changes and government decision | **NOT VERIFIED** |
 | **Designated supervision** | Rule §16 describes responsible designated adult at a camp in session | Who is appointed, present and accountable | **NOT VERIFIED** |
 | **Health and incident process** | Rule §§17, 20 describe health supervision, screening, records and incident documentation | Authorized personnel, private records processes and implementation | **NOT VERIFIED** |
