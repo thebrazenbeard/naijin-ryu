@@ -1,7 +1,10 @@
 __pycache__/
 *.py[cod]
 .ingest/
+temp_auto_push.bat
 .naijin-private/
 *intake-manifest-private.json
 *review-outline-private.json
 *roots-foundation-private.json
+.gitignore
+branch_structure.json
