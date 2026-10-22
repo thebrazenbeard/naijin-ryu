@@ -15,9 +15,14 @@ This is a **re-entry week**, appropriate for assessing current conditioning afte
 
 **Environment** is an awareness theme across all four days: exits, people, obstacles, lighting, footing and the opportunity to avoid a conflict. It does not require simulating a real assault.
 
-## Session A: full 30-minute plan
+## Ready-to-run first-week sessions
 
-See the [ready-to-use Session A](phase-1-session-a.md), which gives exact time blocks, recovery options and a private baseline record.
+- [A — Shock, 30 min](phase-1-session-a.md): gentle shadowboxing, footwork and cardio.
+- [B — Unbalance, 25 min](phase-1-session-b.md): stable stance, supported balance and walking.
+- [C — Reversal, 26 min](phase-1-session-c.md): controlled pivots, choosing exits and easy conditioning.
+- [D — Grapple, 24 min](phase-1-session-d.md): safe positioning, distance and noncontact disengagement.
+
+The public [training registry](../../data/training-restart-week-v1.json) defines the **105 planned minutes across all four sessions**, and [mechanical validator](../../tools/verify_training_restart.py) checks that segment times align with their respective documents. This is a proposed menu, not a requirement to finish 105 minutes in a week. The [progression gates](phase-1-progression-gates.md) decide whether to repeat, simplify or adjust training.
 
 ## Adjusting instead of escalating blindly
 
