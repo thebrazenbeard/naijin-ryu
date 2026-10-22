@@ -18,6 +18,10 @@
 | Solo-intensive syllabus, **NRY-010** | Phase 1–4 individualized itinerary | Historical individualized variant; no generalized training prescription | [Calendar reconciliation](../../docs/curriculum.md) | **SOURCE** variant; not a standard student requirement |
 | Stance compilation, **NRY-016** | Original stance PDF | Posture families and terminology | [Working Phase 1](../../docs/training/8-week-foundation.md) | **SOURCE**; injury-specific modifications require qualified review |
 
+## Course expansion, not a new primary source
+
+The [full eight-week Phase 1 solo course](phase-1-eight-week-course.md) and its [structured registry](../../data/training-phase1-eight-week-v1.json) provide 32 editorial noncontact sessions. They preserve **NRY-013**'s four day-pillar identities and week count, but deliberately replace the manuscript's contact techniques with low-risk solo positioning, aerobic and decision-making exercises. The [instructor observation aid](phase-1-instructor-observation.md) cannot certify the source's throws, locks, strikes, ukemi or ranks. **These additions are not direct source quotations.**
+
 ## What the public plans change (editorial only)
 
 The original Phase 2 and Phase 3 descriptions prescribe increasingly complex techniques and physical pressure. **These derivative public plans deliberately substitute noncontact, consent-based learning objectives** where replicating original procedures would create undue risk. This is an editorial safety filter, **not** a claim that the original manuscript itself contained every substitute.
