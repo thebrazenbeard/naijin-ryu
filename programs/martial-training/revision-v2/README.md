@@ -1,6 +1,6 @@
 # Naijin-Ryū — Proposed Martial System Revision V2
 
-**Status: substantive authored-by-editor proposal; awaiting Patrick's review and adoption decision.** Original NRY manuscripts are retained unchanged; this **does not** claim an existing institute, authorized contact instruction, proven defensive results, issued ranks or current medical advice. Prepared **2026-10-22** from public source maps, original excerpts, external research and a subsequent **bounded fresh re-read on Lappy** after the outage. See [source recheck](SOURCE_RECHECK_2026-10-22.md); it is not a full private-corpus audit.
+**Status: substantive authored-by-editor proposal; awaiting Patrick's review and adoption decision.** Original NRY manuscripts are retained unchanged; this **does not** claim an existing institute, authorized contact instruction, proven defensive results, issued ranks or current medical advice. Prepared **2026-10-22** from public source maps, original excerpts, external research and a subsequent **bounded fresh re-read on Lappy** after the outage. See [source recheck](SOURCE_RECHECK_2026-10-22.md): **30 original source hashes and 71 claim anchors were verified** in separate read-only Lappy checks. It is not a full manuscript semantic or figure audit.
 
 ## Read the revised manual first
 
@@ -37,7 +37,7 @@ The original Naijin-Ryū documents contain **far more real technical material** 
 3. **Outside research:** cautious evidence about analogous sport/clinical risks; **not** Naijin-Ryū validation.
 4. **Operation:** no actual coach, venue, professional review or prospective study is certified by this pull request.
 
-**Adoption sequence:** author reviews C01–C13; extend the now-completed **bounded** source recheck to comprehensive original/edition verification; obtain independent martial/safety review, carefully bounded practical evaluation and *separate* authorization before any merge/publication as adopted rules.
+**Adoption sequence:** author reviews C01–C13; despite **30/30 hash and 71/71 anchor checks**, extend the bounded textual recheck to comprehensive original/edition and figure review; obtain independent martial/safety review, carefully bounded practical evaluation and *separate* authorization before any merge/publication as adopted rules.
 
 If a reviewer suggests throwing away SURGE entirely, require a comparison: does it actually improve learner choice and task performance more than a simpler method? If not, preserving identity cannot be used to manufacture effectiveness.
 
