@@ -14,6 +14,10 @@ SURGE names five linked areas of the Naijin-Ryū martial system:
 
 The manual describes integrating the pillars in sequences, but not every situation requires all five. The **Rule of Tens** proposes no more than ten core techniques per pillar, favoring deep practice over a large unfiltered catalog.
 
+## Proposed critical rewrite (not adopted doctrine)
+
+A newly prepared [SURGE V2 martial rewrite](../programs/martial-training/revision-v2/README.md) retains **Shock, Unbalance, Reversal, Grapple and Environment**, but proposes that **Environment and the ethical decision continuously constrain pillar choice**, rather than treating S→U→R→G→E as a mandatory real-world chain. It treats neurological incapacitation assertions as unverified, makes stance geometry task-specific and calls for supervised falsifiable technique evidence. This is a **proposed editorial revision** under separate review, not a silent change to the original source chapter.
+
 ## Stance framework
 
 `Stances for Naijin-Ryū.pdf` proposes two primary families: **Adaptive Guard Stance (Reactive Neutral)** and **Low Grappling Stance (Close-Quarters Flow)**. Both are presented as mobile foundations, with transitions and adaptation to context instead of a single fixed pose. The illustrations remain in the original source PDF.
