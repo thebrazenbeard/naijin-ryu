@@ -27,6 +27,6 @@ The **Sashes of Dawn** are distinct from the **Six Aeons** of spiritual teaching
 
 ## Force Ladder
 
-The main manual, section VII, describes a staged ethical framework for deciding when to disengage, de-escalate, or use protective action. Its central principle is minimum necessary force and reconsideration when a threat ends. This page records that ethical model without reproducing injurious techniques or representing any use of force as medically harmless.
+The main manual, section VII, describes **five named Force Ladder categories**: **Redirect (Avoid/Deflect)**, **Stun (Momentary Incapacitation)**, **Lock / Pin (Control)**, **Mobility Denial (Tie-Up and Disable Movement)** and **Last Resort — Break (Selective Destruction)**. These are original **descriptive ethical categories**, not scientifically validated injury levels, instructions to escalate, or automatic legal permission. Its governing intent is minimum necessary force and ending action once the threat has ended. The [V2 Force Ladder reconciliation](../programs/martial-training/revision-v2/FORCE_LADDER_V2.md) preserves the source labels while challenging assertions that impacts, restraints, or disabling actions can be reliably harmless.
 
 See also [SURGE](surge.md) and [publication review](REVIEW.md).
