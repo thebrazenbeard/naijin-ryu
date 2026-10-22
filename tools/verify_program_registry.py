@@ -56,10 +56,26 @@ def verify(root: Path) -> dict:
                 ref = (root / relative).resolve()
                 if not ref.is_relative_to(root.resolve()) or not ref.is_file():
                     errors.append("missing-shared-document:" + key)
-        if len(entries) != 6:
+        if len(entries) != 5:
             errors.append("unexpected-workstream-count")
-        if "church-community" not in ids or "youth-camp" not in ids or "horror-immersion" not in ids:
-            errors.append("missing-integrative-or-separated-camp-lanes")
+        if "church-community" not in ids or "youth-camp" not in ids:
+            errors.append("missing-integrative-or-youth-program")
+        if "horror-immersion" in ids:
+            errors.append("unrelated-horror-reclassified-as-naijin-ryu")
+        separate = o.get("non_program_concepts", [])
+        if len(separate) != 1 or separate[0].get("id") != "horror-immersion":
+            errors.append("separate-horror-provenance-not-preserved")
+        else:
+            parked = separate[0]
+            if (parked.get("classification") != "SEPARATE_CONCEPT_NOT_NAIJIN_RYU"
+                    or parked.get("ref_status") != "PARKED_NO_ACTIVE_WORKSTREAM"
+                    or parked.get("existing_git_ref") != "program/horror-immersion"
+                    or parked.get("existing_git_ref") in branches):
+                errors.append("separate-horror-boundary-invalid")
+            if parked.get("source_ids") != ["NRY-001", "NRY-002"]:
+                errors.append("separate-horror-source-mismatch")
+            if parked.get("record") != "programs/horror-immersion/README.md":
+                errors.append("separate-horror-record-mismatch")
     except (KeyError, ValueError, TypeError, OSError) as exc:
         errors.append("registry-read-failure:" + type(exc).__name__)
         entries = []
