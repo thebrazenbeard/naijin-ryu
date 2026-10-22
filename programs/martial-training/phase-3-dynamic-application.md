@@ -6,6 +6,8 @@
 
 The manual schedules five SURGE-theme days plus a **sixth, Saturday integration/sparring day**. Its focus changes from combining principles in Phase 2 to decision-making amid uncertainty and pressure. Source examples include higher-intensity striking, throws and locks under resistance, ground fighting, low-light or weapon-related simulations, and verbal confrontation. The manuscript explicitly addresses **supervision, safety equipment, debriefing, bystanders and restraint when an opponent surrenders**.
 
+**Internal source tension:** the document headlines Phase 3 as weeks **17–24** (eight weeks) yet later discusses **six months of Phase 3-level intensity** and acknowledges longer Phase 3 development in another curriculum. The eight-week plan is the agreed working calendar, not an invented claim that the manuscript is perfectly consistent. See [edition reconciliation](../../docs/curriculum.md).
+
 These descriptions document what was proposed. They do **not** demonstrate safety, certify an instructor, or validate the claim that a person completing week 24 can defend against real threats. The manuscript's physiological performance markers are hypotheses or targets, **not validated universal thresholds**.
 
 ## A non-operational editorial eight-week progression
