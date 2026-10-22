@@ -108,6 +108,6 @@ Disconfirming results, adverse events, disagreements between assessors and parti
 
 > **Reviewer:** Is citing other martial arts literature enough to justify the new SURGE Loop?
 
-**No; accepted.** The SURGE Loop is a **new editorial decision architecture**, proposed because it avoids the unjustified fixed chain. It must be compared with simpler methods before superiority can be claimed.
+**No; accepted.** The SURGE Loop is an **additional editorial decision aid**, not a replacement for an original mandatory tactical sequence: NRY-007 §III says a practitioner **may** combine the pillars in its illustrative flow. The aid and its complexity must be compared with simpler methods before superiority can be claimed.
 
-[Revised manual](NAIJIN_RYU_MARTIAL_MANUAL_V2.md) · [Technique standard](TECHNIQUE_AND_TEST_STANDARD.md) · [Source change ledger](SOURCE_CHANGE_CONTROL.md).
+[Revised manual](NAIJIN_RYU_MARTIAL_MANUAL_V2.md) · [Force Ladder reconciliation](FORCE_LADDER_V2.md) · [Technique standard](TECHNIQUE_AND_TEST_STANDARD.md) · [Source recheck](SOURCE_RECHECK_2026-10-22.md) · [Source change ledger](SOURCE_CHANGE_CONTROL.md).
