@@ -8,7 +8,15 @@ This workstream covers the Naijin-Ryū martial program: the four protected ethic
 
 **Existing guides:** [ethics and ranks](../../docs/ethos-and-progression.md), [SURGE](../../docs/surge.md), [normalized curriculum](../../docs/curriculum.md), [manual chapter guide](../../docs/martial/manual-guide.md), [training logs](../../docs/training/session-templates.md).
 
-**Next research/development:** source-linked teaching outcomes and competence rubrics; accessible student-only practice materials; injury and instructor safeguarding gates; comparison of teaching formats with the original source variants.
+## Course library
+
+- [Phase 1 — eight-week foundation](../../docs/training/8-week-foundation.md): previously established introductory program and source variants.
+- [Phase 2 — Pillar Integration](phase-2-pillar-integration.md): weeks 9–16, five-themed-day source structure with editorial learning evidence.
+- [Phase 3 — Dynamic Application](phase-3-dynamic-application.md): weeks 17–24, six-day source structure and noncontact ethical-pressure alternatives.
+- [Phase 4 — Guardian teaching path](guardian-teaching-path.md): continuing refinement and supervised teaching progression; **not a certification**.
+- [Source-to-course map](source-to-program-map.md): exact manuscript sections, editorial substitutions, privacy and evidence limits.
+
+**Next research/development:** Word/PDF edition alignment for the student manual, quantified curriculum-to-source coverage, externally qualified instructor safeguarding and competence review. These course plans are **not** automatically approved physical training instructions.
 
 **Boundary:** this is a documented training proposal, not a certified school, self-defense efficacy guarantee, medical clearance, or license to use injurious techniques.
 
