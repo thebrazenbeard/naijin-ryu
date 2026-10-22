@@ -87,23 +87,6 @@
       "privacy": "No minors' information, enrollment, contact details, participant records, or implied permission to operate."
     },
     {
-      "id": "horror-immersion",
-      "name": "Immersive horror program",
-      "branch": "program/horror-immersion",
-      "root": "programs/horror-immersion/README.md",
-      "status": "CONCEPT-ONLY",
-      "scope": "Proposed fall/winter immersive narrative experience, participant consent, adult/age boundaries, opt-outs and safeguarding.",
-      "source_ids": [
-        "NRY-001",
-        "NRY-002"
-      ],
-      "shared_docs": [
-        "docs/organization/program-concepts.md",
-        "docs/research-evidence.md"
-      ],
-      "privacy": "No coercive stress designs, participant private information or implied operational approval."
-    },
-    {
       "id": "dojo-facilities",
       "name": "Dojo and facilities development",
       "branch": "program/dojo-facilities",
@@ -118,6 +101,21 @@
         "docs/research-evidence.md"
       ],
       "privacy": "No exact site address, floor plan, property ownership claim, personal photos or construction approval assertion."
+    }
+  ],
+  "non_program_concepts": [
+    {
+      "id": "horror-immersion",
+      "name": "Slasher-movie immersive horror weekend",
+      "classification": "SEPARATE_CONCEPT_NOT_NAIJIN_RYU",
+      "source_ids": [
+        "NRY-001",
+        "NRY-002"
+      ],
+      "record": "programs/horror-immersion/README.md",
+      "existing_git_ref": "program/horror-immersion",
+      "ref_status": "PARKED_NO_ACTIVE_WORKSTREAM",
+      "note": "Appears alongside the youth martial camp in the historical Camps Overview source. Document co-location does not establish doctrinal, operational, or program affiliation. Git ref retained pending independent destination/disposition, not deleted."
     }
   ]
 }
