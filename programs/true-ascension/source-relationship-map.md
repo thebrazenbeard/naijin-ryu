@@ -36,4 +36,4 @@ The exact chronological authorship of ideas across the corpus remains **UNKNOWN*
 3. Document source bibliography claims separately from corroborated history; avoid repeating external traditions as proven direct technical lineage.
 4. Keep personally identifying source materials private unless separately reviewed and explicitly approved for publication.
 
-[Five-module companion](aeon-key-study-companion.md) · [Spiritual practices](../../docs/spiritual/practices.md) · [Church document](../../docs/church.md) · [Publication boundaries](../../docs/REVIEW.md)
+[Five-module companion](aeon-key-study-companion.md) · [Workbook edition audit](aeon-key-edition-audit.md) · [Spiritual practices](../../docs/spiritual/practices.md) · [Church document](../../docs/church.md) · [Publication boundaries](../../docs/REVIEW.md)
