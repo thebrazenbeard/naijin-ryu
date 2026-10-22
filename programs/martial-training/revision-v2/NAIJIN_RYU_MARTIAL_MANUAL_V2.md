@@ -3,7 +3,7 @@
 
 **Status: PROPOSED EDITORIAL REWRITE / NOT AN AUTHOR-ADOPTED EDITION.** 2026-10-22. Authored source texts remain unchanged, and the existing detailed daily schedules are **not replaced** by this proposal. This revision makes the art teachable, testable and ethically consistent without claiming invented combat results. It is not an instructor credential, validated self-defense program or medical clearance.
 
-**Source basis:** NRY-007 main manual §§I–XIII; NRY-013 and NRY-014 SURGE student/Guardian manuals; NRY-012 Phase 1 Fundamentals; NRY-010 founder solo-intensive itinerary; NRY-016 stance study; NRY-009 Phase 1 mental conditioning. This draft was prepared from the publicly indexed source maps and passages read earlier; private originals cannot be freshly rechecked during the current home power outage. Any unresolved exact source wording belongs in the [revision crosswalk](SOURCE_CHANGE_CONTROL.md). The last-resort Clear Intent source remains restricted and outside public instructional drills.
+**Source basis:** NRY-007 main manual §§I–XIII; NRY-013 and NRY-014 SURGE student/Guardian manuals; NRY-012 Phase 1 Fundamentals; NRY-010 founder solo-intensive itinerary; NRY-016 stance study; NRY-009 Phase 1 mental conditioning. This draft was prepared from the publicly indexed source maps and passages read earlier; the original manuals were **subsequently reopened in a bounded 2026-10-22 source recheck**, documented in [Source Recheck](SOURCE_RECHECK_2026-10-22.md). This is not a complete 30-file or figure-by-figure qualification; unresolved wording belongs in [revision change control](SOURCE_CHANGE_CONTROL.md). The last-resort Clear Intent source remains restricted and outside public instructional drills.
 
 ---
 
@@ -50,7 +50,11 @@ Practice deliberately; protect the training partner; make corrections without hu
 3. **Check:** did distance increase, the threat cease, a path open, or a bystander become endangered?
 4. **Stop / change:** do not continue because a prescribed sequence has more steps. Reassess after every meaningful change; seek emergency assistance when appropriate.
 
-**Falsification question:** If the best outcome is achieved at the first step, is continuing through Unbalance, Reversal and Grapple justified? **No.** SURGE is a vocabulary for available problems and responses, not an obligation to complete a five-technique chain.
+**Falsification question:** If the best outcome is achieved at the first step, is continuing through Unbalance, Reversal and Grapple justified? **No.** Importantly, the original manual **does not order an automatic five-technique chain**: NRY-007 §III says a practitioner **may** sequence pillars. The proposed V2 loop simply makes optionality, feedback, stopping and environment more explicit; it is an **editorial refinement**, not a correction of an actual five-step command.
+
+### The original Force Ladder is retained separately
+
+NRY-007 §VII already sets out **Redirect (Avoid/Deflect), Stun (Momentary Incapacitation), Lock / Pin (Control), Mobility Denial (Tie-Up and Disable Movement), Last Resort — Break (Selective Destruction)** as five named categories of escalating force. V2 **preserves that authored structure** in [Force Ladder V2](FORCE_LADDER_V2.md) while rejecting the original source's unsupported assurances that selected impacts are “non-injurious,” or that contact or restraint can be mechanically safe in all circumstances. The Ladder discusses ethical severity; SURGE organizes technical problems. **Neither gives legal permission or requires escalating after an available safe exit.**
 
 ---
 
@@ -70,9 +74,9 @@ The original names remain protected:
 
 **Environment is always active.** It gains a dedicated session in Phase 2 but is not a final action performed after Grapple. Every other pillar is constrained by E.
 
-## 5. Replacing the fixed chain with a conditional map
+## 5. Clarifying the illustrative integration flow with a conditional map
 
-The sequence **S → U → R → G → E** remains a recognizable mnemonic from the sources, not a proven mandatory tactical sequence. The proposed **SURGE Loop** is:
+The source's **illustrative S → U → R → G → E integration flow** is worth teaching as one way to understand how tasks connect; NRY-007 §III says a practitioner **may** take such a path, rather than **must**. It is not a proven optimum against resistance. The **additional proposed SURGE Loop** is:
 
 `ENVIRONMENT + ETHICAL CHECK → CURRENT PROBLEM (S / U / R / G / none) → ACTION → OBSERVE RESULT → EXIT / REASSESS`
 
@@ -257,7 +261,7 @@ If the student cannot safely roll or perform a sprawl because equipment or quali
 
 ## 22. Morning Forge, mental discipline and Evening Stillness
 
-The source includes breath, ukemi, Sun-Sprawl, contemplation and Triad journaling. **Retain those as original founder-centered practices**, optional for others. The separate NRY-009 mental program has **five themed days**, not the same rhythm as the Phase 1 four-day physical program.
+The source includes breath, ukemi, Sun-Sprawl, contemplation and Triad journaling. **Retain those as original founder-centered practices**, optional for others. The separate NRY-009 mental program has **five scheduled days**: **Day 1 Shock, Day 2 Unbalance, Day 3 Reversal, Day 4 Grapple & Environment, Day 5 Environment**. The double Environment appearance is in the original source itself—not an editorial error to smooth away. This mental cycle is not the same rhythm as the Phase 1 four-day physical program.
 
 Teach attention and self-report without claiming that nine breaths specifically “activate the vagus nerve,” that a journal “processes trauma,” or that imagery reliably rewires the amygdala. Such mechanistic or clinical claims require direct, appropriate evidence for the precise method. If reflection causes distress, opting out is valid.
 
