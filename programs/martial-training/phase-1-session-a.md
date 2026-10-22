@@ -10,7 +10,7 @@ Choose an obstacle-free floor and a route where walking or marching is safe. Che
 | --- | --- | --- |
 | **0–5** | Prepare | Easy march or walk; comfortable shoulder and hip motions; ankle mobility; slow increases in temperature and breathing |
 | **5–11** | Balance and footwork | Step forward/back and laterally at low speed; return to comfortable stance between steps; notice shoulders, breathing, center of gravity and footing |
-| **11–19** | Four controlled shadowboxing rounds | Four **90-second** low-intensity rounds, with roughly **30 seconds** easy movement between rounds and time to reset. Work on guard, light straight-hand motions **only if comfortable**, distance, relaxed recoil and stepping away. No power test or injurious targeting |
+| **11–19** | Four controlled shadowboxing rounds | Four **90-second** low-intensity rounds (**6 min**) with three **30-second** easy recovery periods (**1.5 min**) plus about **30 seconds** to reset (8 min total). Work on guard, light straight-hand motions **only if comfortable**, distance, relaxed recoil and stepping away. No power test or injurious targeting |
 | **19–26** | Cardio intervals | Alternate **one minute brisk / one minute easy** three times, then one more comfortable brisk minute. Walking or marching suffices; the faster minutes should still allow recovery and safe conversation |
 | **26–30** | Reset and reflect | Walk easily; settle breath without forced breath-holding; note overall effort, balance, symptoms, and one useful adjustment for the next session |
 
