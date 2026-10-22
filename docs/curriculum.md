@@ -4,6 +4,10 @@
 
 The longer **Curriculum Lattice** in the primary martial manual expresses a slower developmental trajectory; the standalone 6-week Phase 1 is a shorter option. They are retained as **accelerated** and **extended** variants, not erased as errors.
 
+## Proposed revised implementation (not the original edition)
+
+The [V2 phase curriculum](../programs/martial-training/revision-v2/PHASE_CURRICULUM_V2.md) gives an **editorial, task- and evidence-based** 24-week teaching framework while keeping the authorized eight/eight/eight-week source rhythm, four/five/six pillar days and the continuing Guardian path. It does not supersede NRY-010's founder itinerary or the six- and twelve-week source variants, and it does not establish contact skill or rank by attendance. Its technical rationale is in the [proposed full martial rewrite](../programs/martial-training/revision-v2/README.md).
+
 ## Working course sequence
 
 | Stage | Duration | Typical weekly practice | Developmental focus |

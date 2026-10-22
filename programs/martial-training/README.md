@@ -8,6 +8,10 @@ This workstream covers the Naijin-Ryū martial program: the four protected ethic
 
 **Existing guides:** [ethics and ranks](../../docs/ethos-and-progression.md), [SURGE](../../docs/surge.md), [normalized curriculum](../../docs/curriculum.md), [manual chapter guide](../../docs/martial/manual-guide.md), [training logs](../../docs/training/session-templates.md).
 
+## Proposed rewrite of the martial system (2026-10-22)
+
+**[Read the complete Naijin-Ryū / SURGE V2 technical rewrite](revision-v2/README.md)**. This is a substantial, **not-yet-author-adopted** replacement proposal: full [martial manual](revision-v2/NAIJIN_RYU_MARTIAL_MANUAL_V2.md), [24-week teaching curriculum](revision-v2/PHASE_CURRICULUM_V2.md), [technique/testing standard](revision-v2/TECHNIQUE_AND_TEST_STANDARD.md), [external research and medical claim corrections](revision-v2/RESEARCH_AND_CLAIMS.md), and [source-by-source decision ledger](revision-v2/SOURCE_CHANGE_CONTROL.md). Original source manuscripts remain unchanged and outrank V2 on **what the author originally wrote**; V2 is a contestable revision, not an independent physical qualification or permit to operate.
+
 ## Start with the original training programs
 
 **[Original training schedules — start here](original-training-schedules.md).** Naijin-Ryū already has a detailed, source-authored founder-oriented **daily solo-intensive itinerary**, a distinct **six-week Fundamentals manual**, the **24-week Phases of SURGE student manual**, and the main martial manual's alternative lattice. These are the actual authored training programs, with physical methods, conditioning, reflection, recovery and evaluation.
