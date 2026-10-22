@@ -16,7 +16,7 @@ The manual describes integrating the pillars in sequences, but not every situati
 
 ## Proposed critical rewrite (not adopted doctrine)
 
-A newly prepared [SURGE V2 martial rewrite](../programs/martial-training/revision-v2/README.md) retains **Shock, Unbalance, Reversal, Grapple and Environment**, but proposes that **Environment and the ethical decision continuously constrain pillar choice**, rather than treating S→U→R→G→E as a mandatory real-world chain. It treats neurological incapacitation assertions as unverified, makes stance geometry task-specific and calls for supervised falsifiable technique evidence. This is a **proposed editorial revision** under separate review, not a silent change to the original source chapter.
+A newly prepared [SURGE V2 martial rewrite](../programs/martial-training/revision-v2/README.md) retains **Shock, Unbalance, Reversal, Grapple and Environment**, but proposes that **Environment and the ethical decision continuously constrain pillar choice**, rather than treating S→U→R→G→E as a mandatory real-world chain. The **original** NRY-007 §III already uses an illustrative flow (“may”), not a five-step obligation. V2 clarifies decision-making rather than correcting a nonexistent mandate; it also restores the [original five-rung Force Ladder](../programs/martial-training/revision-v2/FORCE_LADDER_V2.md), treats neurological incapacitation assertions as unverified, makes stance geometry task-specific and calls for supervised falsifiable technique evidence. This is a **proposed editorial revision** under separate review, not a silent change to the original source chapter.
 
 ## Stance framework
 
