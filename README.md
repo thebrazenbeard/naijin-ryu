@@ -6,7 +6,7 @@ Its martial framework is **SURGE**: **Shock, Unbalance, Reversal, Grapple, Envir
 
 ## Choose how to explore Naijin-Ryū
 
-**[Start here: complete-system reader guide](docs/START_HERE.md).** It offers distinct voluntary routes into martial training, True Ascension, the shared worldview, source history and future program planning. For a concrete, short introduction across the domains, use the [four-session orientation](docs/ORIENTATION_PATH.md). The [whole-system relationship map](docs/SYSTEM_COHERENCE.md) distinguishes authored values, practices, and **unverified organizational proposals**. The [current improvement register](docs/WHOLE_SYSTEM_BACKLOG.md) identifies the next meaningful work and evidence gaps.
+**[Start here: complete-system reader guide](docs/START_HERE.md).** It offers distinct voluntary routes into martial training, True Ascension, the shared worldview, source history and future program planning. For a concrete, short introduction across the domains, use the [four-session orientation](docs/ORIENTATION_PATH.md). The [whole-system relationship map](docs/SYSTEM_COHERENCE.md) distinguishes authored values, practices, and **unverified organizational proposals**. The [current improvement register](docs/WHOLE_SYSTEM_BACKLOG.md) identifies the next meaningful work and evidence gaps, and the [source traceability audit](docs/SOURCE_TRACEABILITY_GAPS.md) shows which parts of the original corpus remain thinly indexed.
 
 The author regards the *Church of Ascension Foundational Document Package* as the best existing **umbrella description of the whole**. It does **not** require Church membership, literal metaphysical assent or martial participation, and it does **not** establish that the historical institutional draft was ever filed or activated.
 
