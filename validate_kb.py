@@ -91,8 +91,19 @@ try:
 except (OSError, KeyError, ValueError, TypeError) as exc:
     claim_check = {"claims": 0, "declared_anchors": 0}
     errors.append("invalid source claim register: " + type(exc).__name__)
+# Validate program workstream registry; branch-ref existence is checked via GitHub separately.
+try:
+    from tools.verify_program_registry import verify as check_programs
+    program_check = check_programs(root)
+    for error in program_check["errors"]:
+        errors.append("program registry: " + error)
+except (OSError, ValueError, KeyError, TypeError) as exc:
+    program_check = {"workstreams": 0}
+    errors.append("invalid program registry: " + type(exc).__name__)
+
 result = {"markdown_files": len(markdown), "links_checked": links_checked,
           "cataloged_uploads": len(records), "source_claims": claim_check["claims"],
-          "source_anchors_declared": claim_check["declared_anchors"], "errors": errors}
+          "source_anchors_declared": claim_check["declared_anchors"],
+          "program_workstreams": program_check["workstreams"], "errors": errors}
 print(json.dumps(result, ensure_ascii=False, indent=2))
 sys.exit(1 if errors else 0)
