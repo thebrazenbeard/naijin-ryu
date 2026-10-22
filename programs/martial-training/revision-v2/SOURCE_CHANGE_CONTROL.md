@@ -2,7 +2,7 @@
 
 **Status:** PROPOSED EDITORIAL CHANGE CONTROL. This is the authoritative **map of what this branch changes**, not a new source document and not an assertion that the original manuscript was wrong about its own words. Original source assets and all their source IDs remain unmodified. The author requested a rewrite following a hostile, research-based review on 2026-10-22; author acceptance of the particular rewritten content has **not** yet been recorded.
 
-**Fresh-read limitation:** The source corpus is held privately on machines reported offline during a power outage. This branch relies on existing GitHub source registers, exact source sections already indexed, and prior in-conversation source excerpts. It has **not** independently rehashed or re-compared every original page during this edit. Numerical or anatomical claims not freshly verified are marked for check, not silently asserted.
+**Fresh-read evidence update (2026-10-22):** Lappy became accessible after the outage. NRY-007, NRY-009 and NRY-013 Word outlines and selected NRY-010/012/014/016 PDF pages were **reopened read-only**. See the precisely scoped [primary-source recheck](SOURCE_RECHECK_2026-10-22.md). This establishes source wording for the identified sections, **not** exhaustive 30-file hash validation, Word/PDF graphical identity, biomechanics or clinical truth.
 
 ## 1. Protected authorship: what the rewrite does not change
 
@@ -10,12 +10,14 @@
 | --- | --- | --- | --- |
 | **NRY-007 §I — Four ethics** | Guard Life, Not Ego; Centerline Ascension; Shadow Integration; Skill as Sacrament | [Manual Part I](NAIJIN_RYU_MARTIAL_MANUAL_V2.md) | **Retain authored principles**; give them observable training implications |
 | **NRY-007 §§II–III — Sashes and SURGE** | Five Sashes (Charcoal, Brown, Green, Blue, White-Flare), no black belt; five pillars Shock, Unbalance, Reversal, Grapple, Environment | [Manual Parts II, VI](NAIJIN_RYU_MARTIAL_MANUAL_V2.md) | **Retain original names**; do not equate Sashes, pillars or the Six Aeons |
+| **NRY-007 §III — Integration Flow** | An **illustrative** S→U→R→G→E flow that a practitioner **may** use, not an explicit universal mandate | [Manual §5](NAIJIN_RYU_MARTIAL_MANUAL_V2.md) | **Retain author's example**; V2's conditional loop is an optional extra framework requiring testing |
+| **NRY-007 §VII — Force Ladder** | Five named rungs from Redirect through Last Resort | [Force Ladder reconciliation](FORCE_LADDER_V2.md) | **Retain all five labels**; dispute unsupported harm-free assumptions without substituting an unrelated doctrine |
 | **NRY-007 §III — Rule of Tens** | Limit cluttered core technical vocabulary | [Technique Standard](TECHNIQUE_AND_TEST_STANDARD.md) | **Retain up to ten**, reject filling empty slots or assuming fifty validated techniques |
 | **NRY-016 — Stance families** | Adaptive Guard / Reactive Neutral and Low Grappling / Close-Quarters Flow | [Manual Part III](NAIJIN_RYU_MARTIAL_MANUAL_V2.md) | **Retain**, change prescriptive angles and widths to testable individual ranges |
 | **NRY-013 — Four-phase student/Guardian structure** | Phase 1 four days, Phase 2 five days, Phase 3 six days, continuing Guardian; Environment awareness early then dedicated day | [Phase curriculum](PHASE_CURRICULUM_V2.md) | **Retain source rhythm**, separate planned attendance from actual physical qualifications |
 | **NRY-010 — Solo-Intensive source** | Founder-specific Morning Forge, pillar training, Evening Stillness, recovery and journals | [Phase curriculum](PHASE_CURRICULUM_V2.md) | **Retain as original personal program**, not universal medical or spiritual requirement |
 | **NRY-012 / NRY-007 §IV — alternate schedules** | Six-week version, extended foundation and the main manual's other implementation | [Curriculum comparisons](../original-training-schedules.md) | **Preserve separate editions**, do not claim one historically superseded another |
-| **NRY-009 — five mental pillar themes** | Five mental themes coexist with four early physical training days | [Manual Part VII](NAIJIN_RYU_MARTIAL_MANUAL_V2.md) | **Retain**, label physiological mechanisms as hypotheses unless supported |
+| **NRY-009 — five mental scheduled days** | Day 1 Shock, Day 2 Unbalance, Day 3 Reversal, **Day 4 Grapple & Environment**, Day 5 Environment, distinct from four physical days | [Manual Part VII](NAIJIN_RYU_MARTIAL_MANUAL_V2.md) | **Retain exact dual-theme Day 4** and label physiological mechanisms as unverified claims |
 | **NRY-023 — optionality context** | The whole-system Church package expressly permits differing interpretations and optional somatic participation | [Manual §1](NAIJIN_RYU_MARTIAL_MANUAL_V2.md) | **Respect**, never require spiritual assent for martial rank |
 | **Restricted last-resort sources NRY-003/004** | Separate historical high-consequence material | [Manual §26](NAIJIN_RYU_MARTIAL_MANUAL_V2.md) | **Do not publish operational detail** or treat White-Flare as automatic entitlement |
 
@@ -23,7 +25,7 @@
 
 | Change ID | Original theme as already indexed | Proposed V2 revision | Why it matters | Evidence / approval still needed |
 | --- | --- | --- | --- | --- |
-| **C01** | SURGE often depicted as S→U→R→G→E combination | **Environment and ethics continuously constrain** choice of any or no pillar; every step re-evaluated | Better accommodates disengagement, changing range, unanticipated outcomes | Author review + comparative decision-task study |
+| **C01** | NRY-007 §III **illustrates** S→U→R→G→E as a possible flow and says the practitioner **may** use it | **Preserve source's example**; add an explicitly **optional V2** environment/ethics feedback aid to choose any or no pillar | Clarifies decision-making without misrepresenting an existing mandate | Author review + comparison against simpler notice/leave/help guidance |
 | **C02** | Shock's fast stun / physiological language | Describe **movement, timing and risk**, never benign neurological guarantee | Head impact is not harmless or reliably predictable | Full original phrase review + expert safety review; [external evidence](RESEARCH_AND_CLAIMS.md) |
 | **C03** | Unbalance leverage versus power | Preserve kuzushi while rejecting “always defeats size/strength” absolutes | A realistic counterexample can be documented | Coached, safe and appropriately controlled partner tasks |
 | **C04** | Reversal lock/redirect flows | Teach **recognition, movement, abandoning failed options**, with actual locks limited to qualified review | Cooperation in demonstration does not establish resistance competency | Contact and coaching qualification |
@@ -35,6 +37,7 @@
 | **C10** | Mental practices described with neural certainty | Keep optional rituals; **do not promise clinical or neural outcomes** | Avoids unsupported treatment claims and coerced disclosure | Targeted clinical/mechanistic evidence |
 | **C11** | Technical drills sometimes imply guaranteed self-defense | Assess precisely bounded **training tasks**; test against simpler methods and independent observers | Avoids circular success criteria | Qualified pilots with ethical governance |
 | **C12** | Restricted advanced techniques connected to rank | Explicitly **detach** last-resort material from automatic Sash curriculum | Honors public safety, ethics and source custody | Separate authorized professional treatment only |
+| **C13** | NRY-007 §VII already has a **five-rung Force Ladder**, omitted in first V2 draft | **Restore all five source names** in a [public conceptual reconciliation](FORCE_LADDER_V2.md), without operationally dangerous instruction | Prevents a broad “notice/choose” loop from erasing authored ethical organization | Author, qualified safety and legal review before operational implementation |
 
 These rows are **proposals**, not replacements applied to archival Word/PDF originals.
 
@@ -57,7 +60,7 @@ These rows are **proposals**, not replacements applied to archival Word/PDF orig
 
 **SUPPLEMENTARY:** short 25–30-minute return-to-practice cards in PR #5 are **later generic or noncontact derivative workouts**. They do not replace the original detailed technical curriculum and must never be used to pretend it has been fully taught.
 
-**ADOPTION:** a future author decision could explicitly accept some/all C01–C12 and publish an adopted edition, with version history and separately qualified physical procedures. Merge to `main` would be a distinct technical/governance act, and is not requested or implied by saving this GitHub draft.
+**ADOPTION:** a future author decision could explicitly accept some/all C01–C13 and publish an adopted edition, with version history and separately qualified physical procedures. Merge to `main` would be a distinct technical/governance act, and is not requested or implied by saving this GitHub draft.
 
 ## 5. Qualification and release checklist
 
@@ -65,10 +68,11 @@ These rows are **proposals**, not replacements applied to archival Word/PDF orig
 - [x] Original source identifiers and named rank/phase structures preserved.
 - [x] Research links supplied with boundaries; no generic “studies prove SURGE” statement.
 - [x] Restricted last-resort procedures not reprinted.
-- [ ] Full primary corpus and technical table recheck **after offline machines return**, with private hash-verification as necessary.
+- [x] **Bounded** re-read of named source sections on Lappy after power restoration; see [documented source recheck](SOURCE_RECHECK_2026-10-22.md).
+- [ ] Full **30-source** private hash verification, cross-edition visuals and complete technical-table audit (bounded recheck is not this).
 - [ ] Independent martial technique and teaching review.
 - [ ] Qualified injury, concussion, neck/ground contact and fall-risk review for any future actual class.
-- [ ] Author reviews **each C01–C12 substantive decision**, accepts/modifies/rejects it.
+- [ ] Author reviews **each C01–C13 substantive decision**, accepts/modifies/rejects it.
 - [ ] Actual tests of representative low-risk tasks; comparison against simpler alternative instruction.
 - [ ] Additional school governance, insurance, legal and youth-safeguarding review if any program will operate.
 - [ ] Separate explicit authorization to integrate to `main`; verify exact head after merge.
