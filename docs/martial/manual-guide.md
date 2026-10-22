@@ -2,6 +2,10 @@
 
 **Source:** `Naijin-Ryū Manual .docx` (SHA-256 `de246912fd43…`), thirteen numbered sections, inspected directly. This is a **navigation and editorial synthesis**, not a replacement for the original source and not a technique manual.
 
+## Critical rewritten candidate (distinct from the primary manuscript)
+
+The complete [proposed Naijin-Ryū Martial Manual V2](../../programs/martial-training/revision-v2/NAIJIN_RYU_MARTIAL_MANUAL_V2.md), with [source-change ledger](../../programs/martial-training/revision-v2/SOURCE_CHANGE_CONTROL.md), revises interpretations of tactical sequencing, technical selection, coaching, assessment and unsupported physiological claims. This proposal is **not** the original manual, an adoption decision, a verified system or permission to reproduce restricted techniques. The chapter index below describes the historical author text, not the revised candidate.
+
 ## Chapters I–IV: foundations
 
 **I. Core Ethos and Philosophical Grounding.** Four non-negotiable stated principles: Guard Life, Not Ego; Centerline Ascension; Shadow Integration; Skill as Sacrament. The source links practice to compassion and self-mastery.
