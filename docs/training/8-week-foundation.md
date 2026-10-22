@@ -17,7 +17,7 @@
 
 ## Ready-to-use introductory sessions
 
-For a participant **resuming physical training**, the martial workstream offers a [first-week restart plan](../../programs/martial-training/phase-1-restart-week.md) and a [30-minute solo Session A](../../programs/martial-training/phase-1-session-a.md), with a [private log template](../../programs/martial-training/restart-session-log.md). These are **editorial adaptations** of this source-grounded framework, not a rewriting of the original Word/PDF manuals. Personal injury modifications require individual guidance; do not store a participant's history in this repository.
+For a participant **resuming physical training**, the martial workstream offers a [first-week restart plan](../../programs/martial-training/phase-1-restart-week.md) and four [ready-to-run solo sessions](../../programs/martial-training/phase-1-restart-week.md), [weeks 1–8 progression gates](../../programs/martial-training/phase-1-progression-gates.md), with a [private log template](../../programs/martial-training/restart-session-log.md). These are **editorial adaptations** of this source-grounded framework, not a rewriting of the original Word/PDF manuals. Personal injury modifications require individual guidance; do not store a participant's history in this repository.
 
 ## Training day themes
 
