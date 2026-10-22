@@ -42,9 +42,23 @@ The principal external references in V2 were independently looked up on the open
 
 These verified sources justify **caution and testing**, not naming Naijin-Ryū “validated.”
 
+## Fresh private-source and repository verification receipt
+
+After this bounded read, a **disposable, clean Git checkout** on Lappy ran the repository validators against the private, authorized original source folder and local intake manifest:
+
+| Evidence gate | Direct result |
+| --- | --- |
+| `validate_kb.py` | **PASS**: 68 Markdown files, 509 internal links, 35 claims, 71 declared anchors, zero errors |
+| `python -m unittest discover -s tests -q` | **PASS**: 38 unit tests, zero failures/errors |
+| `tools/verify_phase1_course.py` | **PASS**: all 32 session maps |
+| `tools/verify_claim_anchors.py` | **PASS**: 71 of 71 private text anchors |
+| `tools/verify_private_intake.py` | **PASS**: 30 of 30 original file hashes, 9 restricted originals; zero errors |
+
+The machine-reported `bytes_rechecked: 30` is the verifier's **file-count field**, not a claim that the corpus contains thirty physical bytes. Each command reported exit code **0**. Files were only read or hashed, not edited or released. These checks establish **unchanged original bytes against the existing private manifest** and the mechanically verifiable claim anchors; they **do not** settle the safety/accuracy of every premise, external citation, private image, or physical technique.
+
 ## What remains incomplete
 
-- No full Word/PDF visual equivalence review, source-private figure audit or re-verification of every one of 30 original files by this page.
+- Private **hashes of all 30 originals are now verified** against the existing intake manifest; this is not a fresh file-by-file substantive audit. No full Word/PDF visual equivalence review or source-private figure audit has been done.
 - No independent practitioner has observed the proposed V2 movements or examined claims about real-world protective outcomes.
 - The original §XII technique syllabus includes high-risk portions, and this public review **does not reproduce or qualify** them.
 - Nothing in this reading alone establishes legal authority, teacher/sash status, or implemented classes.
