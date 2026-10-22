@@ -6,7 +6,7 @@
 
 **Source-preserved:** Phase 1 Fundamentals Activation (weeks 1–8, 4 pillar days); Phase 2 Pillar Integration (weeks 9–16, 5 pillar days including dedicated Environment); Phase 3 Dynamic Application (weeks 17–24, six days including an integration/sparring theme); Phase 4 Guardian's Path. Four primary early pillars S/U/R/G and E awareness; source technical families include palm-heel / elbow concepts, off-balancing/kuzushi, redirection/pivots, clinch/ground concepts and adaptive environmental attention. The individualized NRY-010 also specifies daily **Morning Forge (~30 minutes)**, main session **approximately 60–90 minutes** in Phase 1, Evening Stillness and recovery days. Other source editions differ and are retained.
 
-**Rewritten:** A day is organized around a *task and evidence*, not a promise of neurological incapacitation or a choreographed five-pillar response. Risk is gated by the actual coach, space and student. A four-day Phase 1 week need not mandate five mental-conditioning sessions; NRY-009 remains a separate optional five-theme source.
+**Rewritten:** A day is organized around a *task and evidence*, not a promise of neurological incapacitation or a choreographed five-pillar response. Risk is gated by the actual coach, space and student. A four-day Phase 1 week need not mandate five mental-conditioning sessions; NRY-009 has its own five-day structure: **Day 4 Grapple & Environment** and **Day 5 Environment** both occur in the source. This duplication is authored, not a clerical error to normalize away.
 
 ## 1. Class framework (default teaching template, not source timing)
 
