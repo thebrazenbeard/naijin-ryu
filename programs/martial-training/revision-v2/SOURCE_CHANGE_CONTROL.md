@@ -2,7 +2,7 @@
 
 **Status:** PROPOSED EDITORIAL CHANGE CONTROL. This is the authoritative **map of what this branch changes**, not a new source document and not an assertion that the original manuscript was wrong about its own words. Original source assets and all their source IDs remain unmodified. The author requested a rewrite following a hostile, research-based review on 2026-10-22; author acceptance of the particular rewritten content has **not** yet been recorded.
 
-**Fresh-read evidence update (2026-10-22):** Lappy became accessible after the outage. NRY-007, NRY-009 and NRY-013 Word outlines and selected NRY-010/012/014/016 PDF pages were **reopened read-only**. See the precisely scoped [primary-source recheck](SOURCE_RECHECK_2026-10-22.md). This establishes source wording for the identified sections, **not** exhaustive 30-file hash validation, Word/PDF graphical identity, biomechanics or clinical truth.
+**Fresh-read evidence update (2026-10-22):** Lappy became accessible after the outage. NRY-007, NRY-009 and NRY-013 Word outlines and selected NRY-010/012/014/016 PDF pages were **reopened read-only**. See the precisely scoped [primary-source recheck](SOURCE_RECHECK_2026-10-22.md). This establishes source wording for the identified sections, **together with separate Lappy checks confirming 30/30 unchanged source hashes and 71/71 claim anchors**; it is still **not** Word/PDF graphical identity, full technical reading, biomechanics or clinical truth.
 
 ## 1. Protected authorship: what the rewrite does not change
 
@@ -50,7 +50,7 @@ These rows are **proposals**, not replacements applied to archival Word/PDF orig
 - NRY-016 contains source prose and stance diagrams; exact illustrations are **not being modified** by this PR, and their generated replacement art should not be mistaken for qualified biomechanics.
 - NRY-010 contains historical personalized rehabilitation milestones; current individual medical capacity cannot be inferred from those timings.
 - The science in the revised manual is cited in [Research and Claims](RESEARCH_AND_CLAIMS.md), but the studies are largely about **related activities**, not SURGE outcome trials.
-- No original source content, personal health/trauma log or exact property/site plans have been released into GitHub.
+- No original source content, personal health/trauma log or exact property/site plans have been released into GitHub. The added public recheck document contains only section identities, source-safe terminology and aggregate verification counts.
 
 ## 4. Meaning of “rewrite” and document priority
 
@@ -69,7 +69,8 @@ These rows are **proposals**, not replacements applied to archival Word/PDF orig
 - [x] Research links supplied with boundaries; no generic “studies prove SURGE” statement.
 - [x] Restricted last-resort procedures not reprinted.
 - [x] **Bounded** re-read of named source sections on Lappy after power restoration; see [documented source recheck](SOURCE_RECHECK_2026-10-22.md).
-- [ ] Full **30-source** private hash verification, cross-edition visuals and complete technical-table audit (bounded recheck is not this).
+- [x] **30 of 30** private source hashes verified against the existing manifest; **71 of 71** claim anchors rechecked on Lappy (see [source receipt](SOURCE_RECHECK_2026-10-22.md)).
+- [ ] Cross-edition visual comparison and complete technical-table interpretation audit; hashing cannot substitute for these.
 - [ ] Independent martial technique and teaching review.
 - [ ] Qualified injury, concussion, neck/ground contact and fall-risk review for any future actual class.
 - [ ] Author reviews **each C01–C13 substantive decision**, accepts/modifies/rejects it.
