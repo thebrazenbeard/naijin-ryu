@@ -30,7 +30,7 @@ Naijin-Ryū is not only a combat syllabus. Its original texts describe multiple 
 
 **Publication boundary:** The inventory includes personal archetype material, historical health references, facility details and last-resort lethal-force instruction. These originals are not openly republished.
 
-**Review priorities:** [whole-system improvement register](WHOLE_SYSTEM_BACKLOG.md), including evidence gaps and a distinction between draft program branches and real institutions.
+**Review priorities:** [whole-system improvement register](WHOLE_SYSTEM_BACKLOG.md) and [source traceability gaps](SOURCE_TRACEABILITY_GAPS.md), including the distinction between raw source admission, anchored interpretation and actual operations.
 
 **Where to go next:** [Eight-week standard](training/8-week-foundation.md) · [Source provenance](provenance.md) · [Full non-operational glossary](glossary.md) · [External evidence review](research-evidence.md) · [Program concepts](organization/program-concepts.md).
 
