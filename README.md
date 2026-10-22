@@ -27,6 +27,10 @@ Its martial framework is **SURGE**: **Shock, Unbalance, Reversal, Grapple, Envir
 | Protected core values and permitted edits | [Editorial authority](docs/EDITORIAL_AUTHORITY.md) |
 | Publication boundaries and remaining qualifications | [Review and publication policy](docs/REVIEW.md) and [validation checklist](docs/VALIDATION.md) |
 
+## Separate program workstreams
+
+The portfolio is organized into [six program workstreams](programs/README.md), each with a named `program/*` Git development branch and a scoped documentation directory. `main` remains the single integrated reference. The [branching model](docs/PROGRAM_BRANCH_MODEL.md) defines reviews, synchronization and publication boundaries; the [program registry](data/program-workstreams.json) is machine readable. A program branch is **a work lane, not proof of active operation, approval or independent legal standing**.
+
 ## The four ethical principles
 
 **Guard Life, Not Ego** · **Centerline Ascension** · **Shadow Integration** · **Skill as Sacrament**
