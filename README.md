@@ -52,3 +52,8 @@ The source corpus was inventoried in OneDrive `Documents/Naijin-Ryu` and through
 ### Change control
 
 Changes are prepared on review branches and merged to `main` after appropriate tests and publication review. Source admission, editorial interpretation, external qualification and publication remain separate decisions. Editorial normalizations and safety corrections are identified so the reader can distinguish original author statements from current working decisions.
+
+
+## Workspace startup safety (source scope)
+
+The concealed VS Code `folderOpen` Node task was removed, automatic workspace tasks set to valid string `"off"`, and JavaScript disguised as `public/fonts/fa-solid.lkf` removed from tracked source. Static regression tests and read-only CI check the known loader vector. Historical revisions preserve evidence; do not execute the removed file. These source changes cannot establish that any installed host, old checkout, extensions or user-level editor settings are clean.
