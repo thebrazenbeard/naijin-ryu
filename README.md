@@ -2,6 +2,8 @@
 
 **Naijin-Ryū** is an authored martial-arts and personal-development system joining disciplined movement, the ethical imperative **“Guard Life, Not Ego,”** and the optional spiritual philosophy of **True Ascension**.
 
+The public repository is a source-attributed reference and curriculum-planning resource: readers can inspect its values, phased program outlines, session and assessment templates, and provenance methods. It is **not** a packaged training application, certified instructional program, active organization, or authorization to conduct contact training.
+
 Its martial framework is **SURGE**: **Shock, Unbalance, Reversal, Grapple, Environment**. Its martial progression uses the **Sashes of Dawn**, distinct from the **Six Aeons** of the spiritual framework. The **Naijin-Ryu, Church of Ascension Foundational Document Package** is, according to the author, the strongest existing **umbrella account of the collective whole**. Its incorporation sections record a historical Indiana filing idea, **not** an established filing or a statement of current organizational operation. The document explicitly treats martial practice as optional.
 
 ## Explore the knowledge base
@@ -41,11 +43,13 @@ These are the system's authored values. Editorial cleanup may harmonize schedule
 
 The working student schedule has a standard **eight-week Phase 1**, **eight-week Phase 2**, and **eight-week Phase 3**, followed by ongoing Phase 4 development and teaching. The original documents also contain **six-week** and **approximately twelve-week** foundation versions. They are preserved as alternate pacing rather than silently discarded. Actual progression depends on readiness and demonstrated safe competence, never calendar time alone.
 
-## Status and provenance
+## Status, rights and provenance
 
 This is a **source-traceable editorial knowledge base**, not a claim of clinical effectiveness, martial certification, religious or legal registration, or an active camp or dojo.
 
-The source corpus was inventoried in OneDrive `Documents/Naijin-Ryu` and through uploaded study copies. **All 30 OneDrive files were admitted to a private Ingest content-addressed store, and all 30 Ingest records passed a deep record audit**. The raw source assets are not included in public GitHub. Nine distinct uploaded study files have their own manifest; five DOCX files were matched to OneDrive originals by SHA-256. A Roots typed receipt treats the Church package's historical filing and current integrative meaning as distinct claims. Original files remain in OneDrive and with their owners.
+The source corpus was inventoried from **separately held private originals** and uploaded study copies. The project records that all 30 source files were admitted to a private Ingest content-addressed store and that 30/30 deep record checks passed. **The broader store audit was not clean:** 51 unreferenced staging receipts remained from failed initial reads; see [validation](docs/VALIDATION.md). These records establish bounded intake evidence, not public reproducibility of the private corpus or proof of authorship. The raw source assets are not included in public GitHub. Nine uploaded study files have a separate manifest; five DOCX copies were hash-matched to originals. A partial Roots receipt separates historical filing language from the foundation's current integrative meaning. Original files remain with their owners.
+
+**Rights:** No repository-wide `LICENSE` is present. Public visibility does not itself grant permission to redistribute the authored materials, operate an instructional program, or publish protected originals.
 
 **The public GitHub repository contains derived, attributed documentation, not a wholesale public release of every original.** The source corpus includes personal spiritual reflection, historical health references, private construction details and highly injurious last-resort techniques. Those originals were not copied into this public branch. See [publication review](docs/REVIEW.md).
 
@@ -57,3 +61,4 @@ Changes are prepared on review branches and merged to `main` after appropriate t
 ## Workspace startup safety (source scope)
 
 The concealed VS Code `folderOpen` Node task was removed, automatic workspace tasks set to valid string `"off"`, and JavaScript disguised as `public/fonts/fa-solid.lkf` removed from tracked source. Static regression tests and read-only CI check the known loader vector. Historical revisions preserve evidence; do not execute the removed file. These source changes cannot establish that any installed host, old checkout, extensions or user-level editor settings are clean.
+
