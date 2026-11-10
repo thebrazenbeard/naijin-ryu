@@ -4,11 +4,17 @@
 
 Its martial framework is **SURGE**: **Shock, Unbalance, Reversal, Grapple, Environment**. Its martial progression uses the **Sashes of Dawn**, distinct from the **Six Aeons** of the spiritual framework. The **Naijin-Ryu, Church of Ascension Foundational Document Package** is, according to the author, the strongest existing **umbrella account of the collective whole**. Its incorporation sections record a historical Indiana filing idea, **not** an established filing or a statement of current organizational operation. The document explicitly treats martial practice as optional.
 
+## Choose how to explore Naijin-Ryū
+
+**[Start here: complete-system reader guide](docs/START_HERE.md).** It offers distinct voluntary routes into martial training, True Ascension, the shared worldview, source history and future program planning. For a concrete, short introduction across the domains, use the [four-session orientation](docs/ORIENTATION_PATH.md). The [whole-system relationship map](docs/SYSTEM_COHERENCE.md) distinguishes authored values, practices, and **unverified organizational proposals**. The [current improvement register](docs/WHOLE_SYSTEM_BACKLOG.md) identifies the next meaningful work and evidence gaps, and the [source traceability audit](docs/SOURCE_TRACEABILITY_GAPS.md) shows which parts of the original corpus remain thinly indexed.
+
+The author regards the *Church of Ascension Foundational Document Package* as the best existing **umbrella description of the whole**. It does **not** require Church membership, literal metaphysical assent or martial participation, and it does **not** establish that the historical institutional draft was ever filed or activated.
+
 ## Explore the knowledge base
 
 | Area | Start here |
 |---|---|
-| The entire system and the author's integrative foundation | [Foundation](docs/FOUNDATION.md) and [knowledge map](docs/KNOWLEDGE_MAP.md) |
+| The entire system and the author's integrative foundation | [Start here](docs/START_HERE.md), [Foundation](docs/FOUNDATION.md), [relationship map](docs/SYSTEM_COHERENCE.md) and [knowledge map](docs/KNOWLEDGE_MAP.md) |
 | Core values, ethical conduct, rank meanings | [Ethos and Sashes of Dawn](docs/ethos-and-progression.md) |
 | Five-pillar martial framework and Rule of Tens | [SURGE](docs/surge.md) and [manual chapter guide](docs/martial/manual-guide.md) |
 | Terminology and equivalent names | [Glossary](docs/glossary.md) |
@@ -29,7 +35,7 @@ Its martial framework is **SURGE**: **Shock, Unbalance, Reversal, Grapple, Envir
 
 ## Separate program workstreams
 
-The Naijin-Ryū portfolio is organized into [five program workstreams](programs/README.md), each with a named `program/*` Git development branch and a scoped documentation directory. The horror-experience concept, although described in the same historical camp document, is **not** a Naijin-Ryū program. `main` remains the single integrated reference. The [branching model](docs/PROGRAM_BRANCH_MODEL.md) defines reviews, synchronization and publication boundaries; the [program registry](data/program-workstreams.json) is machine readable. A program branch is **a work lane, not proof of active operation, approval or independent legal standing**.
+The Naijin-Ryū portfolio is organized into [five distinct development workstreams](programs/README.md), each with a named `program/*` Git development branch and a scoped documentation directory. The horror-experience concept, although described in the same historical camp document, is **not** a Naijin-Ryū program. `main` remains the single integrated reference. The [branching model](docs/PROGRAM_BRANCH_MODEL.md) defines reviews, synchronization and publication boundaries; the [program registry](data/program-workstreams.json) is machine readable. A program branch is **a work lane, not proof of active operation, approval or independent legal standing**.
 
 ## The four ethical principles
 
