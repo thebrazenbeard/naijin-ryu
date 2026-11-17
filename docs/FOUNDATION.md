@@ -4,6 +4,10 @@
 
 The source's umbrella name is connected to the **Naijin-Ryū** martial path and the **True Ascension** spiritual framework. The document does not require that every participant join a church, adopt its metaphysical claims, or practice the martial art. Those distinctions are essential to the whole, not exceptions to it.
 
+## How to use this foundation
+
+For an accessible, choice-based introduction, open [Start Here](START_HERE.md) and the optional [four-session whole-system orientation](ORIENTATION_PATH.md). The [relationship and evidence map](SYSTEM_COHERENCE.md) explicitly separates **authored foundational meaning**, **voluntary practices**, and **historical or proposed institutional operations**. This is a reading distinction, not a new spiritual rank, doctrinal order or corporate structure. The [whole-system backlog](WHOLE_SYSTEM_BACKLOG.md) names evidence gaps and practical next steps.
+
 ## What belongs together
 
 | Component | Core contribution | Primary deeper source |
