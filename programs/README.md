@@ -1,6 +1,6 @@
 # Naijin-Ryū workstreams
 
-This directory describes independent **planning and development subjects** while the public [main repository](../README.md) remains their common integrative reference. Browse [program branch governance](../docs/PROGRAM_BRANCH_MODEL.md) and the [machine-readable workstream registry](../data/program-workstreams.json).
+This directory describes independent **planning and development subjects** while the public [main repository](../README.md) remains their common integrative reference. These are **five work lanes**, not five legal entities, five mandatory spiritual steps or five independently approved public programs. The [whole-system reader guide](../docs/START_HERE.md) and [relationship map](../docs/SYSTEM_COHERENCE.md) put the branches back in their proper conceptual context. Browse [program branch governance](../docs/PROGRAM_BRANCH_MODEL.md) and the [machine-readable workstream registry](../data/program-workstreams.json).
 
 - [Martial arts and SURGE](martial-training/README.md) — `program/martial-training` (source based development)
 - [True Ascension studies and practices](true-ascension/README.md) — `program/true-ascension` (source based development)

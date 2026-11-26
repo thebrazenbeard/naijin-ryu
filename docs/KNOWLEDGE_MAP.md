@@ -1,6 +1,6 @@
 # Knowledge map
 
-Naijin-Ryū is not only a combat syllabus. Its original texts describe multiple linked domains which must remain distinct:
+Naijin-Ryū is not only a combat syllabus. Its original texts describe multiple linked domains which must remain distinct. The [reader's entry routes](START_HERE.md), optional [four-session orientation](ORIENTATION_PATH.md) and [whole-system relationship map](SYSTEM_COHERENCE.md) make those connections navigable without imposing cross-program prerequisites:
 
 | Domain | Primary source | Scope |
 | --- | --- | --- |
@@ -29,6 +29,8 @@ Naijin-Ryū is not only a combat syllabus. Its original texts describe multiple 
 **Sash ≠ Aeon.** Technical-rank progression and stages of spiritual transformation are different systems.
 
 **Publication boundary:** The inventory includes personal archetype material, historical health references, facility details and last-resort lethal-force instruction. These originals are not openly republished.
+
+**Review priorities:** [whole-system improvement register](WHOLE_SYSTEM_BACKLOG.md) and [source traceability gaps](SOURCE_TRACEABILITY_GAPS.md), including the distinction between raw source admission, anchored interpretation and actual operations.
 
 **Where to go next:** [Eight-week standard](training/8-week-foundation.md) · [Source provenance](provenance.md) · [Full non-operational glossary](glossary.md) · [External evidence review](research-evidence.md) · [Program concepts](organization/program-concepts.md).
 
